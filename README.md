@@ -36,7 +36,9 @@ Project Files
 - model_training.py — Model implementation
 - model_testing.py — Test cases
 - model_evaluation.py — Model evaluation
+
+
 Author
-Shwe Phoo Thwel
-NCC Education level 4 Diploma in Business Management with Computing with Merit (GPA 3.6)
-NCC Education Level 5 Diploma in Business Management with Computing — Final Examinations Completed (Results Pending)
+- Shwe Phoo Thwel
+- NCC Education level 4 Diploma in Business Management with Computing with Merit (GPA 3.6)
+- NCC Education Level 5 Diploma in Business Management with Computing — Final Examinations Completed (Results Pending)
