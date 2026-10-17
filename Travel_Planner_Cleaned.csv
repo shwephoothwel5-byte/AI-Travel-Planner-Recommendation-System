@@ -1,0 +1,1026 @@
+Destination_Name,Country,City,Destination_Type,Starting_Point,Distance_km,Travel_Mode,Flight_Transport_Cost_USD,Travel_Duration_Hours,Accommodation_Options,Accommodation_Cost_Per_Night_USD,Recommended_Stay_Days,Top_Attractions,Activity_Cost_USD,Activity_Duration_Hours,Food_Options,Food_Cost_Per_Day_USD,Visa_Required,Visa_Cost_USD,Miscellaneous_Cost_USD,Best_Season,Peak_Season_Cost_Multiplier,Local_Currency,Exchange_Rate_to_USD
+Dubai,UAE,Dubai,City,Dhaka,3700,Flight,600,5,"Budget Hotel,Luxury Hotel",80,7.0,"Burj Khalifa,Desert Safari",30,2.0,"Street Food,Fine Dining",25.0,True,50,40,November-March,1.5,AED,0.27
+Cox's Bazar,Bangladesh,Cox's Bazar,Beach,Dhaka,400,Bus,50,10,"Budget Hotel,Mid-Range Hotel",20,3.0,"Beach,Marine Drive",10,2.0,"Street Food,Restaurant",8.0,False,0,10,November-February,1.4,BDT,0.0091
+Paris,France,Paris,City/Historical,Dhaka,9000,Flight,800,14,"Budget Hotel,Luxury Hotel",100,5.0,"Eiffel Tower,Louvre Museum",25,3.0,"CafÃ©,Fine Dining",30.0,True,60,50,April-June,1.3,EUR,1.08
+Tokyo,Japan,Tokyo,City,Dhaka,5500,Flight,700,11,"Capsule Hotel,Mid-Range Hotel",70,4.0,"Shibuya Crossing,Tsukiji Market",20,2.0,"Street Food,Restaurant",25.0,True,55,40,March-May,1.4,JPY,0.0077
+Sundarbans,Bangladesh,Khulna,Nature,Dhaka,300,Bus+Boat,60,8,"Guesthouse,Tourist Lodge",25,2.0,"Mangrove Forest,Boat Safari",20,4.0,Local Restaurant,10.0,False,0,15,December-March,1.3,BDT,0.0091
+New York,USA,New York,City,Dhaka,12000,Flight,1000,18,"Budget Hotel,Luxury Hotel",150,10.0,"Statue of Liberty,Central Park",50,4.0,"Street Food,Fine Dining",50.0,True,160,100,April-October,1.5,USD,1.0
+Bali,Indonesia,Bali,Beach,Dhaka,4500,Flight,600,8,"Budget Hotel,Luxury Hotel",80,7.0,"Uluwatu Temple,Beaches",30,3.0,"Street Food,Restaurant",25.0,True,50,40,April-October,1.4,IDR,7e-05
+Sydney,Australia,Sydney,City,Dhaka,9000,Flight,900,14,"Budget Hotel,Luxury Hotel",120,7.0,"Sydney Opera House,Bondi Beach",40,4.0,"CafÃ©,Fine Dining",40.0,True,100,60,September-November,1.5,AUD,0.72
+London,UK,London,City/Historical,Dhaka,8000,Flight,850,12,"Budget Hotel,Luxury Hotel",110,7.0,"Big Ben,Buckingham Palace",35,3.0,"Street Food,Restaurant",35.0,True,90,50,April-September,1.4,GBP,1.25
+Rome,Italy,Rome,City/Historical,Dhaka,7500,Flight,800,11,"Budget Hotel,Luxury Hotel",100,7.0,"Colosseum,Roman Forum",30,3.0,"CafÃ©,Fine Dining",30.0,True,80,40,April-June,1.3,EUR,1.08
+Bangkok,Thailand,Bangkok,City,Dhaka,2500,Flight,400,6,"Budget Hotel,Luxury Hotel",50,5.0,"Grand Palace,Wat Arun",20,2.0,"Street Food,Restaurant",20.0,True,40,30,November-February,1.4,THB,0.03
+Singapore,Singapore,Singapore,City,Dhaka,3500,Flight,500,7,"Budget Hotel,Luxury Hotel",60,5.0,"Marina Bay Sands,Gardens by the Bay",25,3.0,"Street Food,Fine Dining",25.0,True,50,35,February-April,1.5,SGD,0.74
+Istanbul,Turkey,Istanbul,City/Historical,Dhaka,5000,Flight,700,9,"Budget Hotel,Luxury Hotel",90,7.0,"Hagia Sophia,Blue Mosque",30,3.0,"Street Food,Restaurant",30.0,True,70,50,April-June,1.4,TRY,0.12
+Mumbai,India,Mumbai,City,Dhaka,2000,Flight,300,5,"Budget Hotel,Luxury Hotel",40,5.0,"Gateway of India,Elephanta Caves",15,2.0,"Street Food,Restaurant",15.0,True,30,20,November-February,1.3,INR,0.013
+Cape Town,South Africa,Cape Town,City,Dhaka,10000,Flight,1000,15,"Budget Hotel,Luxury Hotel",120,7.0,"Table Mountain,Robben Island",40,4.0,"Street Food,Fine Dining",40.0,True,100,60,November-March,1.5,ZAR,0.067
+Rio de Janeiro,Brazil,Rio de Janeiro,City,Dhaka,15000,Flight,1200,20,"Budget Hotel,Luxury Hotel",150,10.0,"Christ the Redeemer,Sugarloaf Mountain",50,5.0,"Street Food,Restaurant",50.0,True,120,80,April-October,1.4,BRL,0.2
+Amsterdam,Netherlands,Amsterdam,City,Dhaka,7000,Flight,750,10,"Budget Hotel,Luxury Hotel",100,7.0,"Van Gogh Museum,Anne Frank House",30,3.0,"CafÃ©,Fine Dining",30.0,True,80,50,April-October,1.3,EUR,1.08
+Barcelona,Spain,Barcelona,City,Dhaka,8000,Flight,800,11,"Budget Hotel,Luxury Hotel",110,7.0,"Sagrada Familia,Park Guell",35,3.0,"Street Food,Restaurant",35.0,True,90,55,April-October,1.4,EUR,1.08
+Vienna,Austria,Vienna,City/Historical,Dhaka,7500,Flight,780,10,"Budget Hotel,Luxury Hotel",100,7.0,"Schonbrunn Palace,Belvedere Palace",30,3.0,"CafÃ©,Fine Dining",30.0,True,80,50,April-October,1.5,EUR,1.08
+Prague,Czech Republic,Prague,City/Historical,Dhaka,7000,Flight,700,9,"Budget Hotel,Luxury Hotel",90,7.0,"Prague Castle,Charles Bridge",25,2.0,"Street Food,Restaurant",25.0,True,70,40,April-October,1.4,CZK,0.044
+Berlin,Germany,Berlin,City,Dhaka,7500,Flight,750,10,"Budget Hotel,Luxury Hotel",100,7.0,"Brandenburg Gate,Reichstag",30,3.0,"CafÃ©,Fine Dining",30.0,True,80,50,April-October,1.3,EUR,1.08
+Madrid,Spain,Madrid,City,Dhaka,8000,Flight,800,11,"Budget Hotel,Luxury Hotel",110,7.0,"Prado Museum,Retiro Park",35,3.0,"Street Food,Restaurant",35.0,True,90,55,April-October,1.4,EUR,1.08
+Lisbon,Portugal,Lisbon,City,Dhaka,8500,Flight,850,12,"Budget Hotel,Luxury Hotel",120,7.0,"Belem Tower,JerÃ³nimos Monastery",40,4.0,"CafÃ©,Fine Dining",40.0,True,100,60,April-October,1.5,EUR,1.08
+Athens,Greece,Athens,City/Historical,Dhaka,6000,Flight,600,8,"Budget Hotel,Luxury Hotel",80,5.0,"Acropolis,Parthenon",25,2.0,"Street Food,Restaurant",25.0,True,60,40,April-October,1.4,EUR,1.08
+Cairo,Egypt,Cairo,City/Historical,Dhaka,5000,Flight,500,7,"Budget Hotel,Luxury Hotel",70,5.0,"Pyramids of Giza,Egyptian Museum",20,2.0,"Street Food,Restaurant",20.0,True,50,30,November-March,1.3,EGP,0.064
+Marrakech,Morocco,Marrakech,City/Historical,Dhaka,7000,Flight,700,10,"Budget Hotel,Luxury Hotel",100,7.0,"Jemaa el-Fnaa,Medina",30,3.0,"Street Food,Restaurant",30.0,True,80,50,March-May,1.5,MAD,0.11
+Dubrovnik,Croatia,Dubrovnik,City/Historical,Dhaka,6000,Flight,600,8,"Budget Hotel,Luxury Hotel",80,5.0,"Dubrovnik Old City,Walls of Dubrovnik",25,2.0,"Street Food,Restaurant",25.0,True,60,40,May-September,1.4,HRK,0.16
+Reykjavik,Iceland,Reykjavik,Nature,Dhaka,10000,Flight,1000,15,"Budget Hotel,Luxury Hotel",150,10.0,"Blue Lagoon,Golden Circle",50,4.0,"Street Food,Restaurant",50.0,True,100,80,June-August,1.5,ISK,0.0078
+Queenstown,New Zealand,Queenstown,Nature,Dhaka,12000,Flight,1200,18,"Budget Hotel,Luxury Hotel",180,10.0,"Milford Sound,Queenstown Gardens",60,5.0,"Street Food,Restaurant",60.0,True,120,100,December-February,1.6,NZD,0.7
+Banff,Canada,Banff,Nature,Dhaka,13000,Flight,1300,20,"Budget Hotel,Luxury Hotel",200,10.0,"Banff National Park,Lake Louise",70,6.0,"Street Food,Restaurant",70.0,True,130,110,June-September,1.7,CAD,0.78
+Kyoto,Japan,Kyoto,City/Historical,Dhaka,5500,Flight,550,11,"Budget Hotel,Luxury Hotel",100,7.0,"Fushimi Inari Shrine,Kinkaku-ji",30,3.0,"Street Food,Restaurant",30.0,True,60,50,March-May,1.4,JPY,0.0077
+Seoul,South Korea,Seoul,City,Dhaka,4500,Flight,450,9,"Budget Hotel,Luxury Hotel",80,5.0,"Gyeongbokgung Palace,N Seoul Tower",25,2.0,"Street Food,Restaurant",25.0,True,50,40,April-June,1.3,KRW,0.00085
+Hong Kong,Hong Kong,Hong Kong,City,Dhaka,3500,Flight,350,7,"Budget Hotel,Luxury Hotel",60,5.0,"Victoria Peak,Star Ferry",20,2.0,"Street Food,Restaurant",20.0,True,40,30,October-December,1.4,HKD,0.13
+Shanghai,China,Shanghai,City,Dhaka,4000,Flight,400,8,"Budget Hotel,Luxury Hotel",70,5.0,"The Bund,Yu Garden",25,2.0,"Street Food,Restaurant",25.0,True,50,40,April-October,1.5,CNY,0.15
+Moscow,Russia,Moscow,City,Dhaka,6000,Flight,600,10,"Budget Hotel,Luxury Hotel",90,7.0,"Red Square,St. Basil's Cathedral",30,3.0,"Street Food,Restaurant",30.0,True,70,50,May-September,1.4,RUB,0.014
+St. Petersburg,Russia,St. Petersburg,City/Historical,Dhaka,6500,Flight,650,11,"Budget Hotel,Luxury Hotel",100,7.0,"Hermitage Museum,Peterhof Palace",35,3.0,"Street Food,Restaurant",35.0,True,80,60,June-August,1.3,RUB,0.014
+Hanoi,Vietnam,Hanoi,City,Dhaka,2500,Flight,250,6,"Budget Hotel,Luxury Hotel",50,5.0,"Hoan Kiem Lake,Old Quarter",20,2.0,"Street Food,Restaurant",20.0,True,40,30,November-March,1.5,VND,4.3e-05
+Ho Chi Minh City,Vietnam,Ho Chi Minh City,City,Dhaka,3000,Flight,300,7,"Budget Hotel,Luxury Hotel",60,5.0,"Cu Chi Tunnels,War Remnants Museum",25,2.0,"Street Food,Restaurant",25.0,True,50,40,December-April,1.4,VND,4.3e-05
+Phuket,Thailand,Phuket,Beach,Dhaka,3000,Flight,300,7,"Budget Hotel,Luxury Hotel",60,5.0,"Phi Phi Islands,Patong Beach",25,2.0,"Street Food,Restaurant",25.0,True,50,40,November-March,1.3,THB,0.03
+Kuala Lumpur,Malaysia,Kuala Lumpur,City,Dhaka,3500,Flight,350,8,"Budget Hotel,Luxury Hotel",70,5.0,"Petronas Towers,Batu Caves",30,2.0,"Street Food,Restaurant",30.0,True,60,50,April-October,1.4,MYR,0.24
+Manila,Philippines,Manila,City,Dhaka,4000,Flight,400,9,"Budget Hotel,Luxury Hotel",80,5.0,"Intramuros,Rizal Park",35,3.0,"Street Food,Restaurant",35.0,True,70,60,November-March,1.5,PHP,0.02
+Jakarta,Indonesia,Jakarta,City,Dhaka,4500,Flight,450,10,"Budget Hotel,Luxury Hotel",90,5.0,"Monas National Monument,Taman Mini",40,3.0,"Street Food,Restaurant",40.0,True,80,70,April-October,1.4,IDR,7e-05
+Kathmandu,Nepal,Kathmandu,City,Dhaka,1500,Flight,150,4,"Budget Hotel,Luxury Hotel",30,5.0,"Pashupatinath Temple,Boudhanath Stupa",10,1.0,"Street Food,Restaurant",10.0,True,20,15,March-May,1.4,NPR,0.0088
+Thimphu,Bhutan,Thimphu,City,Dhaka,2000,Flight,200,5,"Budget Hotel,Luxury Hotel",40,5.0,"Tashichho Dzong,Buddha Dordenma",15,2.0,"Street Food,Restaurant",15.0,True,30,20,October-December,1.5,BTN,0.014
+Male,Maldives,Male,Beach,Dhaka,3000,Flight,300,7,"Budget Hotel,Luxury Hotel",60,5.0,"Male Fish Market,Artificial Beach",25,3.0,"Street Food,Restaurant",25.0,True,50,40,November-March,1.4,MVR,0.065
+Colombo,Sri Lanka,Colombo,City,Dhaka,2000,Flight,200,5,"Budget Hotel,Luxury Hotel",40,5.0,"Sigiriya Rock Fortress,Temple of the Tooth",15,2.0,"Street Food,Restaurant",15.0,True,30,20,December-March,1.3,LKR,0.005
+Sylhet,Bangladesh,Sylhet,Nature,Dhaka,350,Bus,30,6,"Guesthouse,Mid-Range Hotel",25,3.0,"Tea Gardens,Tamabil",10,2.0,"Street Food,Restaurant",10.0,False,0,10,February-April,1.3,BDT,0.0091
+Chittagong,Bangladesh,Chittagong,City,Dhaka,150,Bus,25,4,"Budget Hotel,Mid-Range Hotel",30,3.0,"Patenga Beach,Hill Tracts",15,2.0,"Street Food,Restaurant",12.0,False,0,15,November-February,1.3,BDT,0.0091
+Saint Martinâs Island,Bangladesh,Saint Martinâs Island,Beach,Dhaka,500,Boat,40,12,"Guesthouse,Tourist Lodge",20,2.0,"Coral Reef,Beach",10,3.0,"Street Food,Restaurant",8.0,False,0,10,December-March,1.4,BDT,0.0091
+Rangamati,Bangladesh,Rangamati,Nature,Dhaka,200,Bus,35,5,"Guesthouse,Mid-Range Hotel",25,3.0,"Kaptai Lake,Hanging Bridge",15,3.0,"Street Food,Restaurant",10.0,False,0,15,November-March,1.3,BDT,0.0091
+Bandarban,Bangladesh,Bandarban,Nature,Dhaka,250,Bus,40,6,"Guesthouse,Mid-Range Hotel",25,3.0,"Golden Temple,Nilgiri Hills",15,3.0,"Street Food,Restaurant",10.0,False,0,15,November-March,1.3,BDT,0.0091
+Kuakata,Bangladesh,Kuakata,Beach,Dhaka,400,Bus,50,10,"Budget Hotel,Mid-Range Hotel",30,3.0,"Sunset Beach,Local Market",10,2.0,"Street Food,Fine Dining",12.0,False,0,10,November-February,1.4,BDT,0.0091
+Srimangal,Bangladesh,Srimangal,Nature,Dhaka,300,Bus,30,7,"Guesthouse,Mid-Range Hotel",25,3.0,"Lawachara National Park,Tea Estates",15,3.0,"Street Food,Restaurant",10.0,False,0,15,February-April,1.3,BDT,0.0091
+Jaflong,Bangladesh,Jaflong,Nature,Dhaka,400,Bus,35,8,"Guesthouse,Tourist Lodge",20,2.0,"Waterfalls,Stone Garden",10,2.0,"Street Food,Restaurant",8.0,False,0,10,February-April,1.3,BDT,0.0091
+Madhabkunda,Bangladesh,Madhabkunda,Nature,Dhaka,450,Bus,40,9,"Guesthouse,Tourist Lodge",20,2.0,"Waterfall,Eco Park",10,2.0,"Street Food,Restaurant",8.0,False,0,10,December-March,1.3,BDT,0.0091
+Dhaka,Bangladesh,Dhaka,City,Dhaka,0,Unknown,0,0,"Budget Hotel,Luxury Hotel",50,3.0,"National Museum,Lalbagh Fort",20,2.0,"Street Food,Fine Dining",20.0,False,0,20,Year-Round,1.0,BDT,0.0091
+Kolkata,India,Kolkata,City,Dhaka,1000,Flight,200,4,"Budget Hotel,Mid-Range Hotel",40,5.0,"Victoria Memorial,Howrah Bridge",15,2.0,"Street Food,Restaurant",15.0,True,30,20,November-February,1.3,INR,0.013
+Delhi,India,Delhi,City,Dhaka,1800,Flight,250,5,"Budget Hotel,Luxury Hotel",60,7.0,"Red Fort,Qutub Minar",20,3.0,"Street Food,Fine Dining",25.0,True,40,30,November-March,1.4,INR,0.013
+Agra,India,Agra,City/Historical,Dhaka,2000,Flight,300,6,"Budget Hotel,Luxury Hotel",70,5.0,"Taj Mahal,Fatehpur Sikri",25,3.0,"Street Food,Restaurant",20.0,True,40,30,November-March,1.4,INR,0.013
+Goa,India,Goa,Beach,Dhaka,2500,Flight,350,7,"Budget Hotel,Resort",50,7.0,"Baga Beach,Fort Aguada",20,3.0,"Street Food,Restaurant",15.0,True,30,25,November-February,1.5,INR,0.013
+Jaipur,India,Jaipur,City/Historical,Dhaka,2200,Flight,300,6,"Budget Hotel,Luxury Hotel",60,5.0,"Hawa Mahal,Amber Fort",25,3.0,"Street Food,Restaurant",20.0,True,40,30,November-March,1.4,INR,0.013
+Venice,Italy,Venice,City/Historical,Dhaka,7500,Flight,800,11,"Budget Hotel,Luxury Hotel",120,7.0,"St. Markâs Square,Gondola Ride",35,3.0,"CafÃ©,Fine Dining",35.0,True,80,50,April-October,1.4,EUR,1.08
+Florence,Italy,Florence,City/Historical,Dhaka,7400,Flight,750,11,"Budget Hotel,Luxury Hotel",110,7.0,"Uffizi Gallery,Duomo",30,3.0,"CafÃ©,Fine Dining",30.0,True,80,50,April-October,1.4,EUR,1.08
+Mykonos,Greece,Mykonos,Beach,Dhaka,6600,Flight,620,9,"Budget Hotel,Luxury Hotel",90,5.0,"Windmills,Beaches",25,2.0,"Street Food,Restaurant",25.0,True,60,40,April-October,1.5,EUR,1.08
+Zurich,Switzerland,Zurich,City,Dhaka,8000,Flight,850,12,"Budget Hotel,Luxury Hotel",130,7.0,"Lake Zurich,Swiss National Museum",40,4.0,"CafÃ©,Fine Dining",40.0,True,90,60,May-September,1.5,CHF,0.92
+Geneva,Switzerland,Geneva,City,Dhaka,8100,Flight,860,12,"Budget Hotel,Luxury Hotel",130,7.0,"Lake Geneva,Jet dâEau",40,4.0,"CafÃ©,Fine Dining",40.0,True,90,60,May-September,1.5,CHF,0.92
+Stockholm,Sweden,Stockholm,City,Dhaka,9000,Flight,900,14,"Budget Hotel,Luxury Hotel",110,7.0,"Vasa Museum,Gamla Stan",35,3.0,"CafÃ©,Fine Dining",35.0,True,80,50,June-August,1.4,SEK,0.1
+Oslo,Norway,Oslo,City,Dhaka,9500,Flight,950,15,"Budget Hotel,Luxury Hotel",120,7.0,"Vigeland Sculpture Park,Oslo Fjord",40,4.0,"CafÃ©,Fine Dining",40.0,True,100,60,June-August,1.5,NOK,0.1
+Copenhagen,Denmark,Copenhagen,City,Dhaka,8500,Flight,880,13,"Budget Hotel,Luxury Hotel",100,7.0,"Tivoli Gardens,Nyhavn",35,3.0,"CafÃ©,Fine Dining",35.0,True,80,50,May-September,1.4,DKK,0.14
+Helsinki,Finland,Helsinki,City,Dhaka,8700,Flight,890,14,"Budget Hotel,Luxury Hotel",110,7.0,"Suomenlinna Fortress,Sibelius Monument",35,3.0,"CafÃ©,Fine Dining",35.0,True,80,50,June-August,1.5,EUR,1.08
+Edinburgh,UK,Edinburgh,City/Historical,Dhaka,8500,Flight,850,12,"Budget Hotel,Luxury Hotel",120,7.0,"Edinburgh Castle,Royal Mile",35,3.0,"CafÃ©,Fine Dining",35.0,True,90,50,April-September,1.4,GBP,1.25
+Dublin,Ireland,Dublin,City,Dhaka,8000,Flight,800,11,"Budget Hotel,Luxury Hotel",100,7.0,"Trinity College,Guinness Storehouse",30,3.0,"CafÃ©,Fine Dining",30.0,True,80,40,April-September,1.4,EUR,1.08
+Budapest,Hungary,Budapest,City/Historical,Dhaka,7000,Flight,700,10,"Budget Hotel,Luxury Hotel",90,7.0,"Buda Castle,Szechenyi Thermal Bath",25,2.0,"Street Food,Restaurant",25.0,True,70,40,April-October,1.4,HUF,0.0038
+Krakow,Poland,Krakow,City/Historical,Dhaka,6500,Flight,650,9,"Budget Hotel,Luxury Hotel",80,5.0,"Wawel Castle,Old Town",20,2.0,"Street Food,Restaurant",20.0,True,60,30,April-October,1.3,PLN,0.25
+Warsaw,Poland,Warsaw,City,Dhaka,6800,Flight,680,10,"Budget Hotel,Luxury Hotel",85,5.0,"Old Town,Copernicus Science Centre",25,2.0,"Street Food,Restaurant",25.0,True,60,35,April-October,1.3,PLN,0.25
+Toronto,Canada,Toronto,City,Dhaka,11000,Flight,1100,16,"Budget Hotel,Luxury Hotel",140,10.0,"CN Tower,Niagara Falls",50,4.0,"Street Food,Fine Dining",50.0,True,130,80,June-September,1.5,CAD,0.78
+Vancouver,Canada,Vancouver,City,Dhaka,13000,Flight,1200,18,"Budget Hotel,Luxury Hotel",150,10.0,"Stanley Park,Capilano Suspension Bridge",60,5.0,"Street Food,Fine Dining",60.0,True,130,90,June-September,1.6,CAD,0.78
+Montreal,Canada,Montreal,City,Dhaka,11500,Flight,1150,17,"Budget Hotel,Luxury Hotel",130,7.0,"Old Montreal,Mount Royal",50,4.0,"Street Food,Fine Dining",50.0,True,130,80,June-September,1.5,CAD,0.78
+Los Angeles,USA,Los Angeles,City,Dhaka,14000,Flight,1300,20,"Budget Hotel,Luxury Hotel",160,10.0,"Hollywood,Griffith Observatory",60,5.0,"Street Food,Fine Dining",60.0,True,150,100,April-October,1.6,USD,1.0
+San Francisco,USA,San Francisco,City,Dhaka,13500,Flight,1250,19,"Budget Hotel,Luxury Hotel",150,10.0,"Golden Gate Bridge,Alcatraz",55,4.0,"Street Food,Fine Dining",55.0,True,150,90,April-October,1.6,USD,1.0
+Hawaii,USA,Honolulu,Beach,Dhaka,15000,Flight,1400,22,"Budget Hotel,Luxury Hotel",200,10.0,"Waikiki Beach,Volcanoes National Park",70,6.0,"Street Food,Fine Dining",70.0,True,150,120,April-October,1.7,USD,1.0
+Mexico City,Mexico,Mexico City,City,Dhaka,12000,Flight,1000,18,"Budget Hotel,Luxury Hotel",100,7.0,"Zocalo,Teotihuacan Pyramids",40,4.0,"Street Food,Restaurant",40.0,True,100,60,April-October,1.5,MXN,0.052
+Cancun,Mexico,Cancun,Beach,Dhaka,12500,Flight,1050,19,"Budget Hotel,Luxury Hotel",110,7.0,"Mayan Ruins,Beaches",45,4.0,"Street Food,Restaurant",45.0,True,100,70,April-October,1.6,MXN,0.052
+Buenos Aires,Argentina,Buenos Aires,City,Dhaka,14000,Flight,1100,20,"Budget Hotel,Luxury Hotel",120,10.0,"Obelisk,Tango Shows",50,5.0,"Street Food,Restaurant",50.0,True,120,80,April-October,1.5,ARS,0.01
+Santiago,Chile,Santiago,City,Dhaka,13000,Flight,1150,19,"Budget Hotel,Luxury Hotel",130,7.0,"Plaza de Armas,Torres del Paine",50,5.0,"Street Food,Restaurant",50.0,True,110,80,April-October,1.5,CLP,0.00014
+Perth,Australia,Perth,City,Dhaka,9500,Flight,900,15,"Budget Hotel,Luxury Hotel",110,7.0,"Kings Park,Rottnest Island",40,4.0,"CafÃ©,Fine Dining",40.0,True,100,60,September-November,1.5,AUD,0.72
+Melbourne,Australia,Melbourne,City,Dhaka,9200,Flight,880,14,"Budget Hotel,Luxury Hotel",120,7.0,"Great Ocean Road,MCG",45,4.0,"CafÃ©,Fine Dining",45.0,True,100,70,September-November,1.5,AUD,0.72
+Brisbane,Australia,Brisbane,City,Dhaka,9100,Flight,870,14,"Budget Hotel,Luxury Hotel",110,7.0,"South Bank,Lone Pine Koala Sanctuary",40,4.0,"CafÃ©,Fine Dining",40.0,True,100,60,September-November,1.5,AUD,0.72
+Auckland,New Zealand,Auckland,City,Dhaka,11000,Flight,1100,16,"Budget Hotel,Luxury Hotel",130,7.0,"Sky Tower,Hobbiton",50,4.0,"CafÃ©,Fine Dining",50.0,True,120,80,December-February,1.6,NZD,0.7
+Wellington,New Zealand,Wellington,City,Dhaka,11500,Flight,1150,17,"Budget Hotel,Luxury Hotel",120,7.0,"Te Papa Museum,Beehive",45,4.0,"CafÃ©,Fine Dining",45.0,True,120,70,December-February,1.6,NZD,0.7
+Chiang Mai,Thailand,Chiang Mai,City,Dhaka,3000,Flight,350,7,"Budget Hotel,Mid-Range Hotel",60,5.0,"Doi Suthep,Night Bazaar",20,2.0,"Street Food,Restaurant",20.0,True,50,30,November-February,1.3,THB,0.03
+Lhasa,China,Lhasa,City/Historical,Dhaka,4500,Flight,500,10,"Guesthouse,Tourist Lodge",80,7.0,"Potala Palace,Jokhang Temple",30,3.0,"Street Food,Restaurant",25.0,True,60,40,March-May,1.5,CNY,0.15
+Ulaanbaatar,Mongolia,Ulaanbaatar,Nature,Dhaka,5000,Flight,550,11,"Guesthouse,Tourist Lodge",70,7.0,"Gobi Desert,Genghis Khan Statue",25,3.0,"Street Food,Restaurant",20.0,True,70,40,June-August,1.4,MNT,0.00041
+Barisal,Bangladesh,Barisal,City,Dhaka,200,Bus,30,5,"Guesthouse,Tourist Lodge",30,3.0,"Floating Market,Launch Rides",15,2.0,"Street Food,Restaurant",12.0,False,0,15,November-February,1.3,BDT,0.0091
+Khulna,Bangladesh,Khulna,City,Dhaka,250,Bus,35,6,"Guesthouse,Tourist Lodge",30,3.0,"Shrimp Farms,Jessore Road",10,2.0,"Street Food,Restaurant",12.0,False,0,15,November-February,1.3,BDT,0.0091
+Rajshahi,Bangladesh,Rajshahi,City,Dhaka,350,Bus,40,7,"Guesthouse,Mid-Range Hotel",30,3.0,"Puthia Temple,Varendra Museum",15,2.0,"Street Food,Restaurant",12.0,False,0,15,November-February,1.3,BDT,0.0091
+Bagerhat,Bangladesh,Bagerhat,Historical,Dhaka,300,Bus,35,6,"Guesthouse,Tourist Lodge",25,2.0,"Sixty Dome Mosque,Shait Gumbad",10,2.0,"Street Food,Restaurant",10.0,False,0,10,December-March,1.3,BDT,0.0091
+Paharpur,Bangladesh,Paharpur,Historical,Dhaka,400,Bus,40,8,"Guesthouse,Mid-Range Hotel",20,2.0,"Buddhist Stupa,Somapura Mahavihara",10,2.0,"Street Food,Restaurant",10.0,False,0,10,December-March,1.3,BDT,0.0091
+Mahasthangarh,Bangladesh,Bogra,Historical,Dhaka,350,Bus,35,7,"Budget Hotel,Resort",20,2.0,"Archaeological Site,Fortress",10,2.0,"Street Food,Restaurant",10.0,False,0,10,December-March,1.3,BDT,0.0091
+Mainamati,Bangladesh,Comilla,Historical,Dhaka,250,Bus,30,6,"Budget Hotel,Mid-Range Hotel",20,2.0,"Buddhist Ruins,War Cemetery",10,2.0,"Street Food,Restaurant",10.0,False,0,10,December-March,1.3,BDT,0.0091
+Lalmonirhat,Bangladesh,Lalmonirhat,Nature,Dhaka,500,Bus,40,9,"Budget Hotel,Mid-Range Hotel",25,3.0,"Dudhnoi River,Border Market",10,2.0,"Street Food,Restaurant",10.0,False,0,10,November-February,1.3,BDT,0.0091
+Dinajpur,Bangladesh,Dinajpur,Historical,Dhaka,450,Bus,40,8,"Budget Hotel,Resort",20,2.0,"Kantaji Temple,Ramsagar",10,2.0,"Street Food,Restaurant",10.0,False,0,10,December-March,1.3,BDT,0.0091
+Bhawal National Park,Bangladesh,Gazipur,Nature,Dhaka,50,Bus,20,2,"Budget Hotel,Luxury Hotel",25,3.0,"Wildlife Safari,Picnic Spots",15,3.0,"Street Food,Restaurant",10.0,False,0,15,Year-Round,1.2,BDT,0.0091
+Lakshadweep,India,Agatti,Beach,Dhaka,3000,Flight,400,7,"Budget Hotel,Luxury Hotel",60,7.0,"Coral Islands,Water Sports",30,3.0,"Street Food,Restaurant",20.0,True,30,30,November-February,1.5,INR,0.013
+Darjeeling,India,Darjeeling,Nature,Dhaka,1200,Flight,250,5,"Budget Hotel,Luxury Hotel",40,4.0,"Tea Estates,Himalayan Views",20,3.0,"Street Food,Restaurant",15.0,True,30,20,March-May,1.4,INR,0.013
+Shimla,India,Shimla,Nature,Dhaka,2000,Flight,300,6,"Budget Hotel,Mid-Range Hotel",40,4.0,"Mall Road,Himachal Views",20,3.0,"Street Food,Restaurant",15.0,True,30,20,March-May,1.4,INR,0.013
+Kerala,India,Kochi,Beach,Dhaka,2500,Flight,350,7,"Budget Hotel,Resort",50,7.0,"Backwaters,Houseboats",30,3.0,"Street Food,Restaurant",20.0,True,30,30,November-February,1.5,INR,0.013
+Varanasi,India,Varanasi,City/Historical,Dhaka,2100,Flight,300,6,"Budget Hotel,Mid-Range Hotel",70,5.0,"Ghats,Kashi Vishwanath Temple",25,3.0,"Street Food,Restaurant",20.0,True,40,30,November-March,1.4,INR,0.013
+Amritsar,India,Amritsar,City/Historical,Dhaka,2200,Flight,300,6,"Budget Hotel,Resort",60,5.0,"Golden Temple,Harmandir Sahib",25,3.0,"Street Food,Restaurant",20.0,True,40,30,November-March,1.4,INR,0.013
+Udaipur,India,Udaipur,City/Historical,Dhaka,2300,Flight,350,7,"Luxury Hotel,Resort",70,5.0,"City Palace,Lake Pichola",30,3.0,"Street Food,Restaurant",20.0,True,40,30,November-March,1.4,INR,0.013
+Rishikesh,India,Rishikesh,Nature,Dhaka,2000,Flight,300,6,"Budget Hotel,Resort",40,4.0,"Ganga Aarti,Yoga Retreats",20,3.0,"Street Food,Restaurant",15.0,True,30,20,March-May,1.4,INR,0.013
+Andaman Islands,India,Port Blair,Beach,Dhaka,3500,Flight,400,8,"Budget Hotel,Luxury Hotel",60,7.0,"Havelock Island,Scuba Diving",30,3.0,"Street Food,Restaurant",20.0,True,30,30,November-February,1.5,INR,0.013
+Leh,India,Leh,Nature,Dhaka,3000,Flight,400,7,"Budget Hotel,Luxury Hotel",50,5.0,"Hemis Monastery,Pangong Lake",30,4.0,"Street Food,Restaurant",20.0,True,40,30,June-September,1.5,INR,0.013
+Maldives,Maldives,Hulhumale,Beach,Dhaka,3000,Flight,300,7,"Budget Hotel,Luxury Hotel",60,7.0,"Atolls,Snorkeling",30,3.0,"Street Food,Restaurant",25.0,True,50,30,November-March,1.5,MVR,0.065
+Maui,USA,Kahului,Beach,Dhaka,14500,Flight,1400,22,"Budget Hotel,Luxury Hotel",150,10.0,"Hana Highway,Beaches",70,6.0,"Street Food,Fine Dining",60.0,True,150,90,April-October,1.7,USD,1.0
+Las Vegas,USA,Las Vegas,City,Dhaka,13500,Flight,1200,19,"Budget Hotel,Luxury Hotel",120,7.0,"The Strip,Casinos",50,4.0,"Street Food,Fine Dining",50.0,True,150,80,April-October,1.6,USD,1.0
+Miami,USA,Miami,City,Dhaka,14000,Flight,1100,18,"Budget Hotel,Luxury Hotel",130,7.0,"South Beach,Art Deco District",50,4.0,"Street Food,Fine Dining",50.0,True,150,80,April-October,1.6,USD,1.0
+Orlando,USA,Orlando,City,Dhaka,13500,Flight,1100,18,"Budget Hotel,Luxury Hotel",120,7.0,"Disney World,Universal Studios",60,4.0,"Street Food,Fine Dining",50.0,True,150,80,April-October,1.6,USD,1.0
+Washington D.C.,USA,Washington D.C.,City/Historical,Dhaka,12500,Flight,1000,17,"Budget Hotel,Luxury Hotel",140,7.0,"White House,Smithsonian Museums",50,4.0,"Street Food,Fine Dining",50.0,True,150,80,April-October,1.5,USD,1.0
+Chicago,USA,Chicago,City,Dhaka,13000,Flight,1000,18,"Budget Hotel,Luxury Hotel",130,7.0,"Millennium Park,Art Institute",50,4.0,"Street Food,Fine Dining",50.0,True,150,80,April-October,1.5,USD,1.0
+Boston,USA,Boston,City/Historical,Dhaka,12000,Flight,1000,17,"Budget Hotel,Luxury Hotel",140,7.0,"Freedom Trail,Harvard University",50,4.0,"Street Food,Fine Dining",50.0,True,150,80,April-October,1.5,USD,1.0
+Seattle,USA,Seattle,City,Dhaka,13500,Flight,1100,19,"Budget Hotel,Luxury Hotel",130,7.0,"Space Needle,Pike Place Market",50,4.0,"Street Food,Fine Dining",50.0,True,150,80,April-October,1.6,USD,1.0
+Munich,Germany,Munich,City/Historical,Dhaka,7500,Flight,800,11,"Budget Hotel,Luxury Hotel",110,7.0,"Oktoberfest,Nymphenburg Palace",35,3.0,"CafÃ©,Fine Dining",35.0,True,80,50,April-October,1.4,EUR,1.08
+Hamburg,Germany,Hamburg,City,Dhaka,7400,Flight,750,11,"Budget Hotel,Luxury Hotel",100,7.0,"Elbphilharmonie,Miniatur Wunderland",30,3.0,"CafÃ©,Fine Dining",30.0,True,80,50,April-October,1.4,EUR,1.08
+Frankfurt,Germany,Frankfurt,City,Dhaka,7300,Flight,700,10,"Budget Hotel,Luxury Hotel",100,7.0,"Main Tower,Romarberg",30,3.0,"CafÃ©,Fine Dining",30.0,True,80,50,April-October,1.4,EUR,1.08
+Salzburg,Austria,Salzburg,City/Historical,Dhaka,7600,Flight,780,11,"Budget Hotel,Luxury Hotel",100,5.0,"Hohensalzburg Fortress,Salzach River",30,3.0,"CafÃ©,Fine Dining",30.0,True,80,50,April-October,1.4,EUR,1.08
+Bruges,Belgium,Bruges,City/Historical,Dhaka,7000,Flight,700,10,"Budget Hotel,Luxury Hotel",90,5.0,"Canals,Chocolate Museums",25,3.0,"CafÃ©,Fine Dining",30.0,True,80,40,April-October,1.4,EUR,1.08
+Luxembourg City,Luxembourg,Luxembourg City,City,Dhaka,7200,Flight,750,10,"Budget Hotel,Luxury Hotel",100,5.0,"Vianden Castle,Old Town",30,3.0,"CafÃ©,Fine Dining",30.0,True,80,50,April-October,1.4,EUR,1.08
+Tallinn,Estonia,Tallinn,City/Historical,Dhaka,8500,Flight,850,13,"Budget Hotel,Luxury Hotel",90,5.0,"Alexander Nevsky Cathedral,Old Town",25,3.0,"CafÃ©,Fine Dining",30.0,True,80,40,April-October,1.4,EUR,1.08
+Riga,Latvia,Riga,City/Historical,Dhaka,8600,Flight,850,13,"Budget Hotel,Luxury Hotel",90,5.0,"House of the Blackheads,Old Town",25,3.0,"CafÃ©,Fine Dining",30.0,True,80,40,April-October,1.4,EUR,1.08
+Vilnius,Lithuania,Vilnius,City/Historical,Dhaka,8700,Flight,850,13,"Budget Hotel,Luxury Hotel",90,5.0,"Freedom Square,Old Town",25,3.0,"CafÃ©,Fine Dining",30.0,True,80,40,April-October,1.4,EUR,1.08
+Baku,Azerbaijan,Baku,City,Dhaka,5000,Flight,650,10,"Budget Hotel,Luxury Hotel",90,5.0,"Old Baku,Maiden Tower",30,3.0,"Street Food,Restaurant",25.0,True,50,40,April-October,1.4,AZN,0.59
+Doha,Qatar,Doha,City,Dhaka,3800,Flight,600,6,"Budget Hotel,Luxury Hotel",100,5.0,"Souq Waqif,Pearl Qatar",40,3.0,"Street Food,Fine Dining",40.0,True,50,50,November-March,1.5,QAR,0.27
+Abu Dhabi,UAE,Abu Dhabi,City,Dhaka,3700,Flight,600,6,"Budget Hotel,Luxury Hotel",100,5.0,"Sheikh Zayed Mosque,Corniche",40,3.0,"Street Food,Fine Dining",40.0,True,50,50,November-March,1.5,AED,0.27
+Jerusalem,Israel,Jerusalem,City/Historical,Dhaka,6000,Flight,800,10,"Budget Hotel,Luxury Hotel",100,7.0,"Western Wall,Dome of the Rock",50,4.0,"Street Food,Restaurant",30.0,True,80,50,April-October,1.5,ILS,0.27
+Machu Picchu,Peru,Cusco,Historical,Dhaka,9000,Flight,1200,15,"Budget Hotel,Luxury Hotel",150,10.0,"Inca Trail,Huayna Picchu",100,6.0,"Street Food,Restaurant",40.0,True,100,80,April-October,1.7,PEN,0.3
+Galapagos Islands,Ecuador,Puerto Ayora,Nature,Dhaka,11000,Flight,1500,18,"Budget Hotel,Resort",200,10.0,"Wildlife Cruises,Tortuga Bay",150,8.0,"Street Food,Restaurant",50.0,True,120,100,April-October,1.7,USD,1.0
+Antarctica,Antarctica,Unknown,Nature,Dhaka,22000,Flight,3000,30,Research Station,500,14.0,"Glaciers,Penguin Colonies",300,12.0,Research Station Meals,100.0,True,200,200,December-February,2.0,USD,1.0
+Ladakh,India,Leh,Nature,Dhaka,3000,Flight,400,7,"Guesthouse,Luxury Hotel",50,5.0,"Pangong Lake,Thiksey Monastery",30,4.0,"Street Food,Restaurant",20.0,True,40,30,June-September,1.5,INR,0.013
+Hoi An,Vietnam,Hoi An,City/Historical,Dhaka,2800,Flight,300,6,"Budget Hotel,Mid-Range Hotel",60,4.0,"Old Town,Hoi An Riverside",20,2.0,"Street Food,Restaurant",15.0,True,40,25,February-April,1.3,VND,4.3e-05
+Pokhara,Nepal,Pokhara,Nature,Dhaka,1400,Flight,150,4,"Guesthouse,Mid-Range Hotel",30,5.0,"Phewa Lake,Annapurna Views",15,3.0,"Street Food,Restaurant",10.0,True,20,15,March-May,1.4,NPR,0.0088
+Penang,Malaysia,George Town,City,Dhaka,3400,Flight,350,8,"Budget Hotel,Luxury Hotel",70,5.0,"Cheong Fatt Tze Mansion,Kek Lok Si",25,2.0,"Street Food,Fine Dining",25.0,True,60,40,April-October,1.4,MYR,0.24
+Tashkent,Uzbekistan,Tashkent,City,Dhaka,4500,Flight,500,10,"Budget Hotel,Mid-Range Hotel",60,5.0,"Chorsu Bazaar,Amir Timur Museum",20,2.0,"Street Food,Restaurant",20.0,True,70,40,April-October,1.3,UZS,9.4e-05
+Almaty,Kazakhstan,Almaty,City/Nature,Dhaka,4200,Flight,450,9,"Budget Hotel,Luxury Hotel",80,7.0,"Medeu Valley,Kok-Tobe Hill",30,3.0,"Street Food,Restaurant",25.0,True,60,50,March-May,1.4,KZT,0.0023
+Muscat,Oman,Muscat,City,Dhaka,3600,Flight,600,6,"Budget Hotel,Luxury Hotel",100,5.0,"Sultan Qaboos Mosque,Muttrah Souq",40,3.0,"Street Food,Fine Dining",40.0,True,50,50,November-March,1.5,OMR,0.26
+Salalah,Oman,Salalah,Beach,Dhaka,3700,Flight,650,7,"Budget Hotel,Luxury Hotel",120,7.0,"Khareef Festival,Dhofar Beaches",50,4.0,"Street Food,Fine Dining",50.0,True,50,60,June-August,1.6,OMR,0.26
+Kuwait City,Kuwait,Kuwait City,City,Dhaka,3800,Flight,600,6,"Budget Hotel,Luxury Hotel",100,5.0,"Kuwait Towers,Grand Mosque",40,3.0,"Street Food,Fine Dining",40.0,True,50,50,November-March,1.5,KWD,0.31
+Nairobi,Kenya,Nairobi,City/Nature,Dhaka,7500,Flight,800,12,"Budget Hotel,Luxury Hotel",90,7.0,"Nairobi National Park,Giraffe Centre",50,4.0,"Street Food,Restaurant",30.0,True,80,60,June-September,1.5,KES,0.0092
+Zanzibar,Tanzania,Stone Town,Beach,Dhaka,8000,Flight,850,13,"Budget Hotel,Luxury Hotel",100,7.0,"Spice Markets,Stone Town",40,3.0,"Street Food,Restaurant",30.0,True,80,70,November-March,1.5,TZS,0.00043
+Maasai Mara,Kenya,Maasai Mara,Nature,Dhaka,7600,Flight,900,14,"Guesthouse,Tourist Lodge",80,5.0,"Wildlife Safari,Great Migration",60,5.0,"Street Food,Restaurant",35.0,True,90,80,July-September,1.6,KES,0.0092
+Luang Prabang,Laos,Luang Prabang,Nature,Dhaka,4000,Flight,450,9,"Budget Hotel,Mid-Range Hotel",60,5.0,"Kuang Si Falls,Mount Phousi",20,3.0,"Street Food,Restaurant",15.0,True,40,25,November-March,1.4,LAK,0.00012
+Ella,Sri Lanka,Ella,Nature,Dhaka,2200,Flight,250,5,"Guesthouse,Mid-Range Hotel",40,4.0,"Nine Arch Bridge,Ella Rock",15,2.0,"Street Food,Restaurant",15.0,True,30,20,December-March,1.3,LKR,0.005
+Kandy,Sri Lanka,Kandy,City/Historical,Dhaka,2100,Flight,250,5,"Budget Hotel,Luxury Hotel",50,5.0,"Temple of the Tooth,Dalada Maligawa",20,2.0,"Street Food,Fine Dining",20.0,True,30,20,December-March,1.3,LKR,0.005
+Galle,Sri Lanka,Galle,City/Historical,Dhaka,2300,Flight,300,6,"Budget Hotel,Mid-Range Hotel",50,5.0,"Galle Fort,Unawatuna Beach",20,2.0,"Street Food,Restaurant",20.0,True,30,25,December-March,1.3,LKR,0.005
+Yangon,Myanmar,Yangon,City,Dhaka,3000,Flight,350,7,"Budget Hotel,Luxury Hotel",60,5.0,"Shwedagon Pagoda,Sule Pagoda",25,3.0,"Street Food,Fine Dining",25.0,True,50,30,November-March,1.4,MMK,0.00048
+Bagan,Myanmar,Bagan,City/Historical,Dhaka,3100,Flight,400,8,"Guesthouse,Tourist Lodge",50,5.0,"Temples of Bagan,Hsinbyume Pagoda",20,3.0,"Street Food,Restaurant",20.0,True,50,30,November-March,1.4,MMK,0.00048
+Inle Lake,Myanmar,Nyaung Shwe,Nature,Dhaka,3200,Flight,400,8,"Guesthouse,Mid-Range Hotel",40,4.0,"Inle Lake Floating Villages,Fishermen",15,2.0,"Street Food,Restaurant",15.0,True,50,25,November-March,1.4,MMK,0.00048
+Jeju Island,South Korea,Jeju City,Nature,Dhaka,4700,Flight,500,9,"Budget Hotel,Luxury Hotel",80,5.0,"Hallasan National Park,Love Land",25,2.0,"Street Food,Fine Dining",25.0,True,50,40,April-June,1.3,KRW,0.00085
+Busan,South Korea,Busan,City,Dhaka,4600,Flight,450,9,"Budget Hotel,Mid-Range Hotel",70,5.0,"Haeundae Beach,Gamcheon Village",25,2.0,"Street Food,Restaurant",20.0,True,40,30,April-October,1.4,KRW,0.00085
+Gili Islands,Indonesia,Gili Trawangan,Beach,Dhaka,4800,Flight,550,10,"Budget Hotel,Luxury Hotel",60,7.0,"Snorkeling,Gili Trawangan",20,3.0,"Street Food,Restaurant",20.0,True,50,40,April-October,1.4,IDR,7e-05
+Langkawi,Malaysia,Langkawi,Beach,Dhaka,3600,Flight,400,8,"Budget Hotel,Luxury Hotel",80,7.0,"Eagle Feeding,Cable Car",30,3.0,"Street Food,Fine Dining",25.0,True,60,50,November-March,1.5,MYR,0.24
+Krabi,Thailand,Krabi,Beach,Dhaka,3100,Flight,350,7,"Budget Hotel,Luxury Hotel",70,5.0,"Ao Nang,Phra Nang Beach",25,2.0,"Street Food,Restaurant",20.0,True,50,40,November-February,1.3,THB,0.03
+Hokkaido,Japan,Sapporo,Nature,Dhaka,6000,Flight,700,12,"Budget Hotel,Luxury Hotel",100,7.0,"Sapporo Snow Festival,Otaru Canal",40,4.0,"Street Food,Fine Dining",30.0,True,60,60,December-February,1.6,JPY,0.0077
+Okinawa,Japan,Naha,Beach,Dhaka,5800,Flight,650,11,"Budget Hotel,Luxury Hotel",90,7.0,"Shuri Castle,Kokusai Street",30,3.0,"Street Food,Fine Dining",25.0,True,60,50,April-October,1.5,JPY,0.0077
+Siem Reap,Cambodia,Siem Reap,City/Historical,Dhaka,3500,Flight,400,8,"Budget Hotel,Mid-Range Hotel",70,5.0,"Angkor Wat,Tonle Sap Lake",25,3.0,"Street Food,Restaurant",20.0,True,50,30,November-March,1.4,KHR,0.00025
+Chiang Rai,Thailand,Chiang Rai,City,Dhaka,2900,Flight,300,6,"Budget Hotel,Mid-Range Hotel",60,5.0,"White Temple,Golden Triangle",20,2.0,"Street Food,Restaurant",15.0,True,40,25,November-February,1.3,THB,0.03
+Tbilisi,Georgia,Tbilisi,City/Historical,Dhaka,5500,Flight,600,9,"Budget Hotel,Luxury Hotel",80,5.0,"Narikala Fortress,Bridge of Peace",25,3.0,"Street Food,Restaurant",20.0,True,50,40,April-October,1.4,GEL,0.37
+Yiwu,China,Yiwu,City,Dhaka,4000,Flight,450,8,"Budget Hotel,Mid-Range Hotel",70,5.0,"Yiwu Market,Zhejiang Villages",20,2.0,"Street Food,Restaurant",20.0,True,50,30,April-October,1.5,CNY,0.15
+Guilin,China,Guilin,Nature,Dhaka,4200,Flight,500,9,"Budget Hotel,Luxury Hotel",80,7.0,"Li River,Yangshuo",30,3.0,"Street Food,Restaurant",25.0,True,60,40,March-May,1.4,CNY,0.15
+Zhangjiajie,China,Zhangjiajie,Nature,Dhaka,4300,Flight,550,10,"Guesthouse,Tourist Lodge",60,5.0,"Avatar Mountains,Fenghuang Town",25,3.0,"Street Food,Restaurant",20.0,True,60,40,March-May,1.4,CNY,0.15
+Sapa,Vietnam,Sa Pa,Nature,Dhaka,2600,Flight,300,6,"Guesthouse,Mid-Range Hotel",50,5.0,"Rice Terraces,Ta Van Village",20,3.0,"Street Food,Restaurant",15.0,True,40,25,September-November,1.3,VND,4.3e-05
+Taman Negara,Malaysia,Kuala Tahan,Nature,Dhaka,3700,Flight,400,8,"Guesthouse,Tourist Lodge",50,5.0,"Rainforest Trekking,Canopy Walk",20,3.0,"Street Food,Restaurant",15.0,True,50,30,April-October,1.4,MYR,0.24
+Kinabalu,Malaysia,Kota Kinabalu,Nature,Dhaka,3800,Flight,450,9,"Budget Hotel,Luxury Hotel",80,7.0,"Mount Kinabalu,Sipadan Island",30,4.0,"Street Food,Fine Dining",25.0,True,60,40,April-October,1.5,MYR,0.24
+Borneo,Malaysia,Kuching,Nature,Dhaka,3900,Flight,500,10,"Guesthouse,Tourist Lodge",70,7.0,"Orangutan Sanctuary,Semenggoh",25,4.0,"Street Food,Restaurant",20.0,True,60,40,April-October,1.5,MYR,0.24
+Batumi,Georgia,Batumi,Beach,Dhaka,5600,Flight,650,10,"Budget Hotel,Luxury Hotel",90,5.0,"Batumi Boulevard,Black Sea",30,3.0,"Street Food,Restaurant",25.0,True,50,50,April-October,1.4,GEL,0.37
+Shiraz,Iran,Shiraz,City/Historical,Dhaka,4800,Flight,700,11,"Budget Hotel,Luxury Hotel",100,7.0,"Persepolis,Naqsh-e Jahan Square",40,4.0,"Street Food,Fine Dining",30.0,True,70,60,March-May,1.5,IRR,2.4e-05
+Isfahan,Iran,Isfahan,City/Historical,Dhaka,4900,Flight,750,11,"Budget Hotel,Luxury Hotel",110,7.0,"Imam Square,Si-o-se-pol Bridge",40,4.0,"Street Food,Fine Dining",35.0,True,70,60,March-May,1.5,IRR,2.4e-05
+Tajikistan,Tajikistan,Dushanbe,City/Nature,Dhaka,5000,Flight,600,11,"Guesthouse,Mid-Range Hotel",70,5.0,"Pamir Highway,Rudaki Park",25,3.0,"Street Food,Restaurant",20.0,True,60,50,June-September,1.4,TJS,0.1
+Samarkand,Uzbekistan,Samarkand,City/Historical,Dhaka,4600,Flight,550,10,"Budget Hotel,Luxury Hotel",80,7.0,"Registan Square,Shah-i-Zinda",30,3.0,"Street Food,Fine Dining",25.0,True,70,50,April-October,1.4,UZS,9.4e-05
+Bukhara,Uzbekistan,Bukhara,City/Historical,Dhaka,4700,Flight,600,11,"Budget Hotel,Luxury Hotel",90,7.0,"Itchan Kala,Kalta Minor",35,4.0,"Street Food,Fine Dining",30.0,True,70,60,April-October,1.4,UZS,9.4e-05
+Khiva,Uzbekistan,Khiva,City/Historical,Dhaka,4800,Flight,650,11,"Guesthouse,Tourist Lodge",60,5.0,"Khiva Old Town,Kunya-Ark",25,3.0,"Street Food,Restaurant",20.0,True,70,50,April-October,1.4,UZS,9.4e-05
+Dushanbe,Tajikistan,Dushanbe,City/Nature,Dhaka,5000,Flight,600,11,"Guesthouse,Mid-Range Hotel",70,5.0,"Iskanderkul Lake,Hissor Fortress",20,3.0,"Street Food,Restaurant",20.0,True,60,50,June-September,1.4,TJS,0.1
+Nuwara Eliya,Sri Lanka,Nuwara Eliya,Nature,Dhaka,2400,Flight,300,6,"Budget Hotel,Mid-Range Hotel",50,5.0,"Tea Plantations,Horton Plains",20,3.0,"Street Food,Restaurant",15.0,True,30,25,December-March,1.3,LKR,0.005
+Mirissa,Sri Lanka,Mirissa,Beach,Dhaka,2500,Flight,350,7,"Budget Hotel,Luxury Hotel",60,5.0,"Whale Watching,Mirissa Beach",25,3.0,"Street Food,Restaurant",20.0,True,30,30,November-March,1.4,LKR,0.005
+Teknaf,Bangladesh,Teknaf,Beach,Dhaka,600,Boat,50,12,"Guesthouse,Tourist Lodge",20,2.0,"St. Martinâs Coral,Jetty",10,3.0,"Street Food,Restaurant",8.0,False,0,10,December-March,1.4,BDT,0.0091
+Ratargul Swamp Forest,Bangladesh,Sylhet,Nature,Dhaka,350,Bus,30,6,"Guesthouse,Mid-Range Hotel",25,3.0,"Swamp Forest,Boat Ride",10,2.0,"Street Food,Restaurant",10.0,False,0,15,February-April,1.3,BDT,0.0091
+Hampi,India,Hampi,Historical,Dhaka,2200,Flight,300,6,"Budget Hotel,Luxury Hotel",60,5.0,"Virupaksha Temple,Ruins",20,3.0,"Street Food,Restaurant",20.0,True,40,30,November-March,1.4,INR,0.013
+Phnom Penh,Cambodia,Phnom Penh,City,Dhaka,3400,Flight,400,8,"Budget Hotel,Mid-Range Hotel",50,5.0,"Royal Palace,Killing Fields",25,2.0,"Street Food,Restaurant",20.0,True,50,30,November-March,1.4,KHR,0.00025
+Lanzarote,Spain,Arrecife,Beach/Nature,Dhaka,9000,Flight,900,14,"Budget Hotel,Luxury Hotel",100,7.0,"Timanfaya Park,Beaches",40,4.0,"Street Food,Fine Dining",40.0,True,90,60,April-October,1.5,EUR,1.08
+Siemensstadt,Germany,Berlin,City/Historical,Dhaka,7300,Flight,750,11,"Budget Hotel,Luxury Hotel",110,7.0,"Siemensstadt History,Spree River",30,3.0,"CafÃ©,Fine Dining",35.0,True,80,50,April-October,1.4,EUR,1.08
+Great Barrier Reef,Australia,Cairns,Nature,Dhaka,9000,Flight,950,15,"Budget Hotel,Resort",120,10.0,"Coral Reefs,Snorkeling",60,5.0,"Street Food,Fine Dining",45.0,True,100,70,September-November,1.5,AUD,0.72
+Petra,Jordan,Wadi Musa,Historical,Dhaka,4500,Flight,700,8,"Budget Hotel,Luxury Hotel",90,5.0,"Treasury,Siq",50,4.0,"Street Food,Restaurant",30.0,True,70,50,November-March,1.5,JOD,0.71
+Mekong Delta,Vietnam,Can Tho,Nature,Dhaka,3100,Flight,350,7,"Guesthouse,Mid-Range Hotel",40,4.0,"Mekong River,Floating Markets",20,2.0,"Street Food,Restaurant",15.0,True,40,25,November-March,1.3,VND,4.3e-05
+Granada,Spain,Granada,City/Historical,Dhaka,8200,Flight,850,12,"Budget Hotel,Luxury Hotel",100,7.0,"Alhambra,Generalife",35,3.0,"CafÃ©,Fine Dining",35.0,True,80,50,April-October,1.4,EUR,1.08
+TromsÃ¸,Norway,TromsÃ¸,Nature,Dhaka,9500,Flight,950,15,"Budget Hotel,Luxury Hotel",130,7.0,"Northern Lights,Arctic Cathedral",50,4.0,"CafÃ©,Fine Dining",40.0,True,100,60,June-August,1.5,NOK,0.1
+Ljubljana,Slovenia,Ljubljana,City,Dhaka,7800,Flight,800,12,"Budget Hotel,Luxury Hotel",90,5.0,"Ljubljana Castle,Lake Bled",30,3.0,"CafÃ©,Fine Dining",30.0,True,80,40,April-October,1.4,EUR,1.08
+Luang Namtha,Laos,Luang Namtha,Nature,Dhaka,3800,Flight,450,9,"Guesthouse,Tourist Lodge",30,4.0,"Nam Ha Trekking,Villages",15,2.0,"Street Food,Restaurant",10.0,True,40,20,November-March,1.3,LAK,0.00012
+Fiji,Fiji,Nadi,Beach,Dhaka,11000,Flight,1100,16,"Budget Hotel,Resort",150,10.0,"Coral Coast,Yasawa Islands",50,4.0,"Street Food,Restaurant",50.0,True,120,80,April-October,1.6,FJD,0.48
+Kilimanjaro,Tanzania,Moshi,Nature,Dhaka,8000,Flight,900,13,"Guesthouse,Tourist Lodge",80,5.0,"Kilimanjaro Trek,Safari",60,5.0,"Street Food,Restaurant",35.0,True,90,50,June-September,1.6,TZS,0.00043
+Giza,Egypt,Giza,Historical,Dhaka,5000,Flight,500,7,"Budget Hotel,Luxury Hotel",70,5.0,"Pyramids,Sphinx",20,2.0,"Street Food,Restaurant",20.0,True,50,30,November-March,1.3,EGP,0.064
+Meteora,Greece,Kastraki,Nature,Dhaka,6500,Flight,600,9,"Budget Hotel,Luxury Hotel",80,5.0,"Meteora Monasteries,Rock Formations",25,2.0,"Street Food,Restaurant",25.0,True,60,40,April-October,1.4,EUR,1.08
+Cinque Terre,Italy,Riomaggiore,Beach,Dhaka,7500,Flight,800,11,"Budget Hotel,Luxury Hotel",100,7.0,"Monterosso,Vernazza",35,3.0,"CafÃ©,Fine Dining",30.0,True,80,50,April-October,1.4,EUR,1.08
+Patagonia,Argentina,El Calafate,Nature,Dhaka,14000,Flight,1200,20,"Guesthouse,Tourist Lodge",100,10.0,"Perito Moreno Glacier,Fitz Roy",70,6.0,"Street Food,Restaurant",40.0,True,120,80,April-October,1.7,ARS,0.01
+Uzbekistan Silk Road,Uzbekistan,Samarkand,Historical,Dhaka,4600,Flight,550,10,"Budget Hotel,Luxury Hotel",80,7.0,"Registan,Gur-e-Amir",30,3.0,"Street Food,Fine Dining",25.0,True,70,40,April-October,1.4,UZS,9.4e-05
+Galway,Ireland,Galway,City,Dhaka,8000,Flight,800,11,"Budget Hotel,Luxury Hotel",90,7.0,"Cliffs of Moher,Connemara",35,3.0,"CafÃ©,Fine Dining",30.0,True,80,50,April-September,1.4,EUR,1.08
+Lake Baikal,Russia,Irkutsk,Nature,Dhaka,6000,Flight,650,10,"Guesthouse,Tourist Lodge",70,7.0,"Baikal Lake,Siberian Taiga",40,4.0,"Street Food,Restaurant",30.0,True,70,50,June-August,1.5,RUB,0.014
+Chamonix,France,Chamonix,Nature,Dhaka,7000,Flight,750,10,"Budget Hotel,Luxury Hotel",110,7.0,"Mont Blanc,Skiing",40,4.0,"CafÃ©,Fine Dining",35.0,True,80,50,June-September,1.5,EUR,1.08
+Santorini,Greece,Fira,Beach,Dhaka,6500,Flight,600,9,"Budget Hotel,Luxury Hotel",90,5.0,"Oia Sunset,Caldera",25,2.0,"Street Food,Restaurant",25.0,True,60,40,April-October,1.5,EUR,1.08
+Kashmir,India,Srinagar,Nature,Dhaka,2300,Flight,350,6,"Guesthouse,Luxury Hotel",50,5.0,"Dal Lake,Gulmarg",30,3.0,"Street Food,Restaurant",15.0,True,40,30,March-May,1.4,INR,0.013
+Tulum,Mexico,Tulum,Beach,Dhaka,12000,Flight,1000,18,"Budget Hotel,Luxury Hotel",100,7.0,"Mayan Ruins,Beaches",45,4.0,"Street Food,Restaurant",40.0,True,100,60,April-October,1.6,MXN,0.052
+Bhutan Highlands,Bhutan,Paro,Nature,Dhaka,2000,Flight,250,5,"Guesthouse,Luxury Hotel",60,7.0,"Paro Valley,Tigerâs Nest",30,4.0,"Street Food,Restaurant",20.0,True,30,30,October-December,1.5,BTN,0.014
+Madagascar,Madagascar,Antananarivo,Nature,Dhaka,9000,Flight,900,13,"Budget Hotel,Luxury Hotel",90,7.0,"Tsingy de Bemaraha,Baobabs",50,5.0,"Street Food,Restaurant",30.0,True,80,60,June-September,1.6,MGA,0.00033
+Halong Bay,Vietnam,Ha Long,Nature,Dhaka,2800,Flight,300,6,"Guesthouse,Mid-Range Hotel",50,5.0,"Limestone Caves,Cat Ba",20,3.0,"Street Food,Restaurant",15.0,True,40,30,February-April,1.3,VND,4.3e-05
+Sahara Desert,Morocco,Merzouga,Nature,Dhaka,7000,Flight,700,10,"Guesthouse,Tourist Lodge",60,7.0,"Erg Chebbi,Camel Trek",40,4.0,"Street Food,Restaurant",25.0,True,80,50,March-May,1.5,MAD,0.11
+Torres del Paine,Chile,Puerto Natales,Nature,Dhaka,13000,Flight,1150,19,"Guesthouse,Tourist Lodge",80,10.0,"W Trek,Grey Glacier",60,6.0,"Street Food,Restaurant",35.0,True,110,70,April-October,1.7,CLP,0.00014
+Raja Ampat,Indonesia,Sorong,Beach,Dhaka,4800,Flight,550,10,"Budget Hotel,Resort",80,7.0,"Coral Diving,Wayag Islands",30,3.0,"Street Food,Restaurant",25.0,True,50,40,April-October,1.4,IDR,7e-05
+Lofoten Islands,Norway,SvolvÃ¦r,Nature,Dhaka,9500,Flight,950,15,"Budget Hotel,Luxury Hotel",120,7.0,"Fishing Villages,Midnight Sun",50,4.0,"CafÃ©,Fine Dining",40.0,True,100,60,June-August,1.5,NOK,0.1
+Cappadocia,Turkey,GÃ¶reme,Nature,Dhaka,5000,Flight,650,9,"Budget Hotel,Luxury Hotel",90,7.0,"Fairy Chimneys,Hot Air Balloon",40,4.0,"Street Food,Fine Dining",30.0,True,70,50,March-May,1.5,TRY,0.12
+Yosemite,USA,Yosemite Valley,Nature,Dhaka,14000,Flight,1300,20,"Budget Hotel,Luxury Hotel",150,10.0,"El Capitan,Half Dome",70,6.0,"Street Food,Fine Dining",50.0,True,150,90,April-October,1.6,USD,1.0
+Bora Bora,French Polynesia,Vaitape,Beach,Dhaka,11000,Flight,1500,20,"Budget Hotel,Luxury Hotel",200,10.0,"Matira Beach,Lagoon",100,6.0,"Street Food,Fine Dining",70.0,True,100,100,April-October,1.7,XPF,0.0093
+Lake Titicaca,Peru,Puno,Nature,Dhaka,9000,Flight,1200,15,"Guesthouse,Tourist Lodge",90,7.0,"Uros Islands,TaquiÌle",40,4.0,"Street Food,Restaurant",30.0,True,100,60,April-October,1.5,PEN,0.3
+Mount Fuji,Japan,Fujiyoshida,Nature,Dhaka,5500,Flight,700,11,"Budget Hotel,Luxury Hotel",100,7.0,"Fuji Five Lakes,Climbing",40,4.0,"Street Food,Restaurant",25.0,True,60,40,March-May,1.4,JPY,0.0077
+Serengeti,Tanzania,Seronera,Nature,Dhaka,8000,Flight,900,13,"Guesthouse,Tourist Lodge",80,7.0,"Wildebeest Migration,Ngorongoro",60,5.0,"Street Food,Restaurant",35.0,True,90,60,June-September,1.6,TZS,0.00043
+Easter Island,Chile,Hanga Roa,Nature,Dhaka,15000,Flight,1400,22,"Budget Hotel,Luxury Hotel",150,10.0,"Moai Statues,Rano Raraku",80,6.0,"Street Food,Fine Dining",50.0,True,120,100,April-October,1.7,CLP,0.00014
+Amalfi Coast,Italy,Amalfi,Beach,Dhaka,7500,Flight,800,11,"Budget Hotel,Luxury Hotel",110,7.0,"Positano,Sorrento",40,4.0,"CafÃ©,Fine Dining",35.0,True,80,50,April-October,1.4,EUR,1.08
+Namibia Dunes,Namibia,Swakopmund,Nature,Dhaka,10000,Flight,1000,15,"Guesthouse,Tourist Lodge",90,7.0,"Sossusvlei,Deadvlei",50,5.0,"Street Food,Restaurant",30.0,True,100,60,June-September,1.6,NAD,0.06
+Blue Mountains,Australia,Katoomba,Nature,Dhaka,9200,Flight,880,14,"Budget Hotel,Luxury Hotel",110,7.0,"Three Sisters,Jenolan Caves",40,4.0,"CafÃ©,Fine Dining",40.0,True,100,60,September-November,1.5,AUD,0.72
+Ganges River,India,Haridwar,Nature,Dhaka,2100,Flight,300,6,"Guesthouse,Mid-Range Hotel",40,5.0,"Har Ki Pauri,Ghats",20,3.0,"Street Food,Restaurant",15.0,True,40,30,November-March,1.4,INR,0.013
+Montserrat,Spain,Montserrat,Nature,Dhaka,8500,Flight,850,12,"Budget Hotel,Luxury Hotel",100,7.0,"Montserrat Monastery,Cable Car",40,4.0,"CafÃ©,Fine Dining",35.0,True,80,50,April-October,1.5,EUR,1.08
+Kerala Backwaters,India,Alleppey,Nature,Dhaka,2500,Flight,350,7,"Budget Hotel,Resort",60,7.0,"Houseboats,Munnar",30,3.0,"Street Food,Restaurant",20.0,True,30,30,June-September,1.6,INR,0.013
+Swiss Alps,Switzerland,Zermatt,Nature,Dhaka,8000,Flight,850,12,"Budget Hotel,Luxury Hotel",130,7.0,"Matterhorn,Jungfrau",50,5.0,"CafÃ©,Fine Dining",40.0,True,90,60,June-September,1.5,CHF,0.92
+Dead Sea,Jordan,Ein Bokek,Nature,Dhaka,4500,Flight,700,8,"Budget Hotel,Luxury Hotel",90,5.0,"Salt Floatation,Mud Baths",30,3.0,"Street Food,Restaurant",30.0,True,70,50,November-March,1.5,JOD,0.71
+Tongariro,New Zealand,Tongariro,Nature,Dhaka,11000,Flight,1100,16,"Guesthouse,Tourist Lodge",100,7.0,"Volcanic Trek,Emerald Lakes",50,5.0,"Street Food,Restaurant",35.0,True,110,70,June-September,1.6,NZD,0.7
+Phong Nha,Vietnam,Phong Nha,Nature,Dhaka,2600,Flight,300,6,"Guesthouse,Mid-Range Hotel",50,5.0,"Ke Bang Caves,Paradise Cave",25,3.0,"Street Food,Restaurant",15.0,True,40,30,February-April,1.3,VND,4.3e-05
+Azores,Portugal,Ponta Delgada,Nature,Dhaka,8500,Flight,900,13,"Budget Hotel,Luxury Hotel",100,7.0,"Sete Cidades,Furnas",40,4.0,"CafÃ©,Fine Dining",35.0,True,80,50,April-October,1.4,EUR,1.08
+Kailasa Temple,India,Ellora,Historical,Dhaka,2300,Flight,300,6,"Budget Hotel,Luxury Hotel",60,5.0,"Ellora Caves,Ajanta",20,3.0,"Street Food,Restaurant",20.0,True,40,30,November-March,1.4,INR,0.013
+Hazaribagh,Bangladesh,Hazaribagh,City,Dhaka,150,Bus,25,4,"Guesthouse,Mid-Range Hotel",30,3.0,"Hazaribagh Lake,Forest Trails",10,2.0,"Street Food,Restaurant",12.0,False,0,15,November-February,1.3,BDT,0.0091
+Sunamganj,Bangladesh,Sunamganj,Nature,Dhaka,300,Bus,30,6,"Guesthouse,Mid-Range Hotel",25,3.0,"Haor Wetlands,Bird Watching",10,2.0,"Street Food,Restaurant",10.0,False,0,15,December-March,1.3,BDT,0.0091
+Lalbagh,Bangladesh,Dhaka,Historical,Dhaka,10,Bus,10,1,"Budget Hotel,Luxury Hotel",50,3.0,"Lalbagh Fort,Ahsan Manzil",20,2.0,"Street Food,Fine Dining",20.0,False,0,20,Year-Round,1.0,BDT,0.0091
+Panchagarh,Bangladesh,Panchagarh,Nature,Dhaka,600,Bus,40,9,"Guesthouse,Mid-Range Hotel",25,3.0,"Tetulia Hills,Rocky Terrain",10,2.0,"Street Food,Restaurant",10.0,False,0,15,November-February,1.3,BDT,0.0091
+Nijhum Dwip,Bangladesh,Noakhali,Beach,Dhaka,400,Boat,40,8,"Guesthouse,Tourist Lodge",20,2.0,"Silent Island,Beach",10,3.0,"Street Food,Restaurant",8.0,False,0,10,December-March,1.4,BDT,0.0091
+Tanguar Haor,Bangladesh,Sunamganj,Nature,Dhaka,350,Bus,35,7,"Guesthouse,Mid-Range Hotel",25,3.0,"Wetland Ecosystem,Fishing Villages",15,3.0,"Street Food,Restaurant",10.0,False,0,15,December-March,1.3,BDT,0.0091
+Kaptipara,Bangladesh,Kaptipara,Nature,Dhaka,200,Bus,30,5,"Guesthouse,Tourist Lodge",20,2.0,"Kaptipara Falls,Nature Trails",10,2.0,"Street Food,Restaurant",10.0,False,0,10,November-March,1.3,BDT,0.0091
+Banff National Park,Canada,Banff,Nature,Dhaka,13000,Flight,1300,20,"Budget Hotel,Luxury Hotel",200,10.0,"Banff National Park,Lake Louise",70,6.0,"Street Food,Restaurant",70.0,True,130,110,June-September,1.7,CAD,0.78
+Tajikistan Highlands,Tajikistan,Dushanbe,City/Nature,Dhaka,5000,Flight,600,11,"Guesthouse,Mid-Range Hotel",70,5.0,"Pamir Highway,Iskanderkul Lake",25,3.0,"Street Food,Restaurant",20.0,True,60,50,June-September,1.4,TJS,0.1
+Gulmarg,India,Gulmarg,Nature,Dhaka,2300,Flight,350,6,"Guesthouse,Luxury Hotel",50,5.0,"Gondola Ride,Skiing",30,3.0,"Street Food,Restaurant",15.0,True,40,30,December-March,1.4,INR,0.013
+Kanyakumari,India,Kanyakumari,Beach,Dhaka,2800,Flight,400,7,"Budget Hotel,Resort",60,7.0,"Sunrise Point,Thirparappu Falls",20,3.0,"Street Food,Restaurant",20.0,True,30,25,November-February,1.5,INR,0.013
+Khao Sok,Thailand,Khao Sok,Nature,Dhaka,3200,Flight,350,7,"Guesthouse,Tourist Lodge",50,5.0,"Khao Sok Lake,Elephant Hills",25,3.0,"Street Food,Restaurant",20.0,True,50,30,November-February,1.3,THB,0.03
+GjirokastÃ«r,Albania,GjirokastÃ«r,City/Historical,Dhaka,6800,Flight,700,10,"Budget Hotel,Luxury Hotel",80,5.0,"Old Bazaar,GjirokastÃ«r Castle",25,2.0,"Street Food,Restaurant",25.0,True,60,40,April-October,1.4,ALL,0.011
+Rotorua,New Zealand,Rotorua,Nature,Dhaka,11500,Flight,1100,17,"Budget Hotel,Luxury Hotel",120,7.0,"Geysers,MÄori Village",40,4.0,"CafÃ©,Fine Dining",40.0,True,120,80,December-February,1.6,NZD,0.7
+Svalbard,Norway,Longyearbyen,Nature,Dhaka,10000,Flight,1000,15,"Budget Hotel,Luxury Hotel",150,10.0,"Polar Bears,Arctic Wilderness",60,5.0,"CafÃ©,Fine Dining",50.0,True,100,100,June-August,1.5,NOK,0.1
+Dolomites,Italy,Cortina dâAmpezzo,Nature,Dhaka,7400,Flight,750,11,"Budget Hotel,Luxury Hotel",110,7.0,"Tre Cime,Ski Resorts",40,4.0,"CafÃ©,Fine Dining",35.0,True,80,50,June-September,1.5,EUR,1.08
+Kotor,Montenegro,Kotor,City/Historical,Dhaka,6900,Flight,700,10,"Budget Hotel,Luxury Hotel",90,5.0,"Kotor Bay,Old Town",25,3.0,"Street Food,Restaurant",25.0,True,70,40,April-October,1.4,EUR,1.08
+Palawan,Philippines,El Nido,Beach,Dhaka,4200,Flight,450,9,"Budget Hotel,Resort",70,7.0,"El Nido Beaches,Secret Lagoon",30,3.0,"Street Food,Restaurant",25.0,True,70,40,November-March,1.4,PHP,0.02
+Sintra,Portugal,Sintra,City/Historical,Dhaka,8600,Flight,850,12,"Budget Hotel,Luxury Hotel",100,7.0,"Pena Palace,Moorish Castle",35,3.0,"CafÃ©,Fine Dining",30.0,True,80,50,April-October,1.4,EUR,1.08
+Fes,Morocco,Fes,City/Historical,Dhaka,7100,Flight,700,10,"Budget Hotel,Luxury Hotel",90,7.0,"Medina,Tanneries",30,3.0,"Street Food,Restaurant",30.0,True,80,50,March-May,1.5,MAD,0.11
+Jiufen,Taiwan,Jiufen,City,Dhaka,4800,Flight,500,9,"Budget Hotel,Mid-Range Hotel",60,4.0,"Old Street,Teahouses",20,2.0,"Street Food,Restaurant",20.0,True,50,30,April-October,1.3,TWD,0.033
+Huáº¿,Vietnam,Huáº¿,City/Historical,Dhaka,2700,Flight,300,6,"Budget Hotel,Luxury Hotel",50,5.0,"Imperial City,Purple Citadel",20,2.0,"Street Food,Restaurant",20.0,True,40,30,November-March,1.4,VND,4.3e-05
+Isle of Skye,UK,Portree,Nature,Dhaka,8200,Flight,800,12,"Budget Hotel,Luxury Hotel",100,7.0,"Fairy Pools,Old Man of Storr",30,4.0,"CafÃ©,Fine Dining",30.0,True,90,50,April-September,1.4,GBP,1.25
+Mostar,Bosnia and Herzegovina,Mostar,City/Historical,Dhaka,6700,Flight,650,10,"Budget Hotel,Luxury Hotel",80,5.0,"Stari Most,Neretva River",25,3.0,"Street Food,Restaurant",25.0,True,60,40,April-October,1.4,BAM,0.58
+Lake Como,Italy,Como,Nature,Dhaka,7600,Flight,750,11,"Budget Hotel,Luxury Hotel",100,7.0,"Bellagio,Villa Carlotta",35,3.0,"CafÃ©,Fine Dining",35.0,True,80,50,April-October,1.4,EUR,1.08
+Samui,Thailand,Ko Samui,Beach,Dhaka,3100,Flight,350,7,"Budget Hotel,Resort",60,5.0,"Chaweng Beach,Big Buddha",25,2.0,"Street Food,Restaurant",25.0,True,50,40,November-February,1.3,THB,0.03
+Ranthambore,India,Sawai Madhopur,Nature,Dhaka,2400,Flight,350,6,"Budget Hotel,Luxury Hotel",60,5.0,"Tiger Safari,Ranthambore Fort",25,4.0,"Street Food,Restaurant",20.0,True,40,30,November-March,1.4,INR,0.013
+Ohrid,North Macedonia,Ohrid,City/Historical,Dhaka,6200,Flight,600,9,"Budget Hotel,Luxury Hotel",80,5.0,"Lake Ohrid,St. Naum",25,2.0,"Street Food,Restaurant",25.0,True,60,40,April-October,1.4,MKD,0.019
+Gyeongju,South Korea,Gyeongju,City/Historical,Dhaka,4700,Flight,450,9,"Budget Hotel,Mid-Range Hotel",70,5.0,"Bulguksa Temple,Seokguram",25,3.0,"Street Food,Restaurant",25.0,True,50,30,April-June,1.3,KRW,0.00085
+Dominica,Dominica,Roseau,Nature,Dhaka,12000,Flight,1200,18,"Budget Hotel,Luxury Hotel",100,7.0,"Boiling Lake,Trafalgar Falls",40,4.0,"Street Food,Restaurant",30.0,True,100,60,November-March,1.5,XCD,0.37
+Sossusvlei,Namibia,Sossusvlei,Nature,Dhaka,10000,Flight,1000,15,"Guesthouse,Tourist Lodge",90,7.0,"Namib Desert,Dune 45",50,5.0,"Street Food,Restaurant",30.0,True,100,60,June-September,1.6,NAD,0.06
+Triglav,Slovenia,Bled,Nature,Dhaka,7900,Flight,800,12,"Budget Hotel,Luxury Hotel",90,5.0,"Triglav Peak,Lake Bled",30,4.0,"CafÃ©,Fine Dining",30.0,True,80,50,June-September,1.5,EUR,1.08
+Chittorgarh,India,Chittorgarh,City/Historical,Dhaka,2400,Flight,300,6,"Budget Hotel,Luxury Hotel",60,5.0,"Chittorgarh Fort,Vijay Stambh",25,3.0,"Street Food,Restaurant",20.0,True,40,30,November-March,1.4,INR,0.013
+Langtang,Nepal,Langtang,Nature,Dhaka,1600,Flight,200,5,"Guesthouse,Mid-Range Hotel",40,5.0,"Langtang Valley,Kyanjin Gompa",20,4.0,"Street Food,Restaurant",15.0,True,20,20,March-May,1.4,NPR,0.0088
+Tartu,Estonia,Tartu,City,Dhaka,8600,Flight,850,13,"Budget Hotel,Luxury Hotel",90,5.0,"Old Town,University of Tartu",25,2.0,"Street Food,Restaurant",25.0,True,80,40,April-October,1.4,EUR,1.08
+Safranbolu,Turkey,Safranbolu,City/Historical,Dhaka,5100,Flight,600,10,"Budget Hotel,Luxury Hotel",80,5.0,"Ottoman Houses,Hammam",25,3.0,"Street Food,Restaurant",25.0,True,70,40,March-May,1.4,TRY,0.12
+Taveuni,Fiji,Taveuni,Beach,Dhaka,11000,Flight,1100,16,"Budget Hotel,Resort",80,7.0,"Somosomo Strait,Dive Sites",30,3.0,"Street Food,Restaurant",25.0,True,120,50,April-October,1.5,FJD,0.48
+Kashan,Iran,Kashan,City/Historical,Dhaka,4900,Flight,700,11,"Budget Hotel,Luxury Hotel",90,7.0,"Tabatabaei House,Finn Garden",30,4.0,"Street Food,Restaurant",30.0,True,70,50,March-May,1.5,IRR,2.4e-05
+BaÃ±os,Ecuador,BaÃ±os,Nature,Dhaka,10000,Flight,1000,15,"Guesthouse,Tourist Lodge",70,5.0,"Hot Springs,PailÃ³n del Diablo",30,4.0,"Street Food,Restaurant",25.0,True,100,60,November-March,1.5,USD,1.0
+Vang Vieng,Laos,Vang Vieng,Nature,Dhaka,3800,Flight,400,8,"Guesthouse,Mid-Range Hotel",50,5.0,"Tubing,Blue Lagoon",15,2.0,"Street Food,Restaurant",15.0,True,40,25,November-March,1.4,LAK,0.00012
+SighiÈoara,Romania,SighiÈoara,City/Historical,Dhaka,7100,Flight,700,10,"Budget Hotel,Luxury Hotel",80,5.0,"Draculaâs Castle,Clock Tower",25,2.0,"Street Food,Restaurant",25.0,True,70,40,April-October,1.4,RON,0.23
+Cox's Hill,Bangladesh,Cox's Hill,Nature,Dhaka,550,Bus,40,8,"Guesthouse,Mid-Range Hotel",25,3.0,"Hill Views,Nature Trails",10,2.0,"Street Food,Restaurant",10.0,False,0,15,November-February,1.3,BDT,0.0091
+Narsingdi,Bangladesh,Narsingdi,City,Dhaka,100,Bus,25,3,"Budget Hotel,Mid-Range Hotel",30,3.0,"Textile Market,Sadarghat",10,2.0,"Street Food,Restaurant",12.0,False,0,15,Year-Round,1.2,BDT,0.0091
+Feni,Bangladesh,Feni,City,Dhaka,200,Bus,30,4,"Budget Hotel,Mid-Range Hotel",25,3.0,"Feni River,Local Markets",10,2.0,"Street Food,Restaurant",10.0,False,0,10,November-February,1.3,BDT,0.0091
+Brahmanbaria,Bangladesh,Brahmanbaria,City,Dhaka,150,Bus,25,3,"Guesthouse,Mid-Range Hotel",25,3.0,"Kachari Ruins,Shrine",10,2.0,"Street Food,Restaurant",10.0,False,0,10,Year-Round,1.2,BDT,0.0091
+Tangail,Bangladesh,Tangail,City,Dhaka,120,Bus,20,3,"Budget Hotel,Mid-Range Hotel",30,3.0,"Mirzapur Bridge,Weaving Villages",10,2.0,"Street Food,Restaurant",12.0,False,0,15,Year-Round,1.2,BDT,0.0091
+Jessore,Bangladesh,Jessore,City,Dhaka,250,Bus,35,5,"Budget Hotel,Mid-Range Hotel",30,3.0,"Khan Jahan Ali Shrine,Fish Markets",15,2.0,"Street Food,Restaurant",12.0,False,0,15,November-February,1.3,BDT,0.0091
+Narail,Bangladesh,Narail,City,Dhaka,200,Bus,30,4,"Guesthouse,Mid-Range Hotel",25,3.0,"Narail Palace,Gopalganj",10,2.0,"Street Food,Restaurant",10.0,False,0,10,Year-Round,1.2,BDT,0.0091
+Satkhira,Bangladesh,Satkhira,Nature,Dhaka,300,Bus,35,6,"Guesthouse,Mid-Range Hotel",25,3.0,"Mangrove Forests,Salt Fields",10,2.0,"Street Food,Restaurant",10.0,False,0,15,November-February,1.3,BDT,0.0091
+Magura,Bangladesh,Magura,City,Dhaka,180,Bus,25,4,"Guesthouse,Mid-Range Hotel",25,3.0,"Magura Hills,Local Culture",10,2.0,"Street Food,Restaurant",10.0,False,0,10,Year-Round,1.2,BDT,0.0091
+Chuadanga,Bangladesh,Chuadanga,City,Dhaka,280,Bus,35,5,"Budget Hotel,Mid-Range Hotel",30,3.0,"Chuadanga Fort,Farms",10,2.0,"Street Food,Restaurant",12.0,False,0,15,November-February,1.3,BDT,0.0091
+Meherpur,Bangladesh,Meherpur,City,Dhaka,300,Bus,30,6,"Guesthouse,Mid-Range Hotel",25,3.0,"Meherpur Museum,Local Life",10,2.0,"Street Food,Restaurant",10.0,False,0,10,Year-Round,1.2,BDT,0.0091
+Kurigram,Bangladesh,Kurigram,Nature,Dhaka,450,Bus,40,8,"Guesthouse,Mid-Range Hotel",25,3.0,"Kurigram Bridge,River Views",10,2.0,"Street Food,Restaurant",10.0,False,0,15,November-February,1.3,BDT,0.0091
+Thakurgaon,Bangladesh,Thakurgaon,Nature,Dhaka,550,Bus,40,9,"Guesthouse,Mid-Range Hotel",25,3.0,"Tea Estates,Hill Views",10,2.0,"Street Food,Restaurant",10.0,False,0,15,November-February,1.3,BDT,0.0091
+Joypurhat,Bangladesh,Joypurhat,City,Dhaka,400,Bus,35,7,"Budget Hotel,Mid-Range Hotel",30,3.0,"Joypurhat Temples,Sugarcane Fields",10,2.0,"Street Food,Restaurant",12.0,False,0,15,Year-Round,1.2,BDT,0.0091
+Naogaon,Bangladesh,Naogaon,City,Dhaka,350,Bus,30,7,"Budget Hotel,Mid-Range Hotel",30,3.0,"Naogaon Lakes,Paharpur Ruins",15,2.0,"Street Food,Restaurant",12.0,False,0,15,November-February,1.3,BDT,0.0091
+Lakshmipur,Bangladesh,Lakshmipur,City,Dhaka,150,Bus,25,4,"Guesthouse,Mid-Range Hotel",25,3.0,"Meghna River,Local Markets",10,2.0,"Street Food,Restaurant",10.0,False,0,10,November-February,1.3,BDT,0.0091
+Puerto Princesa,Philippines,Puerto Princesa,Beach,Dhaka,4300,Flight,450,9,"Budget Hotel,Resort",70,7.0,"Underground River,Honda Bay",30,3.0,"Street Food,Restaurant",25.0,True,70,40,November-March,1.4,PHP,0.02
+Sigiriya,Sri Lanka,Sigiriya,Historical,Dhaka,2300,Flight,300,6,"Budget Hotel,Luxury Hotel",50,5.0,"Sigiriya Rock,Lionâs Paw",20,3.0,"Street Food,Restaurant",15.0,True,30,25,December-March,1.3,LKR,0.005
+Sarajevo,Bosnia and Herzegovina,Sarajevo,City/Historical,Dhaka,6700,Flight,650,10,"Budget Hotel,Luxury Hotel",80,5.0,"BaÅ¡ÄarÅ¡ija,War Museum",25,2.0,"Street Food,Restaurant",25.0,True,60,40,April-October,1.4,BAM,0.58
+Plitvice Lakes,Croatia,Plitvice,Nature,Dhaka,6900,Flight,700,10,"Budget Hotel,Luxury Hotel",90,5.0,"Waterfalls,Lakes",30,3.0,"CafÃ©,Fine Dining",30.0,True,60,50,April-October,1.4,HRK,0.16
+Kochi (Japan),Japan,Kochi,City/Historical,Dhaka,5800,Flight,650,11,"Budget Hotel,Mid-Range Hotel",70,5.0,"Kochi Castle,Sunday Market",25,2.0,"Street Food,Restaurant",25.0,True,60,40,March-May,1.4,JPY,0.0077
+Petra National Park,Jordan,Wadi Musa,Historical,Dhaka,4500,Flight,700,8,"Budget Hotel,Luxury Hotel",90,3.0,"Petra Treasury,Monastery",50,4.0,"Street Food,Restaurant",30.0,True,70,50,November-March,1.5,JOD,0.71
+Essaouira,Morocco,Essaouira,Beach,Dhaka,7200,Flight,700,10,"Budget Hotel,Resort",70,3.0,"Medina,Beach Ramparts",25,3.0,"Street Food,Restaurant",25.0,True,80,40,March-May,1.5,MAD,0.11
+Koh Rong,Cambodia,Koh Rong,Beach,Dhaka,3600,Flight,400,8,"Budget Hotel,Resort",60,3.0,"White Beach,Long Beach",20,2.0,"Street Food,Restaurant",20.0,True,50,30,November-March,1.3,KHR,0.00025
+Goreme,Turkey,Goreme,Nature,Dhaka,5000,Flight,650,9,"Budget Hotel,Luxury Hotel",90,3.0,"Fairy Chimneys,Balloon Rides",40,4.0,"Street Food,Fine Dining",30.0,True,70,50,March-May,1.5,TRY,0.12
+Batanes,Philippines,Basco,Nature,Dhaka,4500,Flight,500,10,"Guesthouse,Resort",60,3.0,"Sabtang Island,Marlboro Hills",25,3.0,"Street Food,Restaurant",20.0,True,70,30,November-March,1.4,PHP,0.02
+Chandpur,Bangladesh,Chandpur,City,Dhaka,250,Bus,30,5,"Guesthouse,Mid-Range Hotel",25,3.0,"Padma River,Fish Markets",10,2.0,"Street Food,Restaurant",10.0,False,0,15,November-February,1.3,BDT,0.0091
+Gaibandha,Bangladesh,Gaibandha,Nature,Dhaka,400,Bus,35,7,"Guesthouse,Mid-Range Hotel",25,3.0,"Jamuna River,Rice Fields",10,2.0,"Street Food,Restaurant",10.0,False,0,15,November-February,1.3,BDT,0.0091
+Patuakhali,Bangladesh,Patuakhali,Beach,Dhaka,350,Bus,30,6,"Guesthouse,Mid-Range Hotel",25,3.0,"Bay of Bengal,Local Life",10,2.0,"Street Food,Restaurant",10.0,False,0,15,November-February,1.3,BDT,0.0091
+Sherpur,Bangladesh,Sherpur,Nature,Dhaka,300,Bus,30,6,"Guesthouse,Mid-Range Hotel",25,3.0,"Forests,Hill Views",10,2.0,"Street Food,Restaurant",10.0,False,0,15,November-February,1.3,BDT,0.0091
+Netrokona,Bangladesh,Netrokona,City,Dhaka,200,Bus,25,5,"Guesthouse,Mid-Range Hotel",25,3.0,"Netrokona Haor,Tribal Villages",10,2.0,"Street Food,Restaurant",10.0,False,0,15,December-March,1.3,BDT,0.0091
+Mongla,Bangladesh,Mongla,Nature,Dhaka,270,Bus,30,6,Guesthouse,25,3.0,Karamjal Wildlife,10,2.0,Street Food,15.0,False,0,15,December-March,1.3,BDT,0.0091
+Faridpur,Bangladesh,Faridpur,Nature,Dhaka,90,Bus,20,5,Guesthouse,25,3.0,Pagla Mosqu,10,2.0,Street Food,15.0,False,0,15,December-March,1.3,BDT,0.0091
+Gazipur,Bangladesh,Gazipur,City,Dhaka,40,Bus,25,6,Guesthouse,25,3.0,Fantasy Kingdom,10,2.0,Street Food,10.0,False,0,15,December-March,1.3,BDT,0.0091
+Gopalganj,Bangladesh,Gopalganj,Nature,Dhaka,120,Bus,20,5,Guesthouse,25,3.0,ar Memorial,10,2.0,Street Food,10.0,False,0,15,December-March,1.3,BDT,0.0091
+Jamalpur,Bangladesh,Jamalpur,Nature,Dhaka,180,Bus,25,6,Guesthouse,25,3.0,District Stadium,10,2.0,Street Food,10.0,False,0,15,December-March,1.3,BDT,0.0091
+Kishoreganj,Bangladesh,Kishoreganj,City,Dhaka,100,Bus,25,5,Budget Hotel,25,3.0,Kishoreganj Mosqu,10,2.0,Street Food,10.0,False,0,15,December-March,1.3,BDT,0.0091
+Madaripur,Bangladesh,Madaripur,Nature,Dhaka,130,Bus,20,7,Guesthouse,25,3.0,Madaripur Park,10,2.0,Street Food,10.0,False,0,15,December-March,1.3,BDT,0.0091
+Manikganj,Bangladesh,Manikganj,Nature,Dhaka,40,Bus,25,6,Guesthouse,25,3.0,Shibpur Eco Park,10,2.0,Street Food,10.0,False,0,15,December-March,1.3,BDT,0.0091
+Munshiganj,Bangladesh,Munshiganj,Nature,Dhaka,25,Bus,25,4,Guesthouse,25,3.0,Chandana Bazar,10,2.0,Street Food,10.0,False,0,15,December-March,1.3,BDT,0.0091
+Mymensingh,Bangladesh,Mymensingh,City,Dhaka,120,Bus,20,6,Budget Hotel,25,3.0,Baghmara Park,10,2.0,Street Food,10.0,False,0,15,December-March,1.3,BDT,0.0091
+Naranganj,Bangladesh,Naranganj,Nature,Dhaka,20,Bus,15,7,GuestHouse,25,3.0,Shitlakshya River,10,2.0,Street Food,10.0,False,0,15,December-March,1.3,BDT,0.0091
+Narshindi,Bangladesh,Narshindi,Nature,Dhaka,50,Bus,20,8,Guesthouse,25,3.0,Bhairab Bazar,10,2.0,Street Food,10.0,False,0,15,December-March,1.3,BDT,0.0091
+Rajbari,Bangladesh,Rajbari,Historical,Dhaka,100,Bus,25,5,Budget Hotel,25,3.0,Rajbari Sadar,10,2.0,Street Food,15.0,False,0,15,December-March,1.3,BDT,0.0091
+Shariatpur,Bangladesh,Shariatpur,Nature,Dhaka,100,Bus,20,4,Guesthouse,25,3.0,Mathbaria Bazar,10,2.0,Street Food,15.0,False,0,15,December-March,1.3,BDT,0.0091
+Natore,Bangladesh,Natore,City,Dhaka,200,Bus,20,6,Guesthouse,25,3.0,Naldanga Lake,10,2.0,Street Food,10.0,False,0,15,December-March,1.3,BDT,0.0091
+Bogra,Bangladesh,Bogra,Historical,Dhaka,200,Bus,25,8,Guesthouse,25,3.0,Khandar bagan,10,2.0,Street Food,1.0,False,0,15,December-March,1.3,BDT,0.0091
+Nawabganj,Bangladesh,Nawabganj,Nature,Dhaka,170,Bus,25,6,Guesthouse,25,3.0,nawwabganj District,10,2.0,Street Food,15.0,False,0,15,December-March,1.3,BDT,0.0091
+Pabna,Bangladesh,Pabna,Nature,Dhaka,150,Bus,20,5,Budget Hotel,25,3.0,Central Park,10,2.0,Street Food,10.0,False,0,15,December-March,1.3,BDT,0.0091
+Sirajgonj,Bangladesh,Sirajgonj,Nature,Dhaka,130,Bus,30,4,Guesthouse,25,3.0,Padma Bridge,10,2.0,Street Food,10.0,False,0,15,December-March,1.3,BDT,0.0091
+Nilphamari,Bangladesh,Nilphamari,Historical,Dhaka,380,Bus,35,6,Guesthouse,25,3.0,Sreepur Park,10,2.0,Street Food,15.0,False,0,15,December-March,1.3,BDT,0.0091
+Rangpur,Bangladesh,Rangpur,City,Dhaka,330,Bus,30,7,Budget Hotel,25,3.0,Tajhat Palace,10,2.0,Street Food,10.0,False,0,15,December-March,1.3,BDT,0.0091
+Barguna,Bangladesh,Barguna,Nature,Dhaka,330,Bus,30,7,Guesthouse,25,3.0,Kuakata Sea Beach,10,2.0,Street Food,15.0,False,0,15,December-March,1.3,BDT,0.0091
+Bhola,Bangladesh,Bhola,Nature,Dhaka,300,Bus,25,8,Guesthouse,25,3.0,Shibchar Mosque,10,2.0,Street Food,10.0,False,0,15,December-March,1.3,BDT,0.0091
+Jhalokati,Bangladesh,Jhalokati,Nature,Dhaka,280,Bus,30,6,Guesthouse,25,3.0,Satkhira Sanctuary,10,2.0,Street Food,10.0,False,0,15,December-March,1.3,BDT,0.0091
+Pirojpur,Bangladesh,Pirojpur,Nature,Dhaka,270,Bus,20,5,Guesthouse,25,3.0,Pirojpur Bazar,10,2.0,Street Food,10.0,False,0,15,December-March,1.3,BDT,0.0091
+Comilla,Bangladesh,Comilla,City,Dhaka,100,Bus,25,5,Budget Hotel,25,3.0,Lalmai Hills,10,2.0,Street Food,10.0,False,0,15,December-March,1.3,BDT,0.0091
+Khagrachari,Bangladesh,Khagrachari,Nature,Dhaka,200,Bus,25,6,Budget Hotel,25,3.0,Khagrachori Baar,10,2.0,Street Food,10.0,False,0,15,December-March,1.3,BDT,0.0091
+Noakhali,Bangladesh,Noakhali,Nature,Dhaka,160,Bus,25,5,Budget Hotel,25,3.0,Begumganj,10,2.0,Street Food,10.0,False,0,15,December-March,1.3,BDT,0.0091
+Habiganj,Bangladesh,Habiganj,Nature,Dhaka,160,Bus,20,4,Budget Hotel,25,3.0,Rajanagar Ppark,10,2.0,Street Food,10.0,False,0,15,December-March,1.3,BDT,0.0091
+Maulvibazar,Bangladesh,Maulvibazar,City,Dhaka,180,Bus,25,5,Budget Hotel,25,3.0,Lawwachara National Park,10,2.0,Street Food,10.0,False,0,15,December-March,1.3,BDT,0.0091
+Jhenaidah,Bangladesh,Jhenaidah,City,Dhaka,200,Bus,25,8,Guesthouse,25,3.0,Koyra Bazar,10,2.0,Street Food,15.0,False,0,15,December-March,1.3,BDT,0.0091
+Kushtia,Bangladesh,Kushtia,City,Dhaka,230,Bus,20,5,Guesthouse,25,3.0,Kuthi Bari,10,2.0,Street Food,15.0,False,0,15,December-March,1.3,BDT,0.0091
+Savar,Bangladesh,Savar,City,Dhaka,30,Bus,20,6,Budget Hotel,25,3.0,National Martyrs Memorial,10,2.0,Street Food,15.0,False,0,15,December-March,1.3,BDT,0.0091
+Keraniganj,Bangladesh,Keraniganj,City,Dhaka,20,Bus,25,7,Guesthouse,25,3.0,River Boat Tours,10,2.0,Street Food,10.0,False,0,15,December-March,1.3,BDT,0.0091
+Dohar,Bangladesh,Dohar,Nature,Dhaka,30,Bus,20,4,Guesthouse,25,3.0,Gopalganj Bazar,10,2.0,Street Food,10.0,False,0,15,December-March,1.3,BDT,0.0091
+Dhamrai,Bangladesh,Dhamrai,City,Dhaka,40,Bus,20,5,Guesthouse,25,3.0,Mollah Bazar,10,2.0,Street Food,10.0,False,0,15,December-March,1.3,BDT,0.0091
+Durgapur,Bangladesh,Durgapur,Nature,Dhaka,120,Bus,25,6,Budget Hotel,25,3.0,Durgapur Eco Park,10,2.0,Street Food,10.0,False,0,15,December-March,1.3,BDT,0.0091
+Charghat,Bangladesh,Charghat,Nature,Dhaka,190,Bus,25,7,Guesthouse,25,3.0,Charghat Mosquw,10,2.0,Street Food,10.0,False,0,15,December-March,1.3,BDT,0.0091
+Bhaluka,Bangladesh,Bhaluka,Nature,Dhaka,50,Bus,20,4,Guesthouse,25,3.0,Bhaluka Park,10,2.0,Street Food,16.0,False,0,15,December-March,1.3,BDT,0.0091
+Fulbaria,Bangladesh,Fulbaria,Nature,Dhaka,60,Bus,30,3,Guesthouse,25,3.0,Fulbaria chairman bari,10,2.0,Street Food,15.0,False,0,15,December-March,1.3,BDT,0.0091
+Gauripur,Bangladesh,Gauripur,Nature,Dhaka,150,Bus,35,4,Guesthouse,25,3.0,Gauripur Sadar,10,2.0,Street Food,10.0,False,0,15,December-March,1.3,BDT,0.0091
+Mymensingh Sadar,Bangladesh,Mymensingh Sadar,City,Dhaka,130,Bus,30,5,Guesthouse,25,3.0,Sherpur,10,2.0,Street Food,16.0,False,0,15,December-March,1.3,BDT,0.0091
+Muktagachha,Bangladesh,Muktagachha,Historical,Dhaka,130,Bus,30,6,Guesthouse,25,3.0,muktagacha Lake,10,2.0,Street Food,15.0,False,0,15,December-March,1.3,BDT,0.0091
+Trishal,Bangladesh,Trishal,Historical,Dhaka,90,Bus,25,4,Guesthouse,25,3.0,Trishal Local Bazar,10,2.0,Street Food,10.0,False,0,15,December-March,1.3,BDT,0.0091
+Meghna,Bangladesh,Meghna,Nature,Dhaka,100,Bus,30,5,Guesthouse,25,3.0,"Meghna River,Local Markets",10,2.0,Street Food,10.0,False,0,15,December-March,1.3,BDT,0.0091
+Titas,Bangladesh,Titas,Nature,Dhaka,110,Bus,20,4,Guesthouse,25,3.0,Titas Upazila,10,2.0,Street Food,10.0,False,0,15,December-March,1.3,BDT,0.0091
+Monohargonj,Bangladesh,Monohargonj,Nature,Dhaka,90,Bus,25,8,Guesthouse,25,3.0,Monohorganj Park,10,2.0,Street Food,10.0,False,0,15,December-March,1.3,BDT,0.0091
+Brahmanpara,Bangladesh,Brahmanpara,Nature,Dhaka,280,Bus,20,6,Guesthouse,25,3.0,Lake Bazar,10,2.0,Street Food,10.0,False,0,15,December-March,1.3,BDT,0.0091
+Barishal Sadar,Bangladesh,Barishal Sadar,Nature,Dhaka,300,Bus,25,4,Budget Hotel,25,3.0,Kuakata Sea  Beach,10,2.0,Street Food,10.0,False,0,15,December-March,1.3,BDT,0.0091
+Mehendiganj,Bangladesh,Mehendiganj,Nature,Dhaka,280,Bus,25,6,Guesthouse,25,3.0,Sadar Upazila,10,2.0,Street Food,10.0,False,0,15,December-March,1.3,BDT,0.0091
+Muladi,Bangladesh,Muladi,Nature,Dhaka,270,Bus,20,5,Guesthouse,25,3.0,Muladi Sadar,10,2.0,Street Food,10.0,False,0,15,December-March,1.3,BDT,0.0091
+Wazirpur,Bangladesh,Wazirpur,Nature,Dhaka,130,Bus,25,6,Guesthouse,25,3.0,Wazzirpur Lake,10,2.0,Street Food,10.0,False,0,15,December-March,1.3,BDT,0.0091
+Boalmari,Bangladesh,Boalmari,Nature,Dhaka,150,Bus,25,5,Guesthouse,25,3.0,Boalmari mosquw,10,2.0,Street Food,15.0,False,0,15,December-March,1.3,BDT,0.0091
+Madhukhali,Bangladesh,Madhukhali,Nature,Dhaka,140,Bus,20,4,Guesthouse,25,3.0,Madhukali Boro Bazar,10,2.0,Street Food,15.0,False,0,15,December-March,1.3,BDT,0.0091
+Nagarkanda,Bangladesh,Nagarkanda,Nature,Dhaka,140,Bus,15,8,Guesthouse,25,3.0,Nagarkanda Mosquw,10,2.0,Street Food,15.0,False,0,15,December-March,1.3,BDT,0.0091
+Sadarpur Saltha,Bangladesh,Sadarpur Saltha,City,Dhaka,150,Bus,20,7,Budget Hotel,25,3.0,Eco Park,10,2.0,Street Food,15.0,False,0,15,December-March,1.3,BDT,0.0091
+Bogra Sadar,Bangladesh,Bogra Sadar,City,Dhaka,200,Bus,25,6,Budget Hotel,25,3.0,Archaelogical Sites,10,2.0,Street Food,15.0,False,0,15,December-March,1.3,BDT,0.0091
+Faridpur Sadar,Bangladesh,Faridpur Sadar,City,Dhaka,90,Bus,20,5,Budget Hotel,25,3.0,Local Markets,10,2.0,Street Food,15.0,False,0,15,December-March,1.3,BDT,0.0091
+Nandigram,Bangladesh,Nandigram,Nature,Dhaka,160,Bus,20,4,Guesthouse,25,3.0,Nandigram Park,10,2.0,Street Food,10.0,False,0,15,December-March,1.3,BDT,0.0091
+Shibganj,Bangladesh,Shibganj,Nature,Dhaka,180,Bus,25,3,Guesthouse,25,3.0,Local Temples,10,2.0,Street Food,10.0,False,0,15,December-March,1.3,BDT,0.0091
+Sonatola,Bangladesh,Sonatola,Nature,Dhaka,190,Bus,25,5,Guesthouse,25,3.0,Sonatola Park,10,2.0,Street Food,10.0,False,0,15,December-March,1.3,BDT,0.0091
+Bhangura,Bangladesh,Bhangura,Nature,Dhaka,160,Bus,20,6,Guesthouse,25,3.0,Local Heritage Sites,10,2.0,Street Food,10.0,False,0,15,December-March,1.3,BDT,0.0091
+Ishwardi Pabna,Bangladesh,Ishwardi Pabna,Nature,Dhaka,150,Bus,10,7,Guesthouse,25,3.0,Ishwardi Park,10,2.0,Street Food,15.0,False,0,15,December-March,1.3,BDT,0.0091
+Sujanagar,Bangladesh,Sujanagar,Nature,Dhaka,150,Bus,20,6,Guesthouse,25,3.0,Sujanagar Park,10,2.0,Street Food,15.0,False,0,15,December-March,1.3,BDT,0.0091
+Belaichhari,Bangladesh,Belaichhari,Nature,Dhaka,130,Bus,25,5,Guesthouse,25,3.0,Belaichari Sadar,10,2.0,Street Food,10.0,False,0,15,December-March,1.3,BDT,0.0091
+Kaptai,Bangladesh,Kaptai,City,Dhaka,350,Bus,15,6,Budget Hotel,25,3.0,"Kaptai Lake,Hanging Bridge",10,2.0,Street Food,20.0,False,0,15,December-March,1.3,BDT,0.0091
+Juraichhari,Bangladesh,Juraichhari,Nature,Dhaka,350,Bus,20,7,Guesthouse,25,3.0,Local Village,10,2.0,Street Food,10.0,False,0,15,December-March,1.3,BDT,0.0091
+Naniyachar,Bangladesh,Naniyachar,Nature,Dhaka,100,Bus,20,5,Guesthouse,25,3.0,Cultural Sites,10,2.0,Street Food,10.0,False,0,15,December-March,1.3,BDT,0.0091
+Rajasthali,Bangladesh,Rajasthali,Nature,Dhaka,120,Bus,25,4,Guesthouse,25,3.0,Temple,10,2.0,Street Food,10.0,False,0,15,December-March,1.3,BDT,0.0091
+Rangamati Sadar,Bangladesh,Rangamati Sadar,City,Dhaka,200,Bus,25,6,Budget Hotel,25,3.0,Hanging Bridge,10,2.0,Street Food,10.0,False,0,15,December-March,1.3,BDT,0.0091
+Kumarkhali,Bangladesh,Kumarkhali,Nature,Dhaka,160,Bus,25,7,Guesthouse,25,3.0,Local Boro  Bazar,10,2.0,Street Food,10.0,False,0,15,December-March,1.3,BDT,0.0091
+Mirpur,Bangladesh,Mirpur,City,Dhaka,160,Bus,25,3,Budget Hotel,25,3.0,Dhaka Zoo,10,2.0,Street Food,10.0,False,0,15,December-March,1.3,BDT,0.0091
+Shekhpara,Bangladesh,Shekhpara,Nature,Dhaka,180,Bus,25,8,Guesthouse,25,3.0,Agricultual Activities,10,2.0,Street Food,10.0,False,0,15,December-March,1.3,BDT,0.0091
+Badarganj,Bangladesh,Badarganj,Nature,Dhaka,200,Bus,20,4,Guesthouse,25,3.0,Local mosque and tempple,10,2.0,Street Food,10.0,False,0,15,December-March,1.3,BDT,0.0091
+Gangachhara,Bangladesh,Gangachhara,Nature,Dhaka,230,Bus,20,4,Guesthouse,25,3.0,Traditional Markets,10,2.0,Street Food,10.0,False,0,15,December-March,1.3,BDT,0.0091
+Kaunia,Bangladesh,Kaunia,Nature,Dhaka,190,Bus,20,6,Guesthouse,25,3.0,Historical Landmarks,10,2.0,Street Food,10.0,False,0,15,December-March,1.3,BDT,0.0091
+Rangpur Sadar,Bangladesh,Rangpur Sadar,City,Dhaka,30,Bus,20,8,Budget Hotel,25,3.0,Tajhat Palace,10,2.0,Street Food,10.0,False,0,15,December-March,1.3,BDT,0.0091
+Mithapukur,Bangladesh,Mithapukur,Nature,Dhaka,20,Bus,20,4,Guesthouse,25,3.0,Fishing areas,10,2.0,Street Food,10.0,False,0,15,December-March,1.3,BDT,0.0091
+Pirgachha,Bangladesh,Pirgachha,Nature,Dhaka,30,Bus,25,3,Guesthouse,25,3.0,Local attractions,10,2.0,Street Food,10.0,False,0,15,December-March,1.3,BDT,0.0091
+Pirganj,Bangladesh,Pirganj,Nature,Dhaka,40,Bus,20,7,Guesthouse,25,3.0,Local villages,10,2.0,Street Food,10.0,False,0,15,December-March,1.3,BDT,0.0091
+Taraganj,Bangladesh,Taraganj,Nature,Dhaka,120,Bus,25,7,Guesthouse,25,3.0,bazar and temples,10,2.0,Street Food,10.0,False,0,15,December-March,1.3,BDT,0.0091
+Begumganj,Bangladesh,Begumganj,Nature,Dhaka,190,Bus,25,6,Guesthouse,25,3.0,Surrounding areas,10,2.0,Street Food,10.0,False,0,15,December-March,1.3,BDT,0.0091
+Noakhali Sadar,Bangladesh,Noakhali Sadar,City,Dhaka,50,Bus,20,5,Budget Hotel,25,3.0,Begumganj,10,2.0,Street Food,10.0,False,0,15,December-March,1.3,BDT,0.0091
+Chatkhali,Bangladesh,Chatkhali,City,Dhaka,60,Bus,25,4,Budget Hotel,25,3.0,Local culture,10,2.0,Street Food,10.0,False,0,15,December-March,1.3,BDT,0.0091
+Companiganj,Bangladesh,Companiganj,City,Dhaka,150,Bus,25,3,Guesthouse,25,3.0,Historical Sites,10,2.0,Street Food,10.0,False,0,15,December-March,1.3,BDT,0.0091
+Hatiya,Bangladesh,Hatiya,City,Dhaka,130,Bus,20,8,Guesthouse,25,3.0,Hatiya eco park,10,2.0,Street Food,10.0,False,0,15,December-March,1.3,BDT,0.0091
+Senbagh,Bangladesh,Senbagh,City,Dhaka,130,Bus,15,5,Guesthouse,25,3.0,Local park and temples,10,2.0,Street Food,10.0,False,0,15,December-March,1.3,BDT,0.0091
+Sonaiuri,Bangladesh,"Sonai,uri",City,Dhaka,90,Bus,20,6,Guesthouse,25,3.0,Boat Tours,10,2.0,Street Food,10.0,False,0,15,December-March,1.3,BDT,0.0091
+Subarnachar,Bangladesh,Subarnachar,Nature,Dhaka,100,Bus,25,7,Guesthouse,25,3.0,Fishing Spot,10,2.0,Street Food,10.0,False,0,15,December-March,1.3,BDT,0.0091
+Kabirhat,Bangladesh,Kabirhat,Nature,Dhaka,110,Bus,20,5,Guesthouse,25,3.0,Mosque,10,2.0,Street Food,10.0,False,0,15,December-March,1.3,BDT,0.0091
+Batiaghata,Bangladesh,Batiaghata,Nature,Dhaka,140,Bus,20,8,Guesthouse,25,3.0,Scenic River  views,10,2.0,Street Food,10.0,False,0,15,December-March,1.3,BDT,0.0091
+Dumuria,Bangladesh,Dumuria,Nature,Dhaka,140,Bus,25,4,Guesthouse,25,3.0,Heritage Sites,10,2.0,Street Food,10.0,False,0,15,December-March,1.3,BDT,0.0091
+Koyra,Bangladesh,Koyra,Nature,Dhaka,150,Bus,25,5,Guesthouse,25,3.0,Sundarbans Tours,10,2.0,Street Food,10.0,False,0,15,December-March,1.3,BDT,0.0091
+Phultala,Bangladesh,Phultala,Nature,Dhaka,200,Bus,20,6,Guesthouse,25,3.0,Pphultala Temple,10,2.0,Street Food,10.0,False,0,15,December-March,1.3,BDT,0.0091
+Rupsha,Bangladesh,Rupsha,Nature,Dhaka,90,Bus,10,7,Guesthouse,25,3.0,Boat Tours,10,2.0,Street Food,10.0,False,0,15,December-March,1.3,BDT,0.0091
+Terokhada,Bangladesh,Terokhada,Nature,Dhaka,160,Bus,20,8,Guesthouse,25,3.0,Local Markets,10,2.0,Street Food,10.0,False,0,15,December-March,1.3,BDT,0.0091
+Daulatpur,Bangladesh,Daulatpur,Nature,Dhaka,180,Bus,25,9,Guesthouse,25,3.0,Local Villages,10,2.0,Street Food,10.0,False,0,15,December-March,1.3,BDT,0.0091
+Khalishpur,Bangladesh,Khalishpur,Nature,Dhaka,190,Bus,15,5,Guesthouse,25,3.0,River Activities,10,2.0,Street Food,10.0,False,0,15,December-March,1.3,BDT,0.0091
+Khan Jahan Ali,Bangladesh,Khan Jahan Ali,Historical,Dhaka,160,Bus,20,4,Guesthouse,25,3.0,Jahan Ali Mazar,10,2.0,Street Food,10.0,False,0,15,December-March,1.3,BDT,0.0091
+Kotwali,Bangladesh,Kotwali,Nature,Dhaka,150,Bus,20,5,Guesthouse,25,3.0,old city,10,2.0,Street Food,10.0,False,0,15,December-March,1.3,BDT,0.0091
+Sonadanga,Bangladesh,Sonadanga,City,Dhaka,150,Bus,25,4,Guesthouse,25,3.0,Scenic Spots,10,2.0,Street Food,15.0,False,0,15,December-March,1.3,BDT,0.0091
+Gopalpur,Bangladesh,Gopalpur,City,Dhaka,130,Bus,25,7,Guesthouse,25,3.0,Historical Temples,10,2.0,Street Food,15.0,False,0,15,December-March,1.3,BDT,0.0091
+Basail,Bangladesh,Basail,Nature,Dhaka,350,Bus,25,8,Guesthouse,25,3.0,Countryside Views,10,2.0,Street Food,15.0,False,0,15,December-March,1.3,BDT,0.0091
+Bhuapur,Bangladesh,Bhuapur,Nature,Dhaka,350,Bus,25,5,Guesthouse,25,3.0,Natural Beauty,10,2.0,Street Food,15.0,False,0,15,December-March,1.3,BDT,0.0091
+Ghatail,Bangladesh,Ghatail,Nature,Dhaka,100,Bus,25,7,Budget Hotel,25,3.0,Eco Friendly park,10,2.0,Street Food,15.0,False,0,15,December-March,1.3,BDT,0.0091
+Kalihati,Bangladesh,Kalihati,Nature,Dhaka,120,Bus,20,4,Guesthouse,25,3.0,Village Tours,10,2.0,Street Food,15.0,False,0,15,December-March,1.3,BDT,0.0091
+Madhupur,Bangladesh,Madhupur,Nature,Dhaka,200,Bus,20,5,Guesthouse,25,3.0,National Park,10,2.0,Street Food,15.0,False,0,15,December-March,1.3,BDT,0.0091
+Mirzapur,Bangladesh,Mirzapur,Historical,Dhaka,160,Bus,20,6,Budget Hotel,25,3.0,Temple,10,2.0,Street Food,15.0,False,0,15,December-March,1.3,BDT,0.0091
+Nagarpur,Bangladesh,Nagarpur,Historical,Dhaka,160,Bus,20,7,Guesthouse,25,3.0,Local parks,10,2.0,Street Food,15.0,False,0,15,December-March,1.3,BDT,0.0091
+Sakhipur,Bangladesh,Sakhipur,Historical,Dhaka,180,Bus,20,4,Guesthouse,25,3.0,Natural Scenic Areas,10,2.0,Street Food,10.0,False,0,15,December-March,1.3,BDT,0.0091
+Dhanbari,Bangladesh,Dhanbari,Nature,Dhaka,200,Bus,25,5,Guesthouse,25,3.0,Riverside Activities,10,2.0,Street Food,10.0,False,0,15,December-March,1.3,BDT,0.0091
+Tangail Sadar,Bangladesh,Tangail Sadar,City,Dhaka,230,Bus,20,6,Budget Hotel,25,3.0,Historical Sites,10,2.0,Street Food,10.0,False,0,15,December-March,1.3,BDT,0.0091
+Debiganj,Bangladesh,Debiganj,Nature,Dhaka,190,Bus,25,8,Guesthouse,25,3.0,Debiganj River,10,2.0,Street Food,10.0,False,0,15,December-March,1.3,BDT,0.0091
+Bhola Sadar,Bangladesh,Bhola Sadar,City,Dhaka,250,Bus,25,7,Budget Hotel,25,3.0,Bhola Beach,10,2.0,Street Food,10.0,False,0,15,December-March,1.3,BDT,0.0091
+Lalmohan,Bangladesh,Lalmohan,Nature,Dhaka,400,Bus,20,6,Guesthouse,25,3.0,River Activities,10,2.0,Street Food,15.0,False,0,15,December-March,1.3,BDT,0.0091
+Manpura,Bangladesh,Manpura,Nature,Dhaka,350,Bus,25,5,Guesthouse,25,3.0,Cultural sites,10,2.0,Street Food,15.0,False,0,15,December-March,1.3,BDT,0.0091
+Tazumuddin,Bangladesh,Tazumuddin,Historical,Dhaka,300,Bus,25,4,Guesthouse,25,3.0,Local markets,10,2.0,Street Food,10.0,False,0,15,December-March,1.3,BDT,0.0091
+Ali Kadam,Bangladesh,Ali Kadam,Historical,Dhaka,200,Bus,20,3,Guesthouse,25,3.0,Ali kadam temple,10,2.0,Street Food,10.0,False,0,15,December-March,1.3,BDT,0.0091
+Lama,Bangladesh,Lama,Nature,Dhaka,270,Bus,15,6,Guesthouse,25,3.0,Lama Baar,10,2.0,Street Food,15.0,False,0,15,December-March,1.3,BDT,0.0091
+Naikhongchhari,Bangladesh,Naikhongchhari,Nature,Dhaka,180,Bus,20,5,Guesthouse,25,3.0,Naikhong River,10,2.0,Street Food,10.0,False,0,15,December-March,1.3,BDT,0.0091
+Rowangchhari,Bangladesh,Rowangchhari,Nature,Dhaka,160,Bus,25,6,Guesthouse,25,3.0,Hiking,10,2.0,Street Food,10.0,False,0,15,December-March,1.3,BDT,0.0091
+Ruma,Bangladesh,Ruma,Nature,Dhaka,120,Bus,20,7,Guesthouse,25,3.0,Trekking and waterfall tours,10,2.0,Street Food,15.0,False,0,15,December-March,1.3,BDT,0.0091
+Thanchi,Bangladesh,Thanchi,City,Dhaka,180,Bus,20,8,Budget Hotel,25,3.0,Thanchi Hills,10,2.0,Street Food,15.0,False,0,15,December-March,1.3,BDT,0.0091
+Faridganj,Bangladesh,Faridganj,Nature,Dhaka,100,Bus,25,4,Guesthouse,25,3.0,Heritage Sites,10,2.0,Street Food,15.0,False,0,15,December-March,1.3,BDT,0.0091
+Hamichar,Bangladesh,Hamichar,Nature,Dhaka,130,Bus,25,6,Guesthouse,25,3.0,Historical Monuments,10,2.0,Street Food,15.0,False,0,15,December-March,1.3,BDT,0.0091
+Haziganj,Bangladesh,Haziganj,Nature,Dhaka,220,Bus,20,7,Budget Hotel,25,3.0,Natural Reserves,10,2.0,Street Food,15.0,False,0,15,December-March,1.3,BDT,0.0091
+Kachua,Bangladesh,Kachua,Nature,Dhaka,170,Bus,10,5,Guesthouse,25,3.0,Eco Tourism,10,2.0,Street Food,15.0,False,0,15,December-March,1.3,BDT,0.0091
+Shahrasti,Bangladesh,Shahrasti,Nature,Dhaka,120,Bus,20,4,Guesthouse,25,3.0,Nature Walk,10,2.0,Street Food,15.0,False,0,15,December-March,1.3,BDT,0.0091
+Ajmiriganj,Bangladesh,Ajmiriganj,Nature,Dhaka,200,Bus,25,6,Guesthouse,25,3.0,Traditional Markets,10,2.0,Street Food,10.0,False,0,15,December-March,1.3,BDT,0.0091
+Bahubal,Bangladesh,Bahubal,Nature,Dhaka,130,Bus,15,5,Guesthouse,25,3.0,Natural Landscapes,10,2.0,Street Food,10.0,False,0,15,December-March,1.3,BDT,0.0091
+Habiganj Sadar,Bangladesh,Habiganj Sadar,City,Dhaka,150,Bus,20,7,Budget Hotel,25,3.0,Rajnagar Park,10,2.0,Street Food,10.0,False,0,15,December-March,1.3,BDT,0.0091
+Lakhai,Bangladesh,Lakhai,City,Dhaka,140,Bus,20,5,Guesthouse,25,3.0,Cultural Heritage,10,2.0,Street Food,10.0,False,0,15,December-March,1.3,BDT,0.0091
+Madhabpur,Bangladesh,Madhabpur,City,Dhaka,140,Bus,25,4,Guesthouse,25,3.0,local wildlife,10,2.0,Street Food,10.0,False,0,15,December-March,1.3,BDT,0.0091
+Nabiganj,Bangladesh,Nabiganj,City,Dhaka,150,Bus,25,3,Guesthouse,25,3.0,Riverside Activities,10,2.0,Street Food,10.0,False,0,15,December-March,1.3,BDT,0.0091
+Raipur,Bangladesh,Raipur,City,Dhaka,200,Bus,25,4,Guesthouse,25,3.0,Scenic River views,10,2.0,Street Food,10.0,False,0,15,December-March,1.3,BDT,0.0091
+Ramganj,Bangladesh,Ramganj,City,Dhaka,180,Bus,25,6,Guesthouse,25,3.0,Local Bazar,10,2.0,Street Food,10.0,False,0,15,December-March,1.3,BDT,0.0091
+Ramgati,Bangladesh,Ramgati,City,Dhaka,160,Bus,25,5,Guesthouse,25,3.0,Riverside Tours,10,2.0,Street Food,10.0,False,0,15,December-March,1.3,BDT,0.0091
+Kamalnagar,Bangladesh,Kamalnagar,Nature,Dhaka,180,Bus,20,7,Guesthouse,25,3.0,Local beach areas,10,2.0,Street Food,10.0,False,0,15,December-March,1.3,BDT,0.0091
+Rajapur,Bangladesh,Rajapur,Nature,Dhaka,190,Bus,20,5,Guesthouse,25,3.0,Rajapur Temple,10,2.0,Street Food,10.0,False,0,15,December-March,1.3,BDT,0.0091
+Nazirpur,Bangladesh,Nazirpur,Nature,Dhaka,160,Bus,20,4,Guesthouse,25,3.0,Cultural Landmarks,10,2.0,Street Food,10.0,False,0,15,December-March,1.3,BDT,0.0091
+Pirojpur Sadar,Bangladesh,Pirojpur Sadar,City,Dhaka,150,Bus,20,6,Budget Hotel,25,3.0,Riverside Tours,10,2.0,Street Food,10.0,False,0,15,December-March,1.3,BDT,0.0091
+Nesarabad,Bangladesh,Nesarabad,Nature,Dhaka,150,Bus,10,4,Guesthouse,25,3.0,Riverside activities,10,2.0,Street Food,10.0,False,0,15,December-March,1.3,BDT,0.0091
+Bauphal,Bangladesh,Bauphal,Nature,Dhaka,130,Bus,20,6,Guesthouse,25,3.0,Bauphal Bazar,10,2.0,Street Food,10.0,False,0,15,December-March,1.3,BDT,0.0091
+Kalapara,Bangladesh,Kalapara,Nature,Dhaka,350,Bus,25,4,Guesthouse,25,3.0,Boat Tours,10,2.0,Street Food,10.0,False,0,15,December-March,1.3,BDT,0.0091
+Mirzaganj,Bangladesh,Mirzaganj,Nature,Dhaka,350,Bus,25,7,Guesthouse,25,3.0,Local Parks,10,2.0,Street Food,10.0,False,0,15,December-March,1.3,BDT,0.0091
+Rangabali,Bangladesh,Rangabali,Nature,Dhaka,100,Bus,20,4,Guesthouse,25,3.0,Cultural Sites,10,2.0,Street Food,10.0,False,0,15,December-March,1.3,BDT,0.0091
+Dumki,Bangladesh,Dumki,Nature,Dhaka,120,Bus,25,3,Guesthouse,25,3.0,Dumki Park,10,2.0,Street Food,10.0,False,0,15,December-March,1.3,BDT,0.0091
+Kaliganj,Bangladesh,Kaliganj,Nature,Dhaka,200,Bus,20,6,Guesthouse,25,3.0,Scenic River Areas,10,2.0,Street Food,10.0,False,0,15,December-March,1.3,BDT,0.0091
+Kotchandpur,Bangladesh,Kotchandpur,Nature,Dhaka,160,Bus,20,7,Guesthouse,25,3.0,Historical Sites,10,2.0,Street Food,10.0,False,0,15,December-March,1.3,BDT,0.0091
+Maheshpur,Bangladesh,Maheshpur,Nature,Dhaka,160,Bus,25,4,Budget Hotel,25,3.0,Heritage Spots,10,2.0,Street Food,10.0,False,0,15,December-March,1.3,BDT,0.0091
+Kalia,Bangladesh,Kalia,Nature,Dhaka,180,Bus,30,5,Guesthouse,25,3.0,Village alks,10,2.0,Street Food,10.0,False,0,15,December-March,1.3,BDT,0.0091
+Naragati,Bangladesh,Naragati,Nature,Dhaka,200,Bus,20,6,Guesthouse,25,3.0,Nature Walks,10,2.0,Street Food,10.0,False,0,15,December-March,1.3,BDT,0.0091
+Mohammadpur,Bangladesh,Mohammadpur,City,Dhaka,230,Bus,15,7,Budget Hotel,25,3.0,Bihari Camp,10,2.0,Street Food,10.0,False,0,15,December-March,1.3,BDT,0.0091
+Shalikha,Bangladesh,Shalikha,Nature,Dhaka,190,Bus,20,3,Guesthouse,25,3.0,Local Temples,10,2.0,Street Food,10.0,False,0,15,December-March,1.3,BDT,0.0091
+Sreepur,Bangladesh,Sreepur,Nature,Dhaka,200,Bus,25,4,Guesthouse,25,3.0,Sreepur Park,10,2.0,Street Food,10.0,False,0,15,December-March,1.3,BDT,0.0091
+Gobindaganj,Bangladesh,Gobindaganj,Nature,Dhaka,130,Bus,25,5,Guesthouse,25,3.0,Traditional village life,10,2.0,Street Food,10.0,False,0,15,December-March,1.3,BDT,0.0091
+Palashbari,Bangladesh,Palashbari,Nature,Dhaka,140,Bus,20,6,Guesthouse,25,3.0,scenic villages,10,2.0,Street Food,10.0,False,0,15,December-March,1.3,BDT,0.0091
+Sadullapur,Bangladesh,Sadullapur,Nature,Dhaka,160,Bus,30,7,Guesthouse,25,3.0,Sadullapur Sadar,10,2.0,Street Food,10.0,False,0,15,December-March,1.3,BDT,0.0091
+Sughatta,Bangladesh,Sughatta,Nature,Dhaka,120,Bus,20,8,Guesthouse,25,3.0,Sughatta Bazar,10,2.0,Street Food,10.0,False,0,15,December-March,1.3,BDT,0.0091
+Sundarganj,Bangladesh,Sundarganj,Nature,Dhaka,190,Bus,10,7,Guesthouse,25,3.0,Karamjal wildlife center,10,2.0,Street Food,10.0,False,0,15,December-March,1.3,BDT,0.0091
+Assasuni,Bangladesh,Assasuni,City,Dhaka,180,Bus,20,6,Budget Hotel,25,3.0,assasuni beach,10,2.0,Street Food,10.0,False,0,15,December-March,1.3,BDT,0.0091
+Debhata,Bangladesh,Debhata,Nature,Dhaka,190,Bus,25,5,Guesthouse,25,3.0,natural reserves,10,2.0,Street Food,10.0,False,0,15,December-March,1.3,BDT,0.0091
+Shyamnagar,Bangladesh,Shyamnagar,Nature,Dhaka,150,Bus,15,4,Guesthouse,25,3.0,Kanchanpur  River,10,2.0,Street Food,10.0,False,0,15,December-March,1.3,BDT,0.0091
+Tala,Bangladesh,Tala,Nature,Dhaka,130,Bus,20,3,Guesthouse,25,3.0,Tala Temple,10,2.0,Street Food,10.0,False,0,15,December-March,1.3,BDT,0.0091
+Chitalmari,Bangladesh,Chitalmari,Nature,Dhaka,130,Bus,20,8,Guesthouse,25,3.0,Chitalmari River,10,2.0,Street Food,10.0,False,0,15,December-March,1.3,BDT,0.0091
+Fakirhat,Bangladesh,Fakirhat,Nature,Dhaka,210,Bus,25,7,Guesthouse,25,3.0,Village Tours,10,2.0,Street Food,10.0,False,0,15,December-March,1.3,BDT,0.0091
+Mollahat,Bangladesh,Mollahat,Nature,Dhaka,110,Bus,25,5,Guesthouse,25,3.0,eco tourism,10,2.0,Street Food,10.0,False,0,15,December-March,1.3,BDT,0.0091
+Morrelganj,Bangladesh,Morrelganj,Nature,Dhaka,140,Bus,25,4,Guesthouse,25,3.0,morrelganj bazzar,10,2.0,Street Food,10.0,False,0,15,December-March,1.3,BDT,0.0091
+Rampal,Bangladesh,Rampal,Nature,Dhaka,140,Bus,25,5,Guesthouse,25,3.0,riverside sightseeing,10,2.0,Street Food,10.0,False,0,15,December-March,1.3,BDT,0.0091
+Sarankhola,Bangladesh,Sarankhola,Nature,Dhaka,150,Bus,20,6,Guesthouse,25,3.0,eco friendly parks,10,2.0,Street Food,10.0,False,0,15,December-March,1.3,BDT,0.0091
+Alamdanga,Bangladesh,Alamdanga,Nature,Dhaka,200,Bus,20,7,Guesthouse,25,3.0,alamdanga sadar,10,2.0,Street Food,10.0,False,0,15,December-March,1.3,BDT,0.0091
+Jibannagar,Bangladesh,Jibannagar,Historical,Dhaka,180,Bus,20,8,Budget Hotel,25,3.0,local temples,10,2.0,Street Food,10.0,False,0,15,December-March,1.3,BDT,0.0091
+Gangni,Bangladesh,Gangni,Nature,Dhaka,130,Bus,20,3,Guesthouse,25,3.0,rural landscapes,10,2.0,Street Food,10.0,False,0,15,December-March,1.3,BDT,0.0091
+Mujibnagar,Bangladesh,Mujibnagar,Historical,Dhaka,140,Bus,10,4,Budget Hotel,25,3.0,mujibnagar memorial,10,2.0,Street Food,10.0,False,0,15,December-March,1.3,BDT,0.0091
+Belkuchi,Bangladesh,Belkuchi,City,Dhaka,180,Bus,20,6,Guesthouse,25,3.0,natural beauty,10,2.0,Street Food,10.0,False,0,15,December-March,1.3,BDT,0.0091
+Chauhali,Bangladesh,Chauhali,Nature,Dhaka,160,Bus,25,7,Guesthouse,25,3.0,cultural villages,10,2.0,Street Food,10.0,False,0,15,December-March,1.3,BDT,0.0091
+Shahjadpur,Bangladesh,Shahjadpur,Nature,Dhaka,150,Bus,25,5,Guesthouse,25,3.0,local temples,10,2.0,Street Food,10.0,False,0,15,December-March,1.3,BDT,0.0091
+Tarash,Bangladesh,Tarash,Nature,Dhaka,140,Bus,20,8,Guesthouse,25,3.0,fishing tours,10,2.0,Street Food,10.0,False,0,15,December-March,1.3,BDT,0.0091
+Ullahpara,Bangladesh,Ullahpara,Nature,Dhaka,175,Bus,25,5,Budget Hotel,25,3.0,Countryside Views,10,2.0,Street Food,10.0,False,0,15,December-March,1.3,BDT,0.0091
+Akkelpur,Bangladesh,Akkelpur,Nature,Dhaka,180,Bus,20,6,Guesthouse,25,3.0,village life,10,2.0,Street Food,10.0,False,0,15,December-March,1.3,BDT,0.0091
+Panchbibi,Bangladesh,Panchbibi,Nature,Dhaka,125,Bus,20,4,Guesthouse,25,3.0,cultural walks,10,2.0,Street Food,10.0,False,0,15,December-March,1.3,BDT,0.0091
+Bagatipara,Bangladesh,Bagatipara,Nature,Dhaka,185,Bus,25,7,Guesthouse,25,3.0,scenic countryyside,10,2.0,Street Food,10.0,False,0,15,December-March,1.3,BDT,0.0091
+Baraigram,Bangladesh,Baraigram,Nature,Dhaka,190,Bus,30,6,Guesthouse,25,3.0,Barigram Temple,10,2.0,Street Food,10.0,False,0,15,December-March,1.3,BDT,0.0091
+Lalpur Natore,Bangladesh,Lalpur Natore,Nature,Dhaka,200,Bus,20,4,Guesthouse,25,3.0,Natural Beauty,10,2.0,Street Food,10.0,False,0,15,December-March,1.3,BDT,0.0091
+Atrai,Bangladesh,Atrai,Nature,Dhaka,250,Bus,15,5,Guesthouse,25,3.0,Atrai River,10,2.0,Street Food,10.0,False,0,15,December-March,1.3,BDT,0.0091
+Badalgachhi,Bangladesh,Badalgachhi,Nature,Dhaka,140,Bus,20,6,Guesthouse,25,3.0,Rural areas,10,2.0,Street Food,10.0,False,0,15,December-March,1.3,BDT,0.0091
+Manda,Bangladesh,Manda,Nature,Dhaka,130,Bus,25,7,Guesthouse,25,3.0,Nearby nature walks,10,2.0,Street Food,10.0,False,0,15,December-March,1.3,BDT,0.0091
+Mohadevpur,Bangladesh,Mohadevpur,Historical,Dhaka,180,Bus,25,8,Guesthouse,25,3.0,village tours,10,2.0,Street Food,15.0,False,0,15,December-March,1.3,BDT,0.0091
+Raninagar,Bangladesh,Raninagar,Nature,Dhaka,180,Bus,20,7,Guesthouse,25,3.0,riverside activities,10,2.0,Street Food,10.0,False,0,15,December-March,1.3,BDT,0.0091
+Sapahar,Bangladesh,Sapahar,Nature,Dhaka,180,Bus,30,6,Guesthouse,25,3.0,local parks,10,2.0,Street Food,15.0,False,0,15,December-March,1.3,BDT,0.0091
+Bholahat,Bangladesh,Bholahat,Nature,Dhaka,190,Bus,20,5,Guesthouse,25,3.0,heritage sites,10,2.0,Street Food,15.0,False,0,15,December-March,1.3,BDT,0.0091
+Gomastapur,Bangladesh,Gomastapur,Nature,Dhaka,200,Bus,20,4,Guesthouse,25,3.0,temple,10,2.0,Street Food,15.0,False,0,15,December-March,1.3,BDT,0.0091
+Nachole,Bangladesh,Nachole,Nature,Dhaka,180,Bus,20,3,Guesthouse,25,3.0,cultural landmarks,10,2.0,Street Food,15.0,False,0,15,December-March,1.3,BDT,0.0091
+Sadar Shibganj,Bangladesh,Sadar Shibganj,Nature,Dhaka,190,Bus,20,5,Budget Hotel,25,3.0,heritage sites,10,2.0,Street Food,10.0,False,0,15,December-March,1.3,BDT,0.0091
+Dighinala,Bangladesh,Dighinala,Nature,Dhaka,165,Bus,25,6,Guesthouse,25,3.0,eco tourism,10,2.0,Street Food,10.0,False,0,15,December-March,1.3,BDT,0.0091
+Mahalchhari,Bangladesh,Mahalchhari,Nature,Dhaka,170,Bus,25,7,Guesthouse,25,3.0,mahalchhari waterfalls,10,2.0,Street Food,10.0,False,0,15,December-March,1.3,BDT,0.0091
+Manikchhari,Bangladesh,Manikchhari,Nature,Dhaka,175,Bus,25,5,Guesthouse,25,3.0,local markets,10,2.0,Street Food,10.0,False,0,15,December-March,1.3,BDT,0.0091
+Matiranga,Bangladesh,Matiranga,Nature,Dhaka,180,Bus,15,5,Guesthouse,25,3.0,Matiranga Hills,10,2.0,Street Food,10.0,False,0,15,December-March,1.3,BDT,0.0091
+Panchhari,Bangladesh,Panchhari,Nature,Dhaka,185,Bus,15,4,Guesthouse,25,3.0,cultural heritage spots,10,2.0,Street Food,16.0,False,0,15,December-March,1.3,BDT,0.0091
+Ramgarh,Bangladesh,Ramgarh,Nature,Dhaka,190,Bus,15,5,Guesthouse,25,3.0,Ramgarh Hills,10,2.0,Street Food,15.0,False,0,15,December-March,1.3,BDT,0.0091
+Sonagazi,Bangladesh,Sonagazi,Nature,Dhaka,180,Bus,25,6,Guesthouse,25,3.0,Sonagazi Bazar,10,2.0,Street Food,10.0,False,0,15,December-March,1.3,BDT,0.0091
+Fulgazi,Bangladesh,Fulgazi,Nature,Dhaka,180,Bus,15,7,Guesthouse,25,3.0,Fulgazi Temple,10,2.0,Street Food,16.0,False,0,15,December-March,1.3,BDT,0.0091
+Kasba,Bangladesh,Kasba,Nature,Dhaka,180,Bus,25,3,Guesthouse,25,3.0,Eco tourism spots,10,2.0,Street Food,15.0,False,0,15,December-March,1.3,BDT,0.0091
+Nabinagar,Bangladesh,Nabinagar,Nature,Dhaka,170,Bus,20,4,Guesthouse,25,3.0,scenic nature views,10,2.0,Street Food,10.0,False,0,15,December-March,1.3,BDT,0.0091
+Nasirnagar,Bangladesh,Nasirnagar,Nature,Dhaka,170,Bus,25,5,Guesthouse,25,3.0,cultural attractions,10,2.0,Street Food,10.0,False,0,15,December-March,1.3,BDT,0.0091
+Sarail,Bangladesh,Sarail,Nature,Dhaka,170,Bus,20,6,Guesthouse,25,3.0,local parks,10,2.0,Street Food,10.0,False,0,15,December-March,1.3,BDT,0.0091
+Ashuganj,Bangladesh,Ashuganj,Nature,Dhaka,190,Bus,20,7,Guesthouse,25,3.0,boat tours,10,2.0,Street Food,10.0,False,0,15,December-March,1.3,BDT,0.0091
+Bijoynagar,Bangladesh,Bijoynagar,Historical,Dhaka,210,Bus,25,8,Guesthouse,25,3.0,natural beauty,10,2.0,Street Food,10.0,False,0,15,December-March,1.3,BDT,0.0091
+Chhatak,Bangladesh,Chhatak,Nature,Dhaka,190,Bus,20,7,Guesthouse,25,3.0,natural reserves,10,2.0,Street Food,10.0,False,0,15,December-March,1.3,BDT,0.0091
+Derai,Bangladesh,Derai,Nature,Dhaka,170,Bus,25,6,Guesthouse,25,3.0,natural trails,10,2.0,Street Food,10.0,False,0,15,December-March,1.3,BDT,0.0091
+Dharamapasha,Bangladesh,Dharamapasha,Nature,Dhaka,180,Bus,25,5,Guesthouse,25,3.0,heritage spots,10,2.0,Street Food,10.0,False,0,15,December-March,1.3,BDT,0.0091
+Jagannathpur,Bangladesh,Jagannathpur,Historical,Dhaka,180,Bus,25,4,Guesthouse,25,3.0,cultural sites,10,2.0,Street Food,10.0,False,0,15,December-March,1.3,BDT,0.0091
+Jamalganj,Bangladesh,Jamalganj,City,Dhaka,190,Bus,20,5,Guesthouse,25,3.0,local fishing areas,10,2.0,Street Food,15.0,False,0,15,December-March,1.3,BDT,0.0091
+Sullah,Bangladesh,Sullah,Nature,Dhaka,180,Bus,20,6,Guesthouse,25,3.0,eco tourism,10,2.0,Street Food,15.0,False,0,15,December-March,1.3,BDT,0.0091
+Tahirpur,Bangladesh,Tahirpur,Nature,Dhaka,190,Bus,20,5,Guesthouse,25,3.0,local wildlife,10,2.0,Street Food,15.0,False,0,15,December-March,1.3,BDT,0.0091
+Chakaria,Bangladesh,Chakaria,Nature,Dhaka,155,Bus,20,3,Guesthouse,25,3.0,historical landmarks,10,2.0,Street Food,15.0,False,0,15,December-March,1.3,BDT,0.0091
+Kutubdia,Bangladesh,Kutubdia,Nature,Dhaka,160,Bus,10,4,Guesthouse,25,3.0,local life,10,2.0,Street Food,15.0,False,0,15,December-March,1.3,BDT,0.0091
+Maheshkhali,Bangladesh,Maheshkhali,Historical,Dhaka,170,Bus,20,5,Budget Hotel,25,3.0,Maheskhali Island,10,2.0,Street Food,15.0,False,0,15,December-March,1.3,BDT,0.0091
+Ramu,Bangladesh,Ramu,Nature,Dhaka,180,Bus,25,6,Budget Hotel,25,3.0,Ramu Beach,10,2.0,Street Food,10.0,False,0,15,December-March,1.3,BDT,0.0091
+Ukhia,Bangladesh,Ukhia,Nature,Dhaka,190,Bus,20,8,Budget Hotel,25,3.0,Ukhia Beach,10,2.0,Street Food,10.0,False,0,15,December-March,1.3,BDT,0.0091
+Pekua,Bangladesh,Pekua,Nature,Dhaka,190,Bus,25,7,Budget Hotel,25,3.0,local village tours,10,2.0,Street Food,10.0,False,0,15,December-March,1.3,BDT,0.0091
+Juri,Bangladesh,Juri,Nature,Dhaka,195,Bus,20,6,Budget Hotel,25,3.0,Juri River,10,2.0,Street Food,10.0,False,0,15,December-March,1.3,BDT,0.0091
+Tungipara,Bangladesh,Tungipara,Nature,Dhaka,175,Bus,20,5,Budget Hotel,25,3.0,Historical Sites,10,2.0,Street Food,10.0,False,0,15,December-March,1.3,BDT,0.0091
+Zajira,Bangladesh,Zajira,Nature,Dhaka,170,Bus,25,4,Budget Hotel,25,3.0,Cultural Activities,10,2.0,Street Food,10.0,False,0,15,December-March,1.3,BDT,0.0091
+Shakhipur,Bangladesh,Shakhipur,Nature,Dhaka,175,Bus,30,3,Budget Hotel,25,3.0,village walks,10,2.0,Street Food,10.0,False,0,15,December-March,1.3,BDT,0.0091
+Kapasia,Bangladesh,Kapasia,City,Dhaka,180,Bus,20,4,Budget Hotel,25,3.0,local parks,10,2.0,Street Food,10.0,False,0,15,December-March,1.3,BDT,0.0091
+Kaliakair,Bangladesh,Kaliakair,Nature,Dhaka,185,Bus,15,5,Budget Hotel,25,3.0,eco park,10,2.0,Street Food,10.0,False,0,15,December-March,1.3,BDT,0.0091
+Bajitpur,Bangladesh,Bajitpur,Nature,Dhaka,165,Bus,20,6,Budget Hotel,25,3.0,natural beauty,10,2.0,Street Food,10.0,False,0,15,December-March,1.3,BDT,0.0091
+Bhairab,Bangladesh,Bhairab,Historical,Dhaka,170,Bus,25,4,Budget Hotel,25,3.0,local temples,10,2.0,Street Food,10.0,False,0,15,December-March,1.3,BDT,0.0091
+Itna,Bangladesh,Itna,Nature,Dhaka,180,Bus,25,6,Budget Hotel,25,3.0,Dscenic Spots,10,2.0,Street Food,10.0,False,0,15,December-March,1.3,BDT,0.0091
+Karimganj,Bangladesh,Karimganj,Nature,Dhaka,190,Bus,20,7,Guesthouse,25,3.0,Karimganj Bazar,10,2.0,Street Food,10.0,False,0,15,December-March,1.3,BDT,0.0091
+Katiadi,Bangladesh,Katiadi,Nature,Dhaka,195,Bus,30,5,Guesthouse,25,3.0,Katiadi Bazar,10,2.0,Street Food,10.0,False,0,15,December-March,1.3,BDT,0.0091
+Nikli,Bangladesh,Nikli,Nature,Dhaka,200,Bus,20,6,Guesthouse,25,3.0,Nikli Bazar,10,2.0,Street Food,10.0,False,0,15,December-March,1.3,BDT,0.0091
+Pakundia,Bangladesh,Pakundia,Nature,Dhaka,210,Bus,20,4,Guesthouse,25,3.0,Local Temples,10,3.0,Street Food,10.0,False,0,15,December-March,1.3,BDT,0.0091
+Islampur,Bangladesh,Islampur,City,Dhaka,170,Bus,20,6,Budget Hotel,25,3.0,Historical Landmarks,10,3.0,Street Food,10.0,False,0,15,December-March,1.3,BDT,0.0091
+Madarganj,Bangladesh,Madarganj,Nature,Dhaka,175,Bus,20,7,Guesthouse,25,3.0,Village Walks,10,3.0,Street Food,10.0,False,0,15,December-March,1.3,BDT,0.0091
+Melandaha,Bangladesh,Melandaha,Nature,Dhaka,180,Bus,25,5,Guesthouse,25,3.0,Natural spots,10,3.0,Street Food,10.0,False,0,15,December-March,1.3,BDT,0.0091
+Sarishabari,Bangladesh,Sarishabari,Nature,Dhaka,185,Bus,25,4,Guesthouse,25,3.0,Sarishabar Temple,10,3.0,Street Food,10.0,False,0,15,December-March,1.3,BDT,0.0091
+Sreebardi,Bangladesh,Sreebardi,Nature,Dhaka,190,Bus,25,7,Guesthouse,25,3.0,Riverside Wwalks,10,3.0,Street Food,10.0,False,0,15,December-March,1.3,BDT,0.0091
+Khaliajuri,Bangladesh,Khaliajuri,Nature,Dhaka,185,Bus,15,6,Guesthouse,25,3.0,Local village tours,10,3.0,Street Food,10.0,False,0,15,December-March,1.3,BDT,0.0091
+Kalmakanda,Bangladesh,Kalmakanda,Nature,Dhaka,180,Bus,15,8,Guesthouse,25,3.0,Kalmakan River,10,3.0,Street Food,10.0,False,0,15,December-March,1.3,BDT,0.0091
+Mohanganj,Bangladesh,Mohanganj,Nature,Dhaka,160,Bus,25,4,Guesthouse,25,3.0,Local markets,10,3.0,Street Food,10.0,False,0,15,December-March,1.3,BDT,0.0091
+Purbadhala,Bangladesh,Purbadhala,Nature,Dhaka,170,Bus,15,5,Guesthouse,25,3.0,Eco Park,10,3.0,Street Food,10.0,False,0,15,December-March,1.3,BDT,0.0091
+Lohajang,Bangladesh,Lohajang,Nature,Dhaka,260,Bus,25,7,Guesthouse,25,3.0,Natural Beauty,10,3.0,Street Food,15.0,False,0,15,December-March,1.3,BDT,0.0091
+Monohardi,Bangladesh,Monohardi,Nature,Dhaka,280,Bus,20,8,Guesthouse,25,3.0,Monohard Park,10,3.0,Street Food,10.0,False,0,15,December-March,1.3,BDT,0.0091
+Rupganj,Bangladesh,Rupganj,Nature,Dhaka,195,Bus,25,4,Guesthouse,25,3.0,Rupganj River,10,3.0,Street Food,15.0,False,0,15,December-March,1.3,BDT,0.0091
+Bandar,Bangladesh,Bandar,Nature,Dhaka,180,Bus,20,5,Guesthouse,25,3.0,Local culture,10,3.0,Street Food,15.0,False,0,15,December-March,1.3,BDT,0.0091
+Palash,Bangladesh,Palash,Nature,Dhaka,190,Bus,20,6,Guesthouse,25,3.0,Riverside Activities,10,3.0,Street Food,15.0,False,0,15,December-March,1.3,BDT,0.0091
+Sonargaon,Bangladesh,Sonargaon,Historical,Dhaka,195,Bus,25,4,Budget Hotel,25,3.0,Sonargaon Museum,10,3.0,Street Food,15.0,False,0,15,December-March,1.3,BDT,0.0091
+Ghior,Bangladesh,Ghior,Historical,Dhaka,175,Bus,20,5,Budget Hotel,25,3.0,Fishing Areas,10,3.0,Street Food,10.0,False,0,15,December-March,1.3,BDT,0.0091
+Harirampur,Bangladesh,Harirampur,Historical,Dhaka,180,Bus,30,3,Budget Hotel,25,3.0,Harirampur Eco Park,10,3.0,Street Food,10.0,False,0,15,December-March,1.3,BDT,0.0091
+Saturia,Bangladesh,Saturia,Historical,Dhaka,185,Bus,35,4,Budget Hotel,25,3.0,Rural village,10,3.0,Street Food,10.0,False,0,15,December-March,1.3,BDT,0.0091
+Shivalaya,Bangladesh,Shivalaya,Historical,Dhaka,170,Bus,25,5,Budget Hotel,25,3.0,Natural Beauty,10,3.0,Street Food,10.0,False,0,15,December-March,1.3,BDT,0.0091
+Singair,Bangladesh,Singair,Nature,Dhaka,210,Bus,20,8,Budget Hotel,25,3.0,Scenic Walks,10,3.0,Street Food,10.0,False,0,15,December-March,1.3,BDT,0.0091
+Grand Canyon,USA,Grand Canyon,Nature,Dhaka,12500,Flight,1200,20,Budget Hotel,300,4.0,"South Rim viewpoints, Grand Canyon Village",100,3.0,Street Food,40.0,True,60,80,September-November,1.5,USD,1.0
+Japan,Japan,Japan,Historical,Dhaka,4000,Flight,500,6,Budget Hotel,150,5.0,"Tokyo Tower, Mount Fuji",70,3.0,Street Food,50.0,True,70,50,September-November,1.5,JPY,110.25
+Tahiti,French Polynesia,Tahiti,Beach,Dhaka,13000,Flight,1500,18,Budget Hotel,300,3.0,"Matira Beach, Mount Otemanu",50,3.0,Street Food,80.0,True,100,70,April-October,1.5,XPF,105.3
+Cambodia,Cambodia,Cambodia,City,Dhaka,1500,Flight,200,2,Budget Hotel,50,2.0,"Angkor Wat,Tonle Sap Lake",50,4.0,Street Food,20.0,True,30,20,April-October,1.5,KHR,4050.0
+Greece,Greece,Greece,City,Dhaka,7000,Flight,700,10,Budget Hotel,100,7.0,"Acropolis of Athens, Santorini",150,4.0,Street Food,40.0,True,80,50,November-February,1.5,Euro,0.9
+Indonesia,Indonesia,Indonesia,Beach,Dhaka,3000,Flight,300,4,Budget Hotel,50,7.0,"Bali,Borobudur Temple",80,4.0,Street Food,30.0,True,35,30,April-October,1.5,IDR,14500.0
+Rajasthan,India,Rajasthan,Historical,Dhaka,1500,Flight,200,2,Budget Hotel,30,2.0,Amber Fort,50,4.0,Street Food,20.0,True,20,20,November-February,1.4,INR,0.013
+Kedarnath,India,Kedarnath,Historical,Dhaka,1300,Flight,100,3,Budget Hotel,10,2.0,"Kedarnath Temple, Vasuki Tal Lake",100,4.0,Street Food,20.0,True,20,20,May-September,1.4,INR,0.013
+Shillong,India,Shillong,Nature,Dhaka,300,Flight,250,1,Budget Hotel,50,2.0,"Umiam Lake, Elephant Falls",150,4.0,Street Food,20.0,True,20,20,October-December,1.4,INR,0.013
+Malaysia,Malaysia,Malaysia,City,Dhaka,2500,Flight,800,4,Budget Hotel,100,5.0,"Penang, Langkawi",200,4.0,Street Food,30.0,True,30,30,May-September,1.2,MYR,4.15
+France,France,France,Historical,Dhaka,8000,Flight,850,11,Budget Hotel,300,10.0,"Eiffel Tower,Louvre Museum",150,4.0,Street Food,60.0,True,100,60,April-October,1.5,Euro,0.9
+Spain,Spain,Spain,Historical,Dhaka,8500,Flight,750,12,Budget Hotel,200,8.0,"Alhambra,Generalife",120,4.0,Street Food,50.0,True,100,50,April-October,1.5,Euro,0.9
+Italy,Italy,Italy,City,Dhaka,7500,Flight,900,10,Budget Hotel,250,10.0,"Venice Canals, Amalfi Coast",90,4.0,Street Food,50.0,True,100,50,April-October,1.5,Euro,0.9
+Morocco,Morocco,Morocco,City,Dhaka,9000,Flight,1400,12,Budget Hotel,150,5.0,"Marrakech Medina, Sahara Desert",50,4.0,Street Food,30.0,True,50,30,September-November,1.5,MAD,9.5
+Argentina,Argentina,Argentina,Historical,Dhaka,16500,Flight,1300,22,Budget Hotel,300,3.0,"Patagonia, Iguazu",100,4.0,Street Food,50.0,True,100,50,December-March,1.5,ARS,95.0
+Brazil,Brazil,Brazil,Historical,Dhaka,15000,Flight,600,20,Budget Hotel,300,4.0,"Amazon Rainforest, Rio Beaches",100,4.0,Street Food,50.0,True,90,50,December-March,1.5,BRL,5.2
+Egypt,Egypt,Egypt,Historical,Dhaka,6500,Flight,1000,7,Budget Hotel,450,7.0,"Pyramids of Giza,Egyptian Museum",200,4.0,Street Food,30.0,True,60,30,October-December,1.5,EGP,15.7
+Iceland,Iceland,Iceland,Nature,Dhaka,10000,Flight,700,14,Budget Hotel,400,5.0,"Northern Lights,Arctic Cathedral",100,4.0,Street Food,70.0,True,100,70,June-August,1.5,ISK,130.0
+Finland,Finland,Finland,Nature,Dhaka,7000,Flight,250,9,Budget Hotel,350,4.0,"Rukatunturi, Turku Castle",150,4.0,Street Food,50.0,True,100,50,June-August,1.5,Euro,0.9
+Norway,Norway,Norway,Nature,Dhaka,7500,Flight,750,10,Budget Hotel,300,6.0,"Oslo, Northern Lights",100,4.0,Street Food,60.0,True,100,60,June-August,1.5,NOK,8.8
+Vietnam,Vietnam,Vietnam,Historical,Dhaka,2000,Flight,250,3,Budget Hotel,150,7.0,"Ha Long Bay, Ho Chi Minh City",50,4.0,Street Food,20.0,True,25,20,February-April,1.5,VND,23000.0
+Germany,Germany,Germany,City,Dhaka,7000,Flight,700,9,Budget Hotel,200,5.0,"Berlin Wall, Oktoberfest",30,4.0,Street Food,40.0,True,100,50,May-September,1.5,Euro,0.9
+Ireland,Ireland,Ireland,City,Dhaka,8500,Flight,800,11,Budget Hotel,250,8.0,"Dublin, Ring of Kerry",60,4.0,Street Food,60.0,True,100,50,May-September,1.5,Euro,0.9
+Netherlands,Netherlands,Netherlands,City,Dhaka,7500,Flight,700,9,Budget Hotel,350,10.0,"Amsterdam Canals, Anne Frank House",30,4.0,Street Food,45.0,True,100,70,April-October,1.5,Euro,0.9
+Australia,Australia,Australia,Beach,Dhaka,7000,Flight,800,10,Budget Hotel,300,15.0,"Uluru, Great Barrier Reef",200,4.0,Street Food,25.0,True,10,60,December-March,1.5,AUD,1.35
+New Zealand,New Zealand,New Zealand,City,Dhaka,10500,Flight,1000,14,Budget Hotel,350,10.0,"Hobbiton, Milford Sound",150,4.0,Street Food,50.0,True,250,40,December-March,1.5,NZD,1.45
+Portugal,Portugal,Portugal,Historical,Dhaka,9000,Flight,850,12,Budget Hotel,250,5.0,"Lisbon, Douro Valley",70,4.0,Street Food,40.0,True,100,50,May-September,1.5,Euro,0.9
+Austria,Austria,Austria,City,Dhaka,7000,Flight,700,9,Budget Hotel,200,4.0,"Vienna, Salzburg",50,4.0,Street Food,35.0,True,100,50,May-September,1.5,Euro,0.9
+Chandigar,India,Chandigar,City,Dhaka,1700,Flight,150,2,Budget Hotel,50,2.0,"Japanese Garden, Sukhna Lake",5,4.0,Street Food,5.0,True,20,20,October-December,1.4,INR,0.013
+Bangalore,India,Bangalore,City,Dhaka,1800,Flight,200,3,Budget Hotel,60,2.0,"Bengaluru Palace, Temples",5,4.0,Street Food,5.0,True,20,30,October-December,1.4,INR,0.013
+Tanzania,Tanzania,Tanzania,Beach,Dhaka,6500,Flight,600,8,Budget Hotel,200,4.0,"Serengeti Safari, Zanzibar Beaches",500,4.0,Street Food,10.0,True,60,30,June-August,1.5,TZS,2300.0
+Canada,Canada,Canada,City,Dhaka,11000,Flight,1000,14,Budget Hotel,450,12.0,"Niagara Falls, CN Tower",50,4.0,Street Food,60.0,True,150,80,June-August,1.5,CAD,1.25
+Vatican City,Vatican City,Vatican City,City,Dhaka,7500,Flight,750,10,Budget Hotel,250,5.0,"Museums, Castel Sant'Angelo",30,4.0,Street Food,75.0,True,0,20,April-October,1.5,Euro,0.9
+Beijing,China,Beijing,City,Dhaka,3300,Flight,400,5,Budget Hotel,300,7.0,"The Palace Museum, Tiananmen Square",10,4.0,Street Food,25.0,True,140,30,April-October,1.5,CNY,6.5
+South Africa,South Africa,South Africa,Nature,Dhaka,9000,Flight,900,12,Budget Hotel,450,10.0,"Kruger National Park, Table Mountain",200,4.0,Street Food,20.0,True,70,50,May-September,1.5,ZAR,14.0
+Scotland,UK,Scotland,Nature,Dhaka,8000,Flight,800,11,Budget Hotel,400,5.0,"Isle of Skye, Loch Ness",25,4.0,Street Food,60.0,True,200,50,May-September,1.5,GBP,0.75
+Estonia,Estonia,Estonia,City,Dhaka,6500,Flight,700,9,Budget Hotel,100,2.0,"Toompea Castle, Lahemaa National Park",10,4.0,Street Food,40.0,True,100,30,May-September,1.5,Euro,0.9
+Sardinia,Italy,Sardinia,Nature,Dhaka,7500,Flight,750,10,Budget Hotel,300,7.0,"Brandinchi beach, Tavolara Island",5,4.0,Street Food,75.0,True,100,50,May-September,1.5,Euro,0.9
+Russia,Russia,Russia,Historical,Dhaka,5000,Flight,600,7,Budget Hotel,250,6.0,"Red Square, Museums",10,4.0,Street Food,15.0,True,200,40,May-September,1.5,RUB,75.0
+Kazakhstan,Kazakhstan,Kazakhstan,Beach,Dhaka,3500,Flight,400,5,Budget Hotel,150,4.0,"Medeu, Kaindy",30,4.0,Street Food,20.0,True,80,30,May-September,1.5,KZT,420.0
+Laos,Laos,Laos,City,Dhaka,1500,Flight,200,2,Budget Hotel,200,3.0,"Pak Ou Caves, Tat Sae Waterfalls",10,4.0,Street Food,15.0,True,50,20,November-February,1.2,LAK,9300.0
+Pakistan,Pakistan,Pakistan,Historical,Dhaka,2000,Flight,200,2,Budget Hotel,300,5.0,"Lahore Fort, Hunza Valley",5,4.0,Street Food,10.0,True,60,20,October-December,1.2,PKR,160.0
+Peru,Peru,Peru,Nature,Dhaka,17000,Flight,1400,22,Budget Hotel,100,4.0,"Lima, Cusco",100,4.0,Street Food,20.0,True,50,40,April-October,1.5,PEN,3.7
+Myanmar,Myanmar,Myanmar,Beach,Dhaka,1000,Flight,150,1,Budget Hotel,10,3.0,"Old Bagan, Pagoda",15,4.0,Street Food,15.0,True,50,20,November-February,1.5,MMK,1650.0
+California,USA,California,City,Dhaka,12500,Flight,1200,20,Budget Hotel,400,7.0,"Golden Gate Bridge, Yosemite",150,4.0,Street Food,60.0,True,200,60,May-September,1.5,USD,1.0
+San Marino,San Marino,San Marino,City,Dhaka,7500,Flight,750,10,Budget Hotel,300,5.0,"Ancient Weapons Museum, Guaita Tower",15,4.0,Street Food,75.0,True,0,20,April-October,1.5,Euro,0.9
+Afghanistan,Afghanistan,Afghanistan,Historical,Dhaka,2500,Flight,250,3,Budget Hotel,150,6.0,"Naw Shakh, Bala Hissar Fortress",20,4.0,Street Food,20.0,True,40,30,April-October,1.2,AFN,78.0
+Sri Lanka,Sri Lanka,Sri Lanka,Nature,Dhaka,2000,Flight,200,2,Budget Hotel,100,5.0,"Sigiriya, Hikkaduwa Beach",10,4.0,Street Food,10.0,True,35,30,December-March,1.5,LKR,200.0
+Macau,Macau,Macau,Nature,Dhaka,2500,Flight,300,4,Budget Hotel,50,5.0,"Monte Fort, Coloane",50,4.0,Street Food,40.0,True,0,50,October-December,1.5,MOP,8.0
+Chad,Chad,Chad,City,Dhaka,8500,Flight,800,10,Budget Hotel,40,4.0,"Emi Koussi, Lake Chad",5,4.0,Street Food,10.0,True,100,30,November-February,1.2,XAF,550.0
+Nepal,Nepal,Nepal,Historical,Dhaka,800,Flight,150,1,Budget Hotel,30,3.0,"Pashupatinath Temple,Boudhanath Stupa",150,4.0,Street Food,15.0,True,40,20,October-December,1.5,NPR,120.0
+Korea,South Korea,Korea,City,Dhaka,3500,Flight,400,5,Budget Hotel,450,10.0,"Nami Island, Jeju Island",3,4.0,Street Food,20.0,True,60,50,April-October,1.5,KRW,1150.0
+Kenya,Kenya,Kenya,Nature,Dhaka,6500,Flight,600,8,Budget Hotel,200,4.0,"Nairobi, Maasai Mara",300,4.0,Street Food,15.0,True,50,30,June-August,1.5,KES,110.0
+Somalia,Somalia,Somalia,Nature,Dhaka,5500,Flight,600,8,Budget Hotel,250,5.0,"Laas Geel, Liido Beach",100,4.0,Street Food,10.0,True,40,20,December-March,1.2,SOS,575.0
+Charlestown,USA,Charlestown,City,Dhaka,12700,Flight,1200,20,Budget Hotel,400,7.0,Gilete Castle,150,4.0,Street Food,60.0,True,200,60,May-September,1.5,USD,1.0
+Watts,USA,Watts,City,Dhaka,13200,Flight,1200,20,Budget Hotel,400,7.0,Seneca Rocks,150,4.0,Street Food,60.0,True,200,60,May-September,1.5,USD,1.0
+Stony Brook,USA,Stony Brook,City,Dhaka,12600,Flight,1200,20,Budget Hotel,400,7.0,Myrtle Beach,150,4.0,Street Food,60.0,True,200,60,May-September,1.5,USD,1.0
+Port Washington,USA,Port Washington,City,Dhaka,12600,Flight,1200,20,Budget Hotel,400,7.0,Silver Dollar City,150,4.0,Street Food,60.0,True,200,60,May-September,1.5,USD,1.0
+Harlem,USA,Harlem,City,Dhaka,12600,Flight,1200,20,Budget Hotel,400,7.0,Lake of Ozarks,150,4.0,Street Food,60.0,True,200,60,May-September,1.5,USD,1.0
+Forest Hills,USA,Forest Hills,City,Dhaka,12600,Flight,1200,20,Budget Hotel,400,7.0,Big Sky Resort,150,4.0,Street Food,60.0,True,200,60,May-September,1.5,USD,1.0
+South Beach,USA,South Beach,City,Dhaka,13100,Flight,1200,20,Budget Hotel,400,7.0,"South Beach,Art Deco District",150,4.0,Street Food,60.0,True,200,60,May-September,1.5,USD,1.0
+Brooklyn,USA,Brooklyn,City,Dhaka,12600,Flight,1200,20,Budget Hotel,400,7.0,State Museum,150,4.0,Street Food,60.0,True,200,60,May-September,1.5,USD,1.0
+North Hollywood,USA,North Hollywood,City,Dhaka,13200,Flight,1200,20,Budget Hotel,400,7.0,Mesa Varde Park,170,4.0,Street Food,60.0,True,200,60,May-September,1.5,USD,1.0
+South Chicago,USA,South Chicago,City,Dhaka,12500,Flight,1200,20,Budget Hotel,400,7.0,Shoshone Falls,150,4.0,Street Food,60.0,True,200,60,May-September,1.5,USD,1.0
+Encino,USA,Encino,City,Dhaka,13200,Flight,1200,20,Budget Hotel,400,7.0,Sun Valley Resort,150,4.0,Street Food,60.0,True,200,60,May-September,1.5,USD,1.0
+Warren County,USA,Warren County,City,Dhaka,12600,Flight,1200,20,Budget Hotel,400,7.0,Wareen Hills,150,4.0,Street Food,60.0,True,200,60,May-September,1.5,USD,1.0
+Retsil,USA,Retsil,City,Dhaka,12500,Flight,1200,20,Budget Hotel,400,7.0,Bar Harbor,150,4.0,Street Food,60.0,True,200,60,May-September,1.5,USD,1.0
+Brandon,USA,Brandon,City,Dhaka,12800,Flight,1200,20,Budget Hotel,400,7.0,Portland Head Light,150,4.0,Street Food,60.0,True,200,60,May-September,1.5,USD,1.0
+Greenbrae,USA,Greenbrae,City,Dhaka,12800,Flight,1200,20,Budget Hotel,400,7.0,Mackinac Island,150,4.0,Street Food,60.0,True,200,60,May-September,1.5,USD,1.0
+Ocean Beach,USA,Ocean Beach,City,Dhaka,13100,Flight,1200,20,Budget Hotel,400,7.0,Hocking Hills,150,4.0,Street Food,60.0,True,200,60,May-September,1.5,USD,1.0
+Lennox,USA,Lennox,City,Dhaka,13100,Flight,1200,20,Budget Hotel,400,7.0,Rock and Roll,150,4.0,Street Food,60.0,True,200,60,May-September,1.5,USD,1.0
+Houston,USA,Houston,City,Dhaka,13100,Flight,1200,20,Budget Hotel,400,7.0,Cedar Point,150,4.0,Street Food,60.0,True,200,60,May-September,1.5,USD,1.0
+Dallas,USA,Dallas,City,Dhaka,13100,Flight,1200,20,Budget Hotel,400,7.0,Fargo Air Museum,150,4.0,Street Food,60.0,True,200,60,May-September,1.5,USD,1.0
+Atlanta,USA,Atlanta,City,Dhaka,13100,Flight,1200,20,Budget Hotel,400,7.0,Route 66 Musueum,150,4.0,Street Food,60.0,True,200,60,May-September,1.5,USD,1.0
+Milton,USA,Milton,City,Dhaka,13100,Flight,1200,20,Budget Hotel,400,7.0,Harshey Park,150,4.0,Street Food,60.0,True,200,60,May-September,1.5,USD,1.0
+Kansas City,USA,Kansas City,City,Dhaka,12700,Flight,1200,20,Budget Hotel,400,7.0,Myrtle Beach,150,4.0,Street Food,60.0,True,200,60,May-September,1.5,USD,1.0
+Alexander City,USA,Alexander City,City,Dhaka,13100,Flight,1200,20,Budget Hotel,400,7.0,Fgraceland,150,4.0,Street Food,60.0,True,200,60,May-September,1.5,USD,1.0
+Anniston,USA,Anniston,City,Dhaka,13100,Flight,1200,20,Budget Hotel,400,7.0,The Alamo,150,4.0,Street Food,60.0,True,200,60,May-September,1.5,USD,1.0
+Atmore,USA,Atmore,City,Dhaka,13100,Flight,1200,20,Budget Hotel,400,7.0,Big Bend Park,150,4.0,Street Food,60.0,True,200,60,May-September,1.5,USD,1.0
+Cullman,USA,Cullman,City,Dhaka,13100,Flight,1200,20,Budget Hotel,400,7.0,Arches Park,150,4.0,Street Food,60.0,True,200,60,May-September,1.5,USD,1.0
+Clanton,USA,Clanton,City,Dhaka,13100,Flight,1200,20,Budget Hotel,400,7.0,Lake Champlain,150,4.0,Street Food,60.0,True,200,60,May-September,1.5,USD,1.0
+Demopolis,USA,Demopolis,City,Dhaka,13100,Flight,1200,20,Budget Hotel,400,7.0,Bryce Canyon,150,4.0,Street Food,60.0,True,200,60,May-September,1.5,USD,1.0
+Dothan,USA,Dothan,City,Dhaka,13100,Flight,1200,20,Budget Hotel,400,7.0,Gettysburg Park,150,4.0,Street Food,60.0,True,200,60,May-September,1.5,USD,1.0
+Enterprise,USA,Enterprise,City,Dhaka,13100,Flight,1200,20,Budget Hotel,400,7.0,Block Island,150,4.0,Street Food,60.0,True,200,60,May-September,1.5,USD,1.0
+Florence,USA,Florence,City,Dhaka,13100,Flight,1200,20,Budget Hotel,400,7.0,Glacier Park,150,4.0,Street Food,60.0,True,200,60,May-September,1.5,USD,1.0
+Greenville,USA,Greenville,City,Dhaka,13100,Flight,1200,20,Budget Hotel,400,7.0,Yellowstone,150,4.0,Street Food,60.0,True,200,60,May-September,1.5,USD,1.0
+Guntersville,USA,Guntersville,City,Dhaka,13100,Flight,1200,20,Budget Hotel,400,7.0,Big Sky Resort,150,4.0,Street Food,60.0,True,200,60,May-September,1.5,USD,1.0
+Huntsville,USA,Huntsville,City,Dhaka,13100,Flight,1200,20,Budget Hotel,400,7.0,Oak Alley,150,4.0,Street Food,60.0,True,200,60,May-September,1.5,USD,1.0
+Alabama,USA,Alabama,City,Dhaka,13100,Flight,1200,20,Budget Hotel,400,7.0,Gilf Shores Beaches,150,4.0,Street Food,60.0,True,200,60,May-September,1.5,USD,1.0
+Alaska,USA,Alaska,City,Dhaka,8000,Flight,1200,20,Budget Hotel,400,7.0,Mendenhall Glacier,150,4.0,Street Food,60.0,True,200,60,May-September,1.5,USD,1.0
+Arizona,USA,Arizona,City,Dhaka,13100,Flight,1200,20,Budget Hotel,400,7.0,Monument Valley,150,4.0,Street Food,60.0,True,200,60,May-September,1.5,USD,1.0
+Arkansas,USA,Arkansas,City,Dhaka,13100,Flight,1200,20,Budget Hotel,400,7.0,Buffalo National River,150,4.0,Street Food,60.0,True,200,60,May-September,1.5,USD,1.0
+Carmel,USA,Carmel,City,Dhaka,13100,Flight,1200,20,Budget Hotel,400,7.0,Gatden of Gods,150,4.0,Street Food,60.0,True,200,60,May-September,1.5,USD,1.0
+Chico,USA,Chico,City,Dhaka,12900,Flight,1200,20,Budget Hotel,400,7.0,Rehoboth Beach,150,4.0,Street Food,60.0,True,200,60,May-September,1.5,USD,1.0
+Beverly Hills,USA,Beverly Hills,City,Dhaka,13100,Flight,1200,20,Budget Hotel,400,7.0,Mystic Sea Port,150,4.0,Street Food,60.0,True,200,60,May-September,1.5,USD,1.0
+Concord,USA,Concord,City,Dhaka,13100,Flight,1200,20,Budget Hotel,400,7.0,Cape Henlopen,150,4.0,Street Food,60.0,True,200,60,May-September,1.5,USD,1.0
+Corona,USA,Corona,City,Dhaka,13100,Flight,1200,20,Budget Hotel,400,7.0,Everglades Park,150,4.0,Street Food,60.0,True,200,60,May-September,1.5,USD,1.0
+Coronado,USA,Coronado,City,Dhaka,13100,Flight,1200,20,Budget Hotel,400,7.0,Rocky Mountain National park,150,4.0,Street Food,60.0,True,200,60,May-September,1.5,USD,1.0
+Daly City,USA,Daly City,City,Dhaka,12900,Flight,1200,20,Budget Hotel,400,7.0,Winterthur Musuem,150,4.0,Street Food,60.0,True,200,60,May-September,1.5,USD,1.0
+El Centro,USA,El Centro,City,Dhaka,13100,Flight,1200,20,Budget Hotel,400,7.0,Aquarium Centro,150,4.0,Street Food,60.0,True,200,60,May-September,1.5,USD,1.0
+Fairfield,USA,Fairfield,City,Dhaka,12800,Flight,1200,20,Budget Hotel,400,7.0,Fairfield Street,150,4.0,Street Food,60.0,True,200,60,May-September,1.5,USD,1.0
+Hayward,USA,Hayward,City,Dhaka,12800,Flight,1200,20,Budget Hotel,400,7.0,Hayward Eco Park,150,4.0,Street Food,60.0,True,200,60,May-September,1.5,USD,1.0
+Hollywood,USA,Hollywood,City,Dhaka,13100,Flight,1200,20,Budget Hotel,400,7.0,Hollywood Sign,150,4.0,Street Food,60.0,True,200,60,May-September,1.5,USD,1.0
+Indio,USA,Indio,City,Dhaka,13100,Flight,1200,20,Budget Hotel,400,7.0,Shoeshone Falls,150,4.0,Street Food,60.0,True,200,60,May-September,1.5,USD,1.0
+Lodi,USA,Lodi,City,Dhaka,12800,Flight,1200,20,Budget Hotel,400,7.0,Lodi Forest,150,4.0,Street Food,60.0,True,200,60,May-September,1.5,USD,1.0
+Redwood City,USA,Redwood City,City,Dhaka,12800,Flight,1200,20,Budget Hotel,400,7.0,Redwood Sight,150,4.0,Street Food,60.0,True,200,60,May-September,1.5,USD,1.0
+Richmond,USA,Richmond,City,Dhaka,12800,Flight,1200,20,Budget Hotel,400,7.0,Block Island,150,4.0,Street Food,60.0,True,200,60,May-September,1.5,USD,1.0
+Riverside,USA,Riverside,City,Dhaka,13100,Flight,1200,20,Budget Hotel,400,7.0,Newport Mansions,150,4.0,Street Food,60.0,True,200,60,May-September,1.5,USD,1.0
+Roseville,USA,Roseville,City,Dhaka,12800,Flight,1200,20,Budget Hotel,400,7.0,Roger Willams Zoo,150,4.0,Street Food,60.0,True,200,60,May-September,1.5,USD,1.0
+San Gabriel,USA,San Gabriel,City,Dhaka,13100,Flight,1200,20,Budget Hotel,400,7.0,Congaree Park,150,4.0,Street Food,60.0,True,200,60,May-September,1.5,USD,1.0
+San Fernando,USA,San Fernando,City,Dhaka,13100,Flight,1200,20,Budget Hotel,400,7.0,Custer State Park,150,4.0,Street Food,60.0,True,200,60,May-September,1.5,USD,1.0
+San Jose,USA,San Jose,City,Dhaka,12800,Flight,1200,20,Budget Hotel,400,7.0,Jose Historic Sights,150,4.0,Street Food,60.0,True,200,60,May-September,1.5,USD,1.0
+San Leandro,USA,San Leandro,City,Dhaka,12800,Flight,1200,20,Budget Hotel,400,7.0,Crazy Horse Memorial,150,4.0,Street Food,60.0,True,200,60,May-September,1.5,USD,1.0
+San Diego,USA,San Diego,City,Dhaka,13100,Flight,1200,20,Budget Hotel,400,7.0,Needles Highway,150,4.0,Street Food,60.0,True,200,60,May-September,1.5,USD,1.0
+San Marino,USA,San Marino,City,Dhaka,13100,Flight,1200,20,Budget Hotel,400,7.0,Wind Cave,150,4.0,Street Food,60.0,True,200,60,May-September,1.5,USD,1.0
+San Mateo,USA,San Mateo,City,Dhaka,13100,Flight,1200,20,Budget Hotel,400,7.0,Lookout Mountain,150,4.0,Street Food,60.0,True,200,60,May-September,1.5,USD,1.0
+San Pedro,USA,San Pedro,City,Dhaka,13100,Flight,1200,20,Budget Hotel,400,7.0,Padre SEAshore,150,4.0,Street Food,60.0,True,200,60,May-September,1.5,USD,1.0
+Santa Ana,USA,Santa Ana,City,Dhaka,13100,Flight,1200,20,Budget Hotel,400,7.0,Caddilac Ranch,150,4.0,Street Food,60.0,True,200,60,May-September,1.5,USD,1.0
+Santa Cruz,USA,Santa Cruz,City,Dhaka,12800,Flight,1200,20,Budget Hotel,400,7.0,Guadalupe Mountains,150,4.0,Street Food,60.0,True,200,60,May-September,1.5,USD,1.0
+Santa Rosa,USA,Santa Rosa,City,Dhaka,12800,Flight,1200,20,Budget Hotel,400,7.0,Goblin Valley,150,4.0,Street Food,60.0,True,200,60,May-September,1.5,USD,1.0
+Simi Valley,USA,Simi Valley,City,Dhaka,13100,Flight,1200,20,Budget Hotel,400,7.0,Jackson Hole,150,4.0,Street Food,60.0,True,200,60,May-September,1.5,USD,1.0
+Sonoma,USA,Sonoma,City,Dhaka,12800,Flight,1200,20,Budget Hotel,400,7.0,Knife River,150,4.0,Street Food,60.0,True,200,60,May-September,1.5,USD,1.0
+South San Franciso,USA,South San Franciso,City,Dhaka,12800,Flight,1200,20,Budget Hotel,400,7.0,Blue Ridge,150,4.0,Street Food,60.0,True,200,60,May-September,1.5,USD,1.0
+Colorado,USA,Colorado,City,Dhaka,12500,Flight,1200,20,Budget Hotel,400,7.0,Pikes Peak,150,4.0,Street Food,60.0,True,200,60,May-September,1.5,USD,1.0
+Connecticut,USA,Connecticut,City,Dhaka,12600,Flight,1200,20,Budget Hotel,400,7.0,Maroon Bells,150,4.0,Street Food,60.0,True,200,60,May-September,1.5,USD,1.0
+Delaware,USA,Delaware,City,Dhaka,12600,Flight,1200,20,Budget Hotel,400,7.0,Nemours Estate,150,4.0,Street Food,60.0,True,200,60,May-September,1.5,USD,1.0
+Milford,USA,Milford,City,Dhaka,13100,Flight,1200,20,Budget Hotel,400,7.0,Baxter State Park,150,4.0,Street Food,60.0,True,200,60,May-September,1.5,USD,1.0
+Florida,USA,Florida,City,Dhaka,13100,Flight,1200,20,Budget Hotel,400,7.0,Walt Disney World,150,4.0,Street Food,60.0,True,200,60,May-September,1.5,USD,1.0
+Georgia,USA,Georgia,City,Dhaka,13100,Flight,1200,20,Budget Hotel,400,7.0,Stone Mountain Park,150,4.0,Street Food,60.0,True,200,60,May-September,1.5,USD,1.0
+Idaho,USA,Idaho,City,Dhaka,11500,Flight,1200,20,Budget Hotel,400,7.0,Brueneau Dunes Park,150,4.0,Street Food,60.0,True,200,60,May-September,1.5,USD,1.0
+Illionis,USA,Illionis,City,Dhaka,12500,Flight,1200,20,Budget Hotel,400,7.0,Navy Pier,150,4.0,Street Food,60.0,True,200,60,May-September,1.5,USD,1.0
+Indiana,USA,Indiana,City,Dhaka,12700,Flight,1200,20,Budget Hotel,400,7.0,Conner Prairie,150,4.0,Street Food,60.0,True,200,60,May-September,1.5,USD,1.0
+Iowa,USA,Iowa,City,Dhaka,12300,Flight,1200,20,Budget Hotel,400,7.0,Amana Colonies,150,4.0,Street Food,60.0,True,200,60,May-September,1.5,USD,1.0
+Kentucky,USA,Kentucky,City,Dhaka,12900,Flight,1200,20,Budget Hotel,400,7.0,Flint Hills,150,4.0,Street Food,60.0,True,200,60,May-September,1.5,USD,1.0
+Louisiana,USA,Louisiana,City,Dhaka,13100,Flight,1200,20,Budget Hotel,400,7.0,Laura Plantation,150,4.0,Street Food,60.0,True,200,60,May-September,1.5,USD,1.0
+Maine,USA,Maine,City,Dhaka,11800,Flight,1200,20,Budget Hotel,400,7.0,Kennebunkport,150,4.0,Street Food,60.0,True,200,60,May-September,1.5,USD,1.0
+Maryland,USA,Maryland,City,Dhaka,13100,Flight,1200,20,Budget Hotel,400,7.0,Deep Creek Lake,150,4.0,Street Food,60.0,True,200,60,May-September,1.5,USD,1.0
+Massachusetts,USA,Massachusetts,City,Dhaka,12000,Flight,1200,20,Budget Hotel,400,7.0,Harvard University,150,4.0,Street Food,60.0,True,200,60,May-September,1.5,USD,1.0
+Michigan,USA,Michigan,City,Dhaka,12200,Flight,1200,20,Budget Hotel,400,7.0,Split Rock LightsHouse,150,4.0,Street Food,60.0,True,200,60,May-September,1.5,USD,1.0
+Minnesota,USA,Minnesota,City,Dhaka,11900,Flight,1200,20,Budget Hotel,400,7.0,Windsor Ruins,150,4.0,Street Food,60.0,True,200,60,May-September,1.5,USD,1.0
+Mississippi,USA,Mississippi,City,Dhaka,13100,Flight,1200,20,Budget Hotel,400,7.0,Elvis Presley,150,4.0,Street Food,60.0,True,200,60,May-September,1.5,USD,1.0
+Missouri,USA,Missouri,City,Dhaka,12500,Flight,1200,20,Budget Hotel,400,7.0,Meramec Caverns,150,4.0,Street Food,60.0,True,200,60,May-September,1.5,USD,1.0
+Montana,USA,Montana,City,Dhaka,11000,Flight,1200,20,Budget Hotel,400,7.0,Flathead Lake,150,4.0,Street Food,60.0,True,200,60,May-September,1.5,USD,1.0
+Nebraska,USA,Nebraska,City,Dhaka,11800,Flight,1200,20,Budget Hotel,400,7.0,Sndhills Drive,150,4.0,Street Food,60.0,True,200,60,May-September,1.5,USD,1.0
+Nevada,USA,Nevada,City,Dhaka,12500,Flight,1200,20,Budget Hotel,400,7.0,Red Rock Canyon,150,4.0,Street Food,60.0,True,200,60,May-September,1.5,USD,1.0
+New Hampshire,USA,New Hampshire,City,Dhaka,11900,Flight,1200,20,Budget Hotel,400,7.0,Story Land,150,4.0,Street Food,60.0,True,200,60,May-September,1.5,USD,1.0
+New Jersey,USA,New Jersey,City,Dhaka,12200,Flight,1200,20,Budget Hotel,400,7.0,Princeton University,150,4.0,Street Food,60.0,True,200,60,May-September,1.5,USD,1.0
+New Mexico,USA,New Mexico,City,Dhaka,12700,Flight,1200,20,Budget Hotel,400,7.0,Santa Fe Plaza,150,4.0,Street Food,60.0,True,200,60,May-September,1.5,USD,1.0
+North Carolina,USA,North Carolina,City,Dhaka,13100,Flight,1200,20,Budget Hotel,400,7.0,Chimney Rock Park,150,4.0,Street Food,60.0,True,200,60,May-September,1.5,USD,1.0
+North Dakota,USA,North Dakota,City,Dhaka,11500,Flight,1200,20,Budget Hotel,400,7.0,International Peace Garden,150,4.0,Street Food,60.0,True,200,60,May-September,1.5,USD,1.0
+Ohio,USA,Ohio,City,Dhaka,12400,Flight,1200,20,Budget Hotel,400,7.0,Cincinnati Zoo,150,4.0,Street Food,60.0,True,200,60,May-September,1.5,USD,1.0
+Oklahoma,USA,Oklahoma,City,Dhaka,13100,Flight,1200,20,Budget Hotel,400,7.0,Turner Falls,150,4.0,Street Food,60.0,True,200,60,May-September,1.5,USD,1.0
+Oregon,USA,Oregon,City,Dhaka,11800,Flight,1200,20,Budget Hotel,400,7.0,Fallingwater,150,4.0,Street Food,60.0,True,200,60,May-September,1.5,USD,1.0
+Pennsylvania,USA,Pennsylvania,City,Dhaka,12300,Flight,1200,20,Budget Hotel,400,7.0,Longwood Gardens,150,4.0,Street Food,60.0,True,200,60,May-September,1.5,USD,1.0
+Rhode Island,USA,Rhode Island,City,Dhaka,12100,Flight,1200,20,Budget Hotel,400,7.0,Cliff Walk,150,4.0,Street Food,60.0,True,200,60,May-September,1.5,USD,1.0
+South Carolina,USA,South Carolina,City,Dhaka,13100,Flight,1200,20,Budget Hotel,400,7.0,Fort Sumter Monument,150,4.0,Street Food,60.0,True,200,60,May-September,1.5,USD,1.0
+Tennessee,USA,Tennessee,City,Dhaka,13100,Flight,1200,20,Budget Hotel,400,7.0,The Parthenon,150,4.0,Street Food,60.0,True,200,60,May-September,1.5,USD,1.0
+Texas,USA,Texas,City,Dhaka,11700,Flight,1200,20,Budget Hotel,400,7.0,Padre Island,150,4.0,Street Food,60.0,True,200,60,May-September,1.5,USD,1.0
+Utah,USA,Utah,City,Dhaka,12000,Flight,1200,20,Budget Hotel,400,7.0,Goblin Valley Park,150,4.0,Street Food,60.0,True,200,60,May-September,1.5,USD,1.0
+Vermont,USA,Vermont,City,Dhaka,11800,Flight,1200,20,Budget Hotel,400,7.0,Smugglers Notch,150,4.0,Street Food,60.0,True,200,60,May-September,1.5,USD,1.0
+Virginia,USA,Virginia,City,Dhaka,13100,Flight,1200,20,Budget Hotel,400,7.0,Luray Carverns,150,4.0,Street Food,60.0,True,200,60,May-September,1.5,USD,1.0
+West Virginia,USA,West Virginia,City,Dhaka,12600,Flight,1200,20,Budget Hotel,400,7.0,Greenbrier Resort,150,4.0,Street Food,60.0,True,200,60,May-September,1.5,USD,1.0
+Wisconsin,USA,Wisconsin,City,Dhaka,12000,Flight,1200,20,Budget Hotel,400,7.0,Cave of Mounds,150,4.0,Street Food,60.0,True,200,60,May-September,1.5,USD,1.0
+Wyoming,USA,Wyoming,City,Dhaka,11500,Flight,1200,20,Budget Hotel,400,7.0,Deils Tower Monument,150,4.0,Street Food,60.0,True,200,60,May-September,1.5,USD,1.0
+Kelso,USA,Kelso,City,Dhaka,11700,Flight,1200,20,Budget Hotel,400,7.0,Sun Studio,150,4.0,Street Food,60.0,True,200,60,May-September,1.5,USD,1.0
+Pasco,USA,Pasco,City,Dhaka,11700,Flight,1200,20,Budget Hotel,400,7.0,Hersheey Park,150,4.0,Street Food,60.0,True,200,60,May-September,1.5,USD,1.0
+Yakima,USA,Yakima,City,Dhaka,11700,Flight,1200,20,Budget Hotel,400,7.0,Grand Teton,150,4.0,Street Food,60.0,True,200,60,May-September,1.5,USD,1.0
+Hampi,India,Hampi,Historical,Dhaka,1700,Flight,150,3,Budget Hotel,50,2.0,Hampi Mountains,5,4.0,Street Food,60.0,True,20,30,October-December,1.4,INR,0.013
+Alleppey,India,Alleppey,Historical,Dhaka,1800,Flight,150,3,Budget Hotel,50,2.0,Mechuka Valley,5,4.0,Street Food,5.0,True,20,30,October-December,1.4,INR,0.013
+Jaisalmer,India,Jaisalmer,Historical,Dhaka,1700,Flight,150,3,Budget Hotel,50,2.0,Patratu Valley,5,4.0,Street Food,5.0,True,20,30,October-December,1.4,INR,0.013
+Goa,India,Goa,Historical,Dhaka,1800,Flight,150,3,Budget Hotel,50,2.0,"Baga Beach,Fort Aguada",5,4.0,Street Food,5.0,True,20,30,October-December,1.4,INR,0.013
+Coorg,India,Coorg,Historical,Dhaka,1700,Flight,150,3,Budget Hotel,50,2.0,Danteweda Temples,5,4.0,Street Food,5.0,True,20,30,October-December,1.4,INR,0.013
+Hydrabad,India,Hydrabad,Historical,Dhaka,1800,Flight,150,3,Budget Hotel,50,2.0,Spiti Valley,5,4.0,Street Food,5.0,True,20,30,October-December,1.4,INR,0.013
+Parvati Valley,India,Parvati Valley,Historical,Dhaka,1700,Flight,150,3,Budget Hotel,50,2.0,Kufri,5,4.0,Street Food,5.0,True,20,30,October-December,1.4,INR,0.013
+Taj Mahal,India,Taj Mahal,Historical,Dhaka,1800,Flight,150,3,Budget Hotel,50,2.0,"Taj Mahal,Fatehpur Sikri",5,4.0,Street Food,5.0,True,20,30,October-December,1.4,INR,0.013
+Chikmagalur,India,Chikmagalur,Historical,Dhaka,1700,Flight,150,3,Budget Hotel,50,2.0,Riverside,5,4.0,Street Food,5.0,True,20,30,October-December,1.4,INR,0.013
+Golden Temple,India,Golden Temple,Historical,Dhaka,1800,Flight,150,3,Budget Hotel,50,2.0,NarkandaSputara,5,4.0,Street Food,5.0,True,20,30,October-December,1.4,INR,0.013
+Manali,India,Manali,Historical,Dhaka,1700,Flight,150,3,Budget Hotel,50,2.0,Hills,5,4.0,Street Food,5.0,True,20,30,October-December,1.4,INR,0.013
+Mysore,India,Mysore,Historical,Dhaka,1800,Flight,150,3,Budget Hotel,50,2.0,Myshore City,5,4.0,Street Food,5.0,True,20,30,October-December,1.4,INR,0.013
+Surat,India,Surat,Historical,Dhaka,1700,Flight,150,3,Budget Hotel,50,2.0,Surat Bazaar,5,4.0,Street Food,5.0,True,20,30,October-December,1.4,INR,0.013
+Pune,India,Pune,Historical,Dhaka,1800,Flight,150,3,Budget Hotel,50,2.0,"Museums, Castel Sant'Angelo",5,4.0,Street Food,5.0,True,20,30,October-December,1.4,INR,0.013
+Ahmedabad,India,Ahmedabad,Historical,Dhaka,1700,Flight,150,3,Budget Hotel,50,2.0,Ahemdabad Station,5,4.0,Street Food,5.0,True,20,30,October-December,1.4,INR,0.013
+Lucknow,India,Lucknow,Historical,Dhaka,1800,Flight,150,3,Budget Hotel,50,2.0,Lucknow City,5,4.0,Street Food,5.0,True,20,30,October-December,1.4,INR,0.013
+Kanpur,India,Kanpur,Historical,Dhaka,1700,Flight,150,3,Budget Hotel,50,2.0,Statue Of unity,5,4.0,Street Food,5.0,True,20,30,October-December,1.4,INR,0.013
+Nagpur,India,Nagpur,Historical,Dhaka,1800,Flight,150,3,Budget Hotel,50,2.0,Nagpur Temple,5,4.0,Street Food,5.0,True,20,30,October-December,1.4,INR,0.013
+Indore,India,Indore,Historical,Dhaka,1700,Flight,150,3,Budget Hotel,50,2.0,Indore Sight,5,4.0,Street Food,5.0,True,20,30,October-December,1.4,INR,0.013
+Thane,India,Thane,Historical,Dhaka,1800,Flight,150,3,Budget Hotel,50,2.0,Rann of kutch,5,4.0,Street Food,5.0,True,20,30,October-December,1.4,INR,0.013
+Bhopal,India,Bhopal,Historical,Dhaka,1700,Flight,150,3,Budget Hotel,50,2.0,Laxmi Villas,5,4.0,Street Food,5.0,True,20,30,October-December,1.4,INR,0.013
+Patna,India,Patna,Historical,Dhaka,1800,Flight,150,3,Budget Hotel,50,2.0,Patna Hills,5,4.0,Street Food,5.0,True,20,30,October-December,1.4,INR,0.013
+Faridabad,India,Faridabad,Historical,Dhaka,1700,Flight,150,3,Budget Hotel,50,2.0,Faridabad Bazaar,5,4.0,Street Food,5.0,True,20,30,October-December,1.4,INR,0.013
+Meerut,India,Meerut,Historical,Dhaka,1800,Flight,150,3,Budget Hotel,50,2.0,Meerut Gardens,5,4.0,Street Food,5.0,True,20,30,October-December,1.4,INR,0.013
+Rajkot,India,Rajkot,Historical,Dhaka,1700,Flight,150,3,Budget Hotel,50,2.0,Kotla,5,4.0,Street Food,5.0,True,20,30,October-December,1.4,INR,0.013
+Srinagar,India,Srinagar,Historical,Dhaka,1800,Flight,150,3,Budget Hotel,50,2.0,Brahma Sarovar,5,4.0,Street Food,5.0,True,20,30,October-December,1.4,INR,0.013
+Dhanbad,India,Dhanbad,Historical,Dhaka,1700,Flight,150,3,Budget Hotel,50,2.0,Pinjore gardens,5,4.0,Street Food,5.0,True,20,30,October-December,1.4,INR,0.013
+Howrah,India,Howrah,Historical,Dhaka,1800,Flight,150,3,Budget Hotel,50,2.0,Howrah Traditiional,5,4.0,Street Food,5.0,True,20,30,October-December,1.4,INR,0.013
+Ranchi,India,Ranchi,Historical,Dhaka,1700,Flight,150,3,Budget Hotel,50,2.0,Ranchi City,5,4.0,Street Food,5.0,True,20,30,October-December,1.4,INR,0.013
+Jabalpur,India,Jabalpur,Historical,Dhaka,1800,Flight,150,3,Budget Hotel,50,2.0,Morni Hills,5,4.0,Street Food,5.0,True,20,30,October-December,1.4,INR,0.013
+Gwalior,India,Gwalior,Historical,Dhaka,1700,Flight,150,3,Budget Hotel,50,2.0,WildLife,5,4.0,Street Food,5.0,True,20,30,October-December,1.4,INR,0.013
+Coimbatore,India,Coimbatore,Historical,Dhaka,1800,Flight,150,3,Budget Hotel,50,2.0,Dongargarh Temple,5,4.0,Street Food,5.0,True,20,30,October-December,1.4,INR,0.013
+Jodhpur,India,Jodhpur,Historical,Dhaka,1700,Flight,150,3,Budget Hotel,50,2.0,heritage sites,5,4.0,Street Food,5.0,True,20,30,October-December,1.4,INR,0.013
+Madurai,India,Madurai,Historical,Dhaka,1800,Flight,150,3,Budget Hotel,50,2.0,Bogibeel Bridge,5,4.0,Street Food,5.0,True,20,30,October-December,1.4,INR,0.013
+Kota,India,Kota,Historical,Dhaka,1700,Flight,150,3,Budget Hotel,50,2.0,Aspirants,5,4.0,Street Food,5.0,True,20,30,October-December,1.4,INR,0.013
+Solapur,India,Solapur,Historical,Dhaka,1800,Flight,150,3,Budget Hotel,50,2.0,Solapur temple,5,4.0,Street Food,5.0,True,20,30,October-December,1.4,INR,0.013
+Tiruppur,India,Tiruppur,Historical,Dhaka,1700,Flight,150,3,Budget Hotel,50,2.0,Bodh Gaya,5,4.0,Street Food,5.0,True,20,30,October-December,1.4,INR,0.013
+Moradabad,India,Moradabad,Historical,Dhaka,1800,Flight,150,3,Budget Hotel,50,2.0,Rani Ki vaav,5,4.0,Street Food,5.0,True,20,30,October-December,1.4,INR,0.013
+Gurgaon,India,Gurgaon,Historical,Dhaka,1700,Flight,150,3,Budget Hotel,50,2.0,Champaner,5,4.0,Street Food,5.0,True,20,30,October-December,1.4,INR,0.013
+Aligarh,India,Aligarh,Historical,Dhaka,1800,Flight,150,3,Budget Hotel,50,2.0,Lepakshi Temple,5,4.0,Street Food,5.0,True,20,30,October-December,1.4,INR,0.013
+Bhubaneswar,India,Bhubaneswar,Historical,Dhaka,1700,Flight,150,3,Budget Hotel,50,2.0,Sela Pass,5,4.0,Street Food,5.0,True,20,30,October-December,1.4,INR,0.013
+Salem,India,Salem,Historical,Dhaka,1800,Flight,150,3,Budget Hotel,50,2.0,Haflong,5,4.0,Street Food,5.0,True,20,30,October-December,1.4,INR,0.013
+Warangal,India,Warangal,Historical,Dhaka,1700,Flight,150,3,Budget Hotel,50,2.0,Station,5,4.0,Street Food,5.0,True,20,30,October-December,1.4,INR,0.013
+Noida,India,Noida,Historical,Dhaka,1800,Flight,150,3,Budget Hotel,50,2.0,Noida City,5,4.0,Street Food,5.0,True,20,30,October-December,1.4,INR,0.013
+Jamshedpur,India,Jamshedpur,Historical,Dhaka,1700,Flight,150,3,Budget Hotel,50,2.0,Morni Hills,5,4.0,Street Food,5.0,True,20,30,October-December,1.4,INR,0.013
+Bhilai,India,Bhilai,Historical,Dhaka,1800,Flight,150,3,Budget Hotel,50,2.0,Yadavindra,5,4.0,Street Food,5.0,True,20,30,October-December,1.4,INR,0.013
+Cuttack,India,Cuttack,Historical,Dhaka,1700,Flight,150,3,Budget Hotel,50,2.0,Surajkund,5,4.0,Street Food,5.0,True,20,30,October-December,1.4,INR,0.013
+Firozabad,India,Firozabad,Historical,Dhaka,1800,Flight,150,3,Budget Hotel,50,2.0,Dssam Falls,5,4.0,Street Food,5.0,True,20,30,October-December,1.4,INR,0.013
+Kochi,India,Kochi,Historical,Dhaka,1700,Flight,150,3,Budget Hotel,50,2.0,Maithon Dam,5,4.0,Street Food,5.0,True,20,30,October-December,1.4,INR,0.013
+Nellore,India,Nellore,Historical,Dhaka,1800,Flight,150,3,Budget Hotel,50,2.0,Rajrappa Temple,5,4.0,Street Food,5.0,True,20,30,October-December,1.4,INR,0.013
+Bhavnagar,India,Bhavnagar,Historical,Dhaka,1700,Flight,150,3,Budget Hotel,50,2.0,Netarhat,5,4.0,Street Food,5.0,True,20,30,October-December,1.4,INR,0.013
+Dehradun,India,Dehradun,Historical,Dhaka,1800,Flight,150,3,Budget Hotel,50,2.0,Hills,5,4.0,Street Food,5.0,True,20,30,October-December,1.4,INR,0.013
+Asansol,India,Asansol,Historical,Dhaka,1700,Flight,150,3,Budget Hotel,50,2.0,Ksol,5,4.0,Street Food,5.0,True,20,30,October-December,1.4,INR,0.013
+Nanded,India,Nanded,Historical,Dhaka,1800,Flight,150,3,Budget Hotel,50,2.0,Dalhousie,5,4.0,Street Food,5.0,True,20,30,October-December,1.4,INR,0.013
+Kolhapur,India,Kolhapur,Historical,Dhaka,1700,Flight,150,3,Budget Hotel,50,2.0,Jog falls,5,4.0,Street Food,5.0,True,20,30,October-December,1.4,INR,0.013
+Ajmer,India,Ajmer,Historical,Dhaka,1800,Flight,150,3,Budget Hotel,50,2.0,Ajmer City,5,4.0,Street Food,5.0,True,20,30,October-December,1.4,INR,0.013
+Akola,India,Akola,Historical,Dhaka,1700,Flight,150,3,Budget Hotel,50,2.0,Elephanta Caves,5,4.0,Street Food,5.0,True,20,30,October-December,1.4,INR,0.013
+Gulbarga,India,Gulbarga,Historical,Dhaka,1800,Flight,150,3,Budget Hotel,50,2.0,Lavasa,5,4.0,Street Food,5.0,True,20,30,October-December,1.4,INR,0.013
+Jamnagar,India,Jamnagar,Historical,Dhaka,1700,Flight,150,3,Budget Hotel,50,2.0,Jamnagar Ambani Park,5,4.0,Street Food,5.0,True,20,30,October-December,1.4,INR,0.013
+Ujjain,India,Ujjain,Historical,Dhaka,1800,Flight,150,3,Budget Hotel,50,2.0,Cvantawang Falls,5,4.0,Street Food,5.0,True,20,30,October-December,1.4,INR,0.013
+Loni,India,Loni,Historical,Dhaka,1700,Flight,150,3,Budget Hotel,50,2.0,Tuirihiau Falls,5,4.0,Street Food,5.0,True,20,30,October-December,1.4,INR,0.013
+Siliguri,India,Siliguri,Historical,Dhaka,1800,Flight,150,3,Budget Hotel,50,2.0,Silliguei Mountains,5,4.0,Street Food,5.0,True,20,30,October-December,1.4,INR,0.013
+Jhansi,India,Jhansi,Historical,Dhaka,1700,Flight,150,3,Budget Hotel,50,2.0,Jhansi Historical Site,5,4.0,Street Food,5.0,True,20,30,October-December,1.4,INR,0.013
+Jammu,India,Jammu,Historical,Dhaka,1800,Flight,150,3,Budget Hotel,50,2.0,Scenic Areas,5,4.0,Street Food,5.0,True,20,30,October-December,1.4,INR,0.013
+Mangalore,India,Mangalore,Historical,Dhaka,1700,Flight,150,3,Budget Hotel,50,2.0,Nicobar,5,4.0,Street Food,5.0,True,20,30,October-December,1.4,INR,0.013
+Erode,India,Erode,Historical,Dhaka,1800,Flight,150,3,Budget Hotel,50,2.0,Imphal war cemetry,5,4.0,Street Food,5.0,True,20,30,October-December,1.4,INR,0.013
+Belgaum,India,Belgaum,Historical,Dhaka,1700,Flight,150,3,Budget Hotel,50,2.0,INA memorial,5,4.0,Street Food,5.0,True,20,30,October-December,1.4,INR,0.013
+Ambattur,India,Ambattur,Historical,Dhaka,1800,Flight,150,3,Budget Hotel,50,2.0,Thoubal Lake,5,4.0,Street Food,5.0,True,20,30,October-December,1.4,INR,0.013
+Tirunelveli,India,Tirunelveli,Historical,Dhaka,1700,Flight,150,3,Budget Hotel,50,2.0,Fort Sumter Monument,5,4.0,Street Food,5.0,True,20,30,October-December,1.4,INR,0.013
+Malegaon,India,Malegaon,Historical,Dhaka,1800,Flight,150,3,Budget Hotel,50,2.0,Heritage Sites,5,4.0,Street Food,5.0,True,20,30,October-December,1.4,INR,0.013
+Gaya,India,Gaya,Historical,Dhaka,1700,Flight,150,3,Budget Hotel,50,2.0,Village,5,4.0,Street Food,5.0,True,20,30,October-December,1.4,INR,0.013
+Jalgaon,India,Jalgaon,Historical,Dhaka,1800,Flight,150,3,Budget Hotel,50,2.0,Andro Sites,5,4.0,Street Food,5.0,True,20,30,October-December,1.4,INR,0.013
+Udaipur,India,Udaipur,Historical,Dhaka,1700,Flight,150,3,Budget Hotel,50,2.0,Udaipur City,5,4.0,Street Food,5.0,True,20,30,October-December,1.4,INR,0.013
+Kurnool,India,Kurnool,Historical,Dhaka,1800,Flight,150,3,Budget Hotel,50,2.0,Kurnool Hills View,5,4.0,Street Food,5.0,True,20,30,October-December,1.4,INR,0.013
+Bokaro,India,Bokaro,Historical,Dhaka,1700,Flight,150,3,Budget Hotel,50,2.0,Dam,5,4.0,Street Food,5.0,True,20,30,October-December,1.4,INR,0.013
+South Dumdum,India,South Dumdum,Historical,Dhaka,1800,Flight,150,3,Budget Hotel,50,2.0,Matheran,5,4.0,Street Food,5.0,True,20,30,October-December,1.4,INR,0.013
+Bellary,India,Bellary,Historical,Dhaka,1700,Flight,150,3,Budget Hotel,50,2.0,Orchha,5,4.0,Street Food,5.0,True,20,30,October-December,1.4,INR,0.013
+Patiala,India,Patiala,Historical,Dhaka,1800,Flight,150,3,Budget Hotel,50,2.0,Patiala Punjab,5,4.0,Street Food,5.0,True,20,30,October-December,1.4,INR,0.013
+Gopalpur,India,Gopalpur,Historical,Dhaka,1700,Flight,150,3,Budget Hotel,50,2.0,Sanchi Stupa,5,4.0,Street Food,5.0,True,20,30,October-December,1.4,INR,0.013
+Agartala,India,Agartala,Historical,Dhaka,1800,Flight,150,3,Budget Hotel,50,2.0,Agartala Big Bazaar,5,4.0,Street Food,5.0,True,20,30,October-December,1.4,INR,0.013
+Bhagalpur,India,Bhagalpur,Historical,Dhaka,1700,Flight,150,3,Budget Hotel,50,2.0,BhagalPur Forest,5,4.0,Street Food,5.0,True,20,30,October-December,1.4,INR,0.013
+Latur,India,Latur,Historical,Dhaka,1800,Flight,150,3,Budget Hotel,50,2.0,Latur strrets,5,4.0,Street Food,5.0,True,20,30,October-December,1.4,INR,0.013
+Dhule,India,Dhule,Historical,Dhaka,1700,Flight,150,3,Budget Hotel,50,2.0,Dhule Hills,5,4.0,Street Food,5.0,True,20,30,October-December,1.4,INR,0.013
+Tirupati,India,Tirupati,Historical,Dhaka,1800,Flight,150,3,Budget Hotel,50,2.0,Parasnath Hill,5,4.0,Street Food,5.0,True,20,30,October-December,1.4,INR,0.013
+Aizawl,India,Aizawl,Historical,Dhaka,1700,Flight,150,3,Budget Hotel,50,2.0,Hundru Falls,5,4.0,Street Food,5.0,True,20,30,October-December,1.4,INR,0.013
+Imphal,India,Imphal,Historical,Dhaka,1800,Flight,150,3,Budget Hotel,50,2.0,Dzukou Valley,5,4.0,Street Food,5.0,True,20,30,October-December,1.4,INR,0.013
+North Dumdum,India,North Dumdum,Historical,Dhaka,1700,Flight,150,3,Budget Hotel,50,2.0,Japfu Peak,5,4.0,Street Food,5.0,True,20,30,October-December,1.4,INR,0.013
+New Delhi,India,New Delhi,Historical,Dhaka,1800,Flight,150,3,Budget Hotel,50,2.0,Mokokchung,5,4.0,Street Food,5.0,True,20,30,October-December,1.4,INR,0.013
+Gandhinagar,India,Gandhinagar,Historical,Dhaka,1700,Flight,150,3,Budget Hotel,50,2.0,Hornbill Festival,5,4.0,Street Food,5.0,True,20,30,October-December,1.4,INR,0.013
+Amaravati,India,Amaravati,Historical,Dhaka,1800,Flight,150,3,Budget Hotel,50,2.0,Chillika Lake,5,4.0,Street Food,5.0,True,20,30,October-December,1.4,INR,0.013
+Buxar,India,Buxar,Historical,Dhaka,1700,Flight,150,3,Budget Hotel,50,2.0,Dhauri Giri Hills,5,4.0,Street Food,5.0,True,20,30,October-December,1.4,INR,0.013
+Jehanabad,India,Jehanabad,Historical,Dhaka,1800,Flight,150,3,Budget Hotel,50,2.0,Lingaraj Temple,5,4.0,Street Food,5.0,True,20,30,October-December,1.4,INR,0.013
+Aurangabad,India,Aurangabad,Historical,Dhaka,1700,Flight,150,3,Budget Hotel,50,2.0,Wagah Border,5,4.0,Street Food,5.0,True,20,30,October-December,1.4,INR,0.013
+Kavali,India,Kavali,Historical,Dhaka,1800,Flight,150,3,Budget Hotel,50,2.0,Kavali Sahib,5,4.0,Street Food,5.0,True,20,30,October-December,1.4,INR,0.013
+Siwan,India,Siwan,Historical,Dhaka,1700,Flight,150,3,Budget Hotel,50,2.0,Siwan Wetland,5,4.0,Street Food,5.0,True,20,30,October-December,1.4,INR,0.013
+Unnao,India,Unnao,Historical,Dhaka,1800,Flight,150,3,Budget Hotel,50,2.0,Unnao City Palace,5,4.0,Street Food,5.0,True,20,30,October-December,1.4,INR,0.013
+Shivpuri,India,Shivpuri,Historical,Dhaka,1700,Flight,150,3,Budget Hotel,50,2.0,Mount ABU,5,4.0,Street Food,5.0,True,20,30,October-December,1.4,INR,0.013
+Vallore,India,Vallore,Historical,Dhaka,1800,Flight,150,3,Budget Hotel,50,2.0,Vallore Fort,5,4.0,Street Food,5.0,True,20,30,October-December,1.4,INR,0.013
+Baharampur,India,Baharampur,Historical,Dhaka,1700,Flight,150,3,Budget Hotel,50,2.0,Tsomgo Lake,5,4.0,Street Food,5.0,True,20,30,October-December,1.4,INR,0.013
+Bhind,India,Bhind,Historical,Dhaka,1800,Flight,150,3,Budget Hotel,50,2.0,Rumtek Monastery,5,4.0,Street Food,5.0,True,20,30,October-December,1.4,INR,0.013
+Ambala,India,Ambala,Historical,Dhaka,1700,Flight,150,3,Budget Hotel,50,2.0,Ambala Skywalk,5,4.0,Street Food,5.0,True,20,30,October-December,1.4,INR,0.013
+Anand,India,Anand,Historical,Dhaka,1800,Flight,150,3,Budget Hotel,50,2.0,Anand Char Dham,5,4.0,Street Food,5.0,True,20,30,October-December,1.4,INR,0.013
+Morvi,India,Morvi,Historical,Dhaka,1700,Flight,150,3,Budget Hotel,50,2.0,Lachen,5,4.0,Street Food,5.0,True,20,30,October-December,1.4,INR,0.013
+Gangtok,India,Gangtok,Historical,Dhaka,1800,Flight,150,3,Budget Hotel,50,2.0,Ravangla,5,4.0,Street Food,5.0,True,20,30,October-December,1.4,INR,0.013
+Mysuru,India,Mysuru,Historical,Dhaka,1700,Flight,150,3,Budget Hotel,50,2.0,Mysuru Local Market,5,4.0,Street Food,5.0,True,20,30,October-December,1.4,INR,0.013
+Karnatak,India,Karnatak,Historical,Dhaka,1800,Flight,150,3,Budget Hotel,50,2.0,Karnatak traditional dress shops,5,4.0,Street Food,5.0,True,20,30,October-December,1.4,INR,0.013
+Maharasta,India,Maharasta,Historical,Dhaka,1700,Flight,150,3,Budget Hotel,50,2.0,Zuluk Loop,5,4.0,Street Food,5.0,True,20,30,October-December,1.4,INR,0.013
+Gujarat,India,Gujarat,Historical,Dhaka,1800,Flight,150,3,Budget Hotel,50,2.0,Gujrat Riversides,5,4.0,Street Food,5.0,True,20,30,October-December,1.4,INR,0.013
+Sikkim,India,Sikkim,Historical,Dhaka,1700,Flight,150,3,Budget Hotel,50,2.0,Sikkim Hills,5,4.0,Street Food,5.0,True,20,30,October-December,1.4,INR,0.013
+Andhra Pradesh,India,Andhra Pradesh,Historical,Dhaka,1800,Flight,150,3,Budget Hotel,50,2.0,Andhra Pradesh Stadium,5,4.0,Street Food,5.0,True,20,30,October-December,1.4,INR,0.013
+Uttar Pradesh,India,Uttar Pradesh,Historical,Dhaka,1700,Flight,150,3,Budget Hotel,50,2.0,Heritage Sites,5,4.0,Street Food,5.0,True,20,30,October-December,1.4,INR,0.013
+Navi Mumbai,India,Navi Mumbai,Historical,Dhaka,1800,Flight,150,3,Budget Hotel,50,2.0,Navi Cave,5,4.0,Street Food,5.0,True,20,30,October-December,1.4,INR,0.013
+Prayagraj,India,Prayagraj,Historical,Dhaka,1700,Flight,150,3,Budget Hotel,50,2.0,Payargraj Gardens,5,4.0,Street Food,5.0,True,20,30,October-December,1.4,INR,0.013
+Guntur,India,Guntur,Historical,Dhaka,1800,Flight,150,3,Budget Hotel,50,2.0,Guntue Valley,5,4.0,Street Food,5.0,True,20,30,October-December,1.4,INR,0.013
+Gorakpur,India,Gorakpur,Historical,Dhaka,1700,Flight,150,3,Budget Hotel,50,2.0,Gorakpur Temple,5,4.0,Street Food,5.0,True,20,30,October-December,1.4,INR,0.013
+Kolhapur,India,Kolhapur,Historical,Dhaka,1800,Flight,150,3,Budget Hotel,50,2.0,Kplhapur Monastery,5,4.0,Street Food,5.0,True,20,30,October-December,1.4,INR,0.013
+Satara,India,Satara,Historical,Dhaka,1700,Flight,150,3,Budget Hotel,50,2.0,Satara Hills,5,4.0,Street Food,5.0,True,20,30,October-December,1.4,INR,0.013
+Bijapur,India,Bijapur,Historical,Dhaka,1800,Flight,150,3,Budget Hotel,50,2.0,Nubra Valley,5,4.0,Street Food,5.0,True,20,30,October-December,1.4,INR,0.013
+Rampur,India,Rampur,Historical,Dhaka,1700,Flight,150,3,Budget Hotel,50,2.0,Tso Morirrri Hills,5,4.0,Street Food,5.0,True,20,30,October-December,1.4,INR,0.013
+Chandrapur,India,Chandrapur,Historical,Dhaka,1800,Flight,150,3,Budget Hotel,50,2.0,Sri Ashram,5,4.0,Street Food,5.0,True,20,30,October-December,1.4,INR,0.013
+Junagadh,India,Junagadh,Historical,Dhaka,1700,Flight,150,3,Budget Hotel,50,2.0,Lonar Craster Lake,5,4.0,Street Food,5.0,True,20,30,October-December,1.4,INR,0.013
+Thrissur,India,Thrissur,Historical,Dhaka,1800,Flight,150,3,Budget Hotel,50,2.0,Mawsynram,5,4.0,Street Food,5.0,True,20,30,October-December,1.4,INR,0.013
+Kulti,India,Kulti,Historical,Dhaka,1700,Flight,150,3,Budget Hotel,50,2.0,Stepwall,5,4.0,Street Food,5.0,True,20,30,October-December,1.4,INR,0.013
+Guwahati,India,Guwahati,Historical,Dhaka,1800,Flight,150,3,Budget Hotel,50,2.0,Guwahati City,5,4.0,Street Food,5.0,True,20,30,October-December,1.4,INR,0.013
+Malda,India,Malda,Historical,Dhaka,1700,Flight,150,3,Budget Hotel,50,2.0,Malda Fort,5,4.0,Street Food,5.0,True,20,30,October-December,1.4,INR,0.013
+Jalpaiguri,India,Jalpaiguri,Historical,Dhaka,1800,Flight,150,3,Budget Hotel,50,2.0,Jalpaiburi Temples,5,4.0,Street Food,5.0,True,20,30,October-December,1.4,INR,0.013
+Jowai,India,Jowai,Historical,Dhaka,1700,Flight,150,3,Budget Hotel,50,2.0,Jowai island,5,4.0,Street Food,5.0,True,20,30,October-December,1.4,INR,0.013
+Arunachal Pradesh,India,Arunachal Pradesh,Historical,Dhaka,1800,Flight,150,3,Budget Hotel,50,2.0,Floating Markets,5,4.0,Street Food,5.0,True,20,30,October-December,1.4,INR,0.013
+Assam,India,Assam,Historical,Dhaka,1700,Flight,150,3,Budget Hotel,50,2.0,"Temples of Bagan,Hsinbyume Pagoda",5,4.0,Street Food,5.0,True,20,30,October-December,1.4,INR,0.013
+Bihar,India,Bihar,Historical,Dhaka,1800,Flight,150,3,Budget Hotel,50,2.0,Historical markets,5,4.0,Street Food,5.0,True,20,30,October-December,1.4,INR,0.013
+Chiang Mai,Thailand,Chiang mai,Beach,Dhaka,3100,Flight,350,3,Budget Hotel,70,5.0,The Grand Palace,25,2.0,Street Food,20.0,True,50,40,November-February,1.3,THB,0.03
+Ko samui,Thailand,Ko samui,Beach,Dhaka,3100,Flight,350,3,Budget Hotel,70,5.0,Wat Arun,25,2.0,Street Food,20.0,True,50,40,November-February,1.3,THB,0.03
+Phi Phi Island,Thailand,Phi island,Beach,Dhaka,3100,Flight,350,3,Budget Hotel,70,5.0,Island,25,2.0,Street Food,20.0,True,50,40,November-February,1.3,THB,0.03
+Pattaya City,Thailand,Pattaya city,Beach,Dhaka,3100,Flight,350,3,Budget Hotel,70,5.0,Beach Sites,25,2.0,Street Food,20.0,True,50,40,November-February,1.3,THB,0.03
+Ko Tao,Thailand,Ko tao,Beach,Dhaka,3100,Flight,350,3,Budget Hotel,70,5.0,MBK center,25,2.0,Street Food,20.0,True,50,40,November-February,1.3,THB,0.03
+Mueang Chiang Rai,Thailand,Mueang rai,Beach,Dhaka,3100,Flight,350,3,Budget Hotel,70,5.0,Lumphini Park,25,2.0,Street Food,20.0,True,50,40,November-February,1.3,THB,0.03
+Hua Hin District,Thailand,Hua district,Beach,Dhaka,3100,Flight,350,3,Budget Hotel,70,5.0,Wat Saket,25,2.0,Street Food,20.0,True,50,40,November-February,1.3,THB,0.03
+Lamai Beach,Thailand,Lamai beach,Beach,Dhaka,3100,Flight,350,3,Budget Hotel,70,5.0,Dusit Zoo,25,2.0,Street Food,20.0,True,50,40,November-February,1.3,THB,0.03
+wat Plai Laem,Thailand,wat laem,Beach,Dhaka,3100,Flight,350,3,Budget Hotel,70,5.0,Culture Center,25,2.0,Street Food,20.0,True,50,40,November-February,1.3,THB,0.03
+Siam,Thailand,Siam siam,Beach,Dhaka,3100,Flight,350,3,Budget Hotel,70,5.0,Suan Pakkad Palace,25,2.0,Street Food,20.0,True,50,40,November-February,1.3,THB,0.03
+Bamboo Island,Thailand,Bamboo island,Beach,Dhaka,3100,Flight,350,3,Budget Hotel,70,5.0,Benjakitti Park,25,2.0,Street Food,20.0,True,50,40,November-February,1.3,THB,0.03
+Ton Sai Beach,Thailand,Ton beach,Beach,Dhaka,3100,Flight,350,3,Budget Hotel,70,5.0,Rod Fail Market,25,2.0,Street Food,20.0,True,50,40,November-February,1.3,THB,0.03
+Nui Beach,Thailand,Nui beach,Beach,Dhaka,3100,Flight,350,3,Budget Hotel,70,5.0,Benjakitti Park,25,2.0,Street Food,20.0,True,50,40,November-February,1.3,THB,0.03
+Sanctuary of Truth,Thailand,Sanctuary truth,Beach,Dhaka,3100,Flight,350,3,Budget Hotel,70,5.0,"Doi Suthep,Night Bazaar",25,2.0,Street Food,20.0,True,50,40,November-February,1.3,THB,0.03
+Jomtien Beach,Thailand,Jomtien beach,Beach,Dhaka,3100,Flight,350,3,Budget Hotel,70,5.0,Wat phra,25,2.0,Street Food,20.0,True,50,40,November-February,1.3,THB,0.03
+Sairee Beach,Thailand,Sairee beach,Beach,Dhaka,3100,Flight,350,3,Budget Hotel,70,5.0,t chedi,25,2.0,Street Food,20.0,True,50,40,November-February,1.3,THB,0.03
+Jansom Bay,Thailand,Jansom bay,Beach,Dhaka,3100,Flight,350,3,Budget Hotel,70,5.0,chiang mai zoo,25,2.0,Street Food,20.0,True,50,40,November-February,1.3,THB,0.03
+Sai Nuan Beach,Thailand,Sai beach,Beach,Dhaka,3100,Flight,350,3,Budget Hotel,70,5.0,Bo Sang,25,2.0,Street Food,20.0,True,50,40,November-February,1.3,THB,0.03
+Trang,Thailand,Trang trang,Beach,Dhaka,3100,Flight,350,3,Budget Hotel,70,5.0,Doi Inthanon,25,2.0,Street Food,20.0,True,50,40,November-February,1.3,THB,0.03
+Khon Kaen,Thailand,Khon kaen,Beach,Dhaka,3100,Flight,350,3,Budget Hotel,70,5.0,Huay Tung Tao,25,2.0,Street Food,20.0,True,50,40,November-February,1.3,THB,0.03
+Seminyak,Bali,Seminyak,Beach,Dhaka,4600,Flight,400,6,Budget Hotel,50,7.0,Seminyak Beach,15,1.0,Street Food,15.0,True,20,35,April-October,1.5,IDR,5.97e-05
+Kuta,Bali,Kuta,Beach,Dhaka,4600,Flight,400,6,Budget Hotel,50,7.0,Kuta Beach,15,1.0,Street Food,15.0,True,20,35,April-October,1.5,IDR,5.97e-05
+Canggu,Bali,Canggu,Beach,Dhaka,4600,Flight,400,6,Budget Hotel,50,7.0,Nusa Dua,15,1.0,Street Food,15.0,True,20,35,April-October,1.5,IDR,5.97e-05
+Sanur,Bali,Sanur,Beach,Dhaka,4600,Flight,400,6,Budget Hotel,50,7.0,Jimbaran Bay,15,1.0,Street Food,15.0,True,20,35,April-October,1.5,IDR,5.97e-05
+Ubud,Bali,Ubud,Beach,Dhaka,4600,Flight,400,6,Budget Hotel,50,7.0,ubus Beach,15,1.0,Street Food,15.0,True,20,35,April-October,1.5,IDR,5.97e-05
+North Bali,Bali,North Bali,Beach,Dhaka,4600,Flight,400,6,Budget Hotel,50,7.0,North Bali Beach,15,1.0,Street Food,15.0,True,20,35,April-October,1.5,IDR,5.97e-05
+Uluwatu,Bali,Uluwatu,Beach,Dhaka,4600,Flight,400,6,Budget Hotel,50,7.0,Tanjung,15,1.0,Street Food,15.0,True,20,35,April-October,1.5,IDR,5.97e-05
+Penida Island,Bali,Penida Island,Beach,Dhaka,4600,Flight,400,6,Budget Hotel,50,7.0,Benoa,15,1.0,Street Food,15.0,True,20,35,April-October,1.5,IDR,5.97e-05
+Nusa Penida,Bali,Nusa Penida,Beach,Dhaka,4600,Flight,400,6,Budget Hotel,50,7.0,Nusa Penita Beach,15,1.0,Street Food,15.0,True,20,35,April-October,1.5,IDR,5.97e-05
+Lombok,Bali,Lombok,Beach,Dhaka,4600,Flight,400,6,Budget Hotel,50,7.0,Lombok Island,15,1.0,Street Food,15.0,True,20,35,April-October,1.5,IDR,5.97e-05
+Atuh Beach,Bali,Atuh Beach,Beach,Dhaka,4600,Flight,400,6,Budget Hotel,50,7.0,Atuh Beach,15,1.0,Street Food,15.0,True,20,35,April-October,1.5,IDR,5.97e-05
+Kelingking Beach,Bali,Kelingking Beach,Beach,Dhaka,4600,Flight,400,6,Budget Hotel,50,7.0,Blue water,15,1.0,Street Food,15.0,True,20,35,April-October,1.5,IDR,5.97e-05
+Diamon Beach,Bali,Diamon Beach,Beach,Dhaka,4600,Flight,400,6,Budget Hotel,50,7.0,Diamond Beach,15,1.0,Street Food,15.0,True,20,35,April-October,1.5,IDR,5.97e-05
+Canggu,Bali,Canggu,Beach,Dhaka,4600,Flight,400,6,Budget Hotel,50,7.0,Clean water site,15,1.0,Street Food,15.0,True,20,35,April-October,1.5,IDR,5.97e-05
+Labuan Bajo,Bali,Labuan Bajo,Beach,Dhaka,4600,Flight,400,6,Budget Hotel,50,7.0,Beach,15,1.0,Street Food,15.0,True,20,35,April-October,1.5,IDR,5.97e-05
+Broken Beach,Bali,Broken Beach,Beach,Dhaka,4600,Flight,400,6,Budget Hotel,50,7.0,Waves,15,1.0,Street Food,15.0,True,20,35,April-October,1.5,IDR,5.97e-05
+Angel's Billabong,Bali,Angel's Billabong,Beach,Dhaka,4600,Flight,400,6,Budget Hotel,50,7.0,Bilasi Beach,15,1.0,Street Food,15.0,True,20,35,April-October,1.5,IDR,5.97e-05
+Crystal Bay Nusa Penida,Bali,Crystal Bay Nusa Penida,Beach,Dhaka,4600,Flight,400,6,Budget Hotel,50,7.0,Clean Beach,15,1.0,Street Food,15.0,True,20,35,April-October,1.5,IDR,5.97e-05
+Paluang Cliff,Bali,Paluang Cliff,Beach,Dhaka,4600,Flight,400,6,Budget Hotel,50,7.0,Paluang Temple,15,1.0,Street Food,15.0,True,20,35,April-October,1.5,IDR,5.97e-05
+Pulau Klingking,Bali,Pulau Klingking,Beach,Dhaka,4600,Flight,400,6,Budget Hotel,50,7.0,Kling Beach,15,1.0,Street Food,15.0,True,20,35,April-October,1.5,IDR,5.97e-05
+Thousand Islands,Bali,Thousand Islands,Beach,Dhaka,4600,Flight,400,6,Budget Hotel,60,7.0,Thousand Beach,15,1.0,Street Food,15.0,True,20,35,April-October,1.5,IDR,5.97e-05
+Pantai prlilit,Bali,Pantai prlilit,Beach,Dhaka,4600,Flight,400,6,Budget Hotel,60,7.0,Sfari,15,1.0,Street Food,15.0,True,20,35,April-October,1.5,IDR,5.97e-05
+Suwehan Beach,Bali,Suwehan Beach,Beach,Dhaka,4600,Flight,400,6,Budget Hotel,60,7.0,Finns Beach Club,15,1.0,Street Food,15.0,True,20,35,April-October,1.5,IDR,5.97e-05
+Sanur,Bali,Sanur,Beach,Dhaka,4600,Flight,400,6,Budget Hotel,60,7.0,Rock Bar Sanur,15,1.0,Street Food,15.0,True,20,35,April-October,1.5,IDR,5.97e-05
+Denpasar,Bali,Denpasar,Beach,Dhaka,4600,Flight,400,6,Budget Hotel,60,7.0,Ulu CliffHouse,15,1.0,Street Food,15.0,True,20,35,April-October,1.5,IDR,5.97e-05
+Gianyar,Bali,Gianyar,Beach,Dhaka,4600,Flight,400,6,Budget Hotel,60,7.0,Sundays Beach Club,15,1.0,Street Food,15.0,True,20,35,April-October,1.5,IDR,5.97e-05
+Jimbaran,Bali,Jimbaran,Beach,Dhaka,4600,Flight,400,6,Budget Hotel,60,7.0,Savaya Jimbaran,15,1.0,Street Food,15.0,True,20,35,April-October,1.5,IDR,5.97e-05
+Kuta,Bali,Kuta,Beach,Dhaka,4600,Flight,400,6,Budget Hotel,60,7.0,Atlas Beach Club,15,1.0,Street Food,15.0,True,20,35,April-October,1.5,IDR,5.97e-05
+Tuban,Bali,Tuban,Beach,Dhaka,4600,Flight,400,6,Budget Hotel,60,7.0,Café Del Mar,15,1.0,Street Food,15.0,True,20,35,April-October,1.5,IDR,5.97e-05
+Badung Regency,Bali,Badung Regency,Beach,Dhaka,4600,Flight,400,6,Budget Hotel,60,7.0,The Edge Bali,15,1.0,Street Food,15.0,True,20,35,April-October,1.5,IDR,5.97e-05
+Legian,Bali,Legian,Beach,Dhaka,4600,Flight,400,6,Budget Hotel,60,7.0,Fish Market,15,1.0,Street Food,15.0,True,20,35,April-October,1.5,IDR,5.97e-05
+Amed,Bali,Amed,Beach,Dhaka,4600,Flight,400,6,Budget Hotel,60,7.0,Ubud Monkey Forest,15,1.0,Street Food,15.0,True,20,35,April-October,1.5,IDR,5.97e-05
+Bedugul,Bali,Bedugul,Beach,Dhaka,4600,Flight,400,6,Budget Hotel,60,7.0,Teggallalang,15,1.0,Street Food,15.0,True,20,35,April-October,1.5,IDR,5.97e-05
+Bangali Regency,Bali,Bangali Regency,Beach,Dhaka,4600,Flight,400,6,Budget Hotel,60,7.0,Ridge Waalk,15,1.0,Street Food,15.0,True,20,35,April-October,1.5,IDR,5.97e-05
+Serangan,Bali,Serangan,Beach,Dhaka,4600,Flight,400,6,Budget Hotel,60,7.0,Ubud ART market,15,1.0,Street Food,15.0,True,20,35,April-October,1.5,IDR,5.97e-05
+Kintamani,Bali,Kintamani,Beach,Dhaka,4600,Flight,400,6,Budget Hotel,60,7.0,Goa GoJAH,15,1.0,Street Food,15.0,True,20,35,April-October,1.5,IDR,5.97e-05
+Gili Air,Bali,Gili Air,Beach,Dhaka,4600,Flight,400,6,Budget Hotel,60,7.0,Blangsinga Waterfall,15,1.0,Street Food,15.0,True,20,35,April-October,1.5,IDR,5.97e-05
+Gili meno,Bali,Gili meno,Beach,Dhaka,4600,Flight,400,6,Budget Hotel,60,7.0,Bali Swing,15,1.0,Street Food,15.0,True,20,35,April-October,1.5,IDR,5.97e-05
+Lovina,Bali,Lovina,Beach,Dhaka,4600,Flight,400,6,Budget Hotel,60,7.0,Alas Harum Bali,15,1.0,Street Food,15.0,True,20,35,April-October,1.5,IDR,5.97e-05
+Tabanan,Bali,Tabanan,Beach,Dhaka,4600,Flight,400,6,Budget Hotel,60,7.0,Sacred Rice Terraces,15,1.0,Street Food,15.0,True,20,35,April-October,1.5,IDR,5.97e-05
+Amed,Bali,Amed,Beach,Dhaka,4600,Flight,400,6,Budget Hotel,60,7.0,Pura Kehen,15,1.0,Street Food,15.0,True,20,35,April-October,1.5,IDR,5.97e-05
+Candidasa,Bali,Candidasa,Beach,Dhaka,4600,Flight,400,6,Budget Hotel,60,7.0,Pura Tirta Empul,15,1.0,Street Food,15.0,True,20,35,April-October,1.5,IDR,5.97e-05
+Gili Trawangan,Bali,Gili Trawangan,Beach,Dhaka,4600,Flight,400,6,Budget Hotel,60,7.0,Agun Rai,15,1.0,Street Food,15.0,True,20,35,April-October,1.5,IDR,5.97e-05
+Benoa,Bali,Benoa,Beach,Dhaka,4600,Flight,400,6,Budget Hotel,60,7.0,ARMA,15,1.0,Street Food,15.0,True,20,35,April-October,1.5,IDR,5.97e-05
+Kerobokan,Bali,Kerobokan,Beach,Dhaka,4600,Flight,400,6,Budget Hotel,60,7.0,John Hardy Ubud workshop,15,1.0,Street Food,15.0,True,20,35,April-October,1.5,IDR,5.97e-05
+Sanur,Bali,Sanur,Beach,Dhaka,4600,Flight,400,6,Budget Hotel,60,7.0,Sanur Bweach,15,1.0,Street Food,15.0,True,20,35,April-October,1.5,IDR,5.97e-05
+Gianyar,Bali,Gianyar,Beach,Dhaka,4600,Flight,400,6,Budget Hotel,60,7.0,Gianyaur Sea Side,15,1.0,Street Food,15.0,True,20,35,April-October,1.5,IDR,5.97e-05
+Abiansemal,Bali,Abiansemal,Beach,Dhaka,4600,Flight,400,6,Budget Hotel,60,7.0,Bamboo Forest,15,1.0,Street Food,15.0,True,20,35,April-October,1.5,IDR,5.97e-05
+Blahbatuh,Bali,Blahbatuh,Beach,Dhaka,4600,Flight,400,6,Budget Hotel,60,7.0,Penglipuran Beach,15,1.0,Street Food,15.0,True,20,35,April-October,1.5,IDR,5.97e-05
+Tanjung Benoa,Bali,Tanjung Benoa,Beach,Dhaka,4600,Flight,400,6,Budget Hotel,60,7.0,Celuk Village,15,1.0,Street Food,15.0,True,20,35,April-October,1.5,IDR,5.97e-05
+Belgium,UK,Belgium,City,Dhaka,7700,Flight,1200,12,Budget Hotel,30,8.0,Whipsnade Zoo,15,4.0,Street Food,15.0,True,50,50,April-October,1.5,EUR,1.08
+Bulgaria,UK,Bulgaria,Historical,Dhaka,6500,Flight,1200,12,Budget Hotel,30,8.0,Woburn Abbey,15,4.0,Street Food,15.0,True,50,50,April-October,1.5,EUR,1.08
+Denmark,UK,Denmark,City,Dhaka,7000,Flight,1200,12,Budget Hotel,30,8.0,Windsor Castle,15,4.0,Street Food,15.0,True,50,50,April-October,1.5,EUR,1.08
+Estonia,UK,Estonia,Historical,Dhaka,6000,Flight,1200,12,Budget Hotel,30,8.0,Legoland,15,4.0,Street Food,15.0,True,50,50,April-October,1.5,EUR,1.08
+Hungary,UK,Hungary,City,Dhaka,7000,Flight,1200,12,Budget Hotel,30,8.0,SS Hungary,15,4.0,Street Food,15.0,True,50,50,April-October,1.5,EUR,1.08
+Latvia,UK,Latvia,Historical,Dhaka,4000,Flight,1200,12,Budget Hotel,30,8.0,Latvia  Musuem,15,4.0,Street Food,15.0,True,50,50,April-October,1.5,EUR,1.08
+Lithuania,UK,Lithuania,City,Dhaka,6500,Flight,1200,12,Budget Hotel,30,8.0,Blecthley Park,15,4.0,Street Food,15.0,True,50,50,April-October,1.5,EUR,1.08
+Malta,UK,Malta,Historical,Dhaka,7500,Flight,1200,12,Budget Hotel,30,8.0,Malta Scenic,15,4.0,Street Food,15.0,True,50,50,April-October,1.5,EUR,1.08
+Poland,UK,Poland,City,Dhaka,6500,Flight,1200,12,Budget Hotel,30,8.0,Waddesdon Manor,15,4.0,Street Food,15.0,True,50,50,April-October,1.5,EUR,1.08
+Romania,UK,Romania,Historical,Dhaka,6200,Flight,1200,12,Budget Hotel,30,8.0,Ely Cathedral,15,4.0,Street Food,15.0,True,50,50,April-October,1.5,EUR,1.08
+Slovakia,UK,Slovakia,City,Dhaka,6900,Flight,1200,12,Budget Hotel,30,8.0,Slovakia Zoo,15,4.0,Street Food,15.0,True,50,50,April-October,1.5,EUR,1.08
+Slovenia,UK,Slovenia,Historical,Dhaka,7000,Flight,1200,12,Budget Hotel,30,8.0,Slovenia Nature Sides,15,4.0,Street Food,15.0,True,50,50,April-October,1.5,EUR,1.08
+Sweden,UK,Sweden,City,Dhaka,7000,Flight,1200,12,Budget Hotel,30,8.0,Chestor Mountains,15,4.0,Street Food,15.0,True,50,50,April-October,1.5,EUR,1.08
+Ukraine,UK,Ukraine,Historical,Dhaka,6500,Flight,1200,12,Budget Hotel,30,8.0,Millitary Museums,15,4.0,Street Food,15.0,True,50,50,April-October,1.5,EUR,1.08
+Belarus,UK,Belarus,City,Dhaka,7000,Flight,1200,12,Budget Hotel,30,8.0,Eden Project,15,4.0,Street Food,15.0,True,50,50,April-October,1.5,EUR,1.08
+Czech Republic,UK,Czech Republic,City,Dhaka,7700,Flight,1200,12,Budget Hotel,30,8.0,St Micheal Mount,15,4.0,Street Food,15.0,True,50,50,April-October,1.5,EUR,1.08
+Serbia,UK,Serbia,Historical,Dhaka,6200,Flight,1200,12,Budget Hotel,30,8.0,Hadrians Wall,15,4.0,Street Food,15.0,True,50,50,April-October,1.5,EUR,1.08
+Moldova,UK,Moldova,City,Dhaka,6900,Flight,1200,12,Budget Hotel,30,8.0,Chatswworth House,15,4.0,Street Food,15.0,True,50,50,April-October,1.5,EUR,1.08
+Albania,UK,Albania,Historical,Dhaka,7000,Flight,1200,12,Budget Hotel,30,8.0,Albania ECO Parks,15,4.0,Street Food,15.0,True,50,50,April-October,1.5,EUR,1.08
+Turkey,UK,Turkey,City,Dhaka,6500,Flight,1200,12,Budget Hotel,30,8.0,Historical pyramids,15,4.0,Street Food,15.0,True,50,50,April-October,1.5,EUR,1.08
+Monaco,UK,Monaco,Historical,Dhaka,7000,Flight,1200,12,Budget Hotel,30,8.0,Lulworth Cove,15,4.0,Street Food,15.0,True,50,50,April-October,1.5,EUR,1.08
+Armenia,UK,Armenia,City,Dhaka,7700,Flight,1200,12,Budget Hotel,30,8.0,Corfe Castle,15,4.0,Street Food,15.0,True,50,50,April-October,1.5,EUR,1.08
+Cyprus,UK,Cyprus,Historical,Dhaka,7000,Flight,1200,12,Budget Hotel,30,8.0,Mountains,15,4.0,Street Food,15.0,True,50,50,April-October,1.5,EUR,1.08
+United Kingdom,UK,United Kingdom,City,Dhaka,6900,Flight,1200,12,Budget Hotel,30,8.0,University Of Cambridge,15,4.0,Street Food,15.0,True,50,50,April-October,1.5,EUR,1.08
+Liberland,UK,Liberland,Historical,Dhaka,7000,Flight,1200,12,Budget Hotel,30,8.0,Colchester Castle,15,4.0,Street Food,15.0,True,50,50,April-October,1.5,EUR,1.08
+Madinah,Saudi Arabia,Madinah,Nature,Dhaka,5200,Flight,400,6,Budget Hotel,20,5.0,Al Mashjid an Nabawi,30,3.0,Street Food,5.0,True,50,20,November-February,1.2,SAR,0.2666
+Riyadh,Saudi Arabia,Riyadh,Nature,Dhaka,5500,Flight,400,6,Budget Hotel,20,5.0,Al Murabba Palace,30,3.0,Street Food,5.0,True,50,20,November-February,1.2,SAR,0.2666
+Dammam,Saudi Arabia,Dammam,Nature,Dhaka,5000,Flight,400,6,Budget Hotel,20,5.0,Wdi Hanifah,30,3.0,Street Food,5.0,True,50,20,November-February,1.2,SAR,0.2666
+Makkah,Saudi Arabia,Makkah,Nature,Dhaka,5200,Flight,400,6,Budget Hotel,20,5.0,Islam's Holiest City,30,3.0,Street Food,5.0,True,50,20,November-February,1.2,SAR,0.2666
+Taif,Saudi Arabia,Taif,Nature,Dhaka,5500,Flight,400,6,Budget Hotel,20,5.0,Jabal AL Nour,30,3.0,Street Food,5.0,True,50,20,November-February,1.2,SAR,0.2666
+Tabuk,Saudi Arabia,Tabuk,Nature,Dhaka,5900,Flight,400,6,Budget Hotel,20,5.0,King Fahd's Fountain,30,3.0,Street Food,5.0,True,50,20,November-February,1.2,SAR,0.2666
+Jeddah,Saudi Arabia,Jeddah,Nature,Dhaka,5000,Flight,400,6,Budget Hotel,20,5.0,Fakieh Aquarium,30,3.0,Street Food,5.0,True,50,20,November-February,1.2,SAR,0.2666
+Hail,Saudi Arabia,Hail,Nature,Dhaka,5700,Flight,400,6,Budget Hotel,20,5.0,Red Sea Mall,30,3.0,Street Food,5.0,True,50,20,November-February,1.2,SAR,0.2666
+Yanbu,Saudi Arabia,Yanbu,Nature,Dhaka,5500,Flight,400,6,Budget Hotel,20,5.0,Floating Mosquww,30,3.0,Street Food,5.0,True,50,20,November-February,1.2,SAR,0.2666
+Abha,Saudi Arabia,Abha,Nature,Dhaka,5200,Flight,400,6,Budget Hotel,20,5.0,Al Balad,30,3.0,Street Food,5.0,True,50,20,November-February,1.2,SAR,0.2666
+Sakaka,Saudi Arabia,Sakaka,Nature,Dhaka,5000,Flight,400,6,Budget Hotel,20,5.0,Mina,30,3.0,Street Food,5.0,True,50,20,November-February,1.2,SAR,0.2666
+Jazan,Saudi Arabia,Jazan,Nature,Dhaka,5200,Flight,400,6,Budget Hotel,20,5.0,Mount Uhud,30,3.0,Street Food,5.0,True,50,20,November-February,1.2,SAR,0.2666
+Arar,Saudi Arabia,Arar,Nature,Dhaka,5600,Flight,400,6,Budget Hotel,20,5.0,Dar Al Arar Musuem,30,3.0,Street Food,5.0,True,50,20,November-February,1.2,SAR,0.2666
+Najran,Saudi Arabia,Narjan,Nature,Dhaka,5500,Flight,400,6,Budget Hotel,20,5.0,Al Noor Mall,30,3.0,Street Food,5.0,True,50,20,November-February,1.2,SAR,0.2666
+Al Bahah,Saudi Arabia,Al Bahah,Nature,Dhaka,5200,Flight,400,6,Budget Hotel,20,5.0,Yanbu AL Bahr Beach,30,3.0,Street Food,5.0,True,50,20,November-February,1.2,SAR,0.2666
+Sharjah,UAE,Sharjah,Nature,Dhaka,3550,Flight,500,7,Budget Hotel,60,7.0,Al Majaz Waterfront,30,4.0,Street Food,5.0,True,50,20,November-February,2.0,AED,3.67
+Ajman,UAE,Ajman,Nature,Dhaka,3600,Flight,500,7,Budget Hotel,30,7.0,Ajman Museum,15,4.0,Street Food,5.0,True,50,20,November-February,2.0,AED,3.67
+Umm Al-Quwain,UAE,Umm Al-Quwain,Nature,Dhaka,3500,Flight,500,7,Budget Hotel,30,7.0,Al Sinniyah Island,30,4.0,Street Food,5.0,True,50,20,November-February,2.0,AED,3.67
+Fujairah,UAE,Fujairah,Nature,Dhaka,3500,Flight,500,7,Budget Hotel,30,7.0,Fujairah Fort,30,4.0,Street Food,5.0,True,50,20,November-February,2.0,AED,3.67
+Qatar,Arab,Qatar,City,Dhaka,4100,Flight,500,7,Budget Hotel,30,7.0,Souf Waqif,30,4.0,Street Food,5.0,True,50,20,November-February,2.0,QAR,3.64
+Doha,Arab,Doha,City,Dhaka,4100,Flight,500,7,Budget Hotel,30,7.0,The Pearl Qatar,30,4.0,Street Food,5.0,True,50,20,November-February,2.0,QAR,3.64
+Kuwait,Kuwait,Kuwait,City,Dhaka,4500,Flight,1000,7,Budget Hotel,30,7.0,"Kuwait Towers,Grand Mosque",30,4.0,Street Food,5.0,True,50,20,November-February,2.0,KWD,0.3
+Bahrain,Bahrain,Bahrain,City,Dhaka,4200,Flight,1000,7,Budget Hotel,30,7.0,Baharain Fort,30,4.0,Street Food,5.0,True,50,20,November-February,2.0,BHD,0.38
+Oman,Oman,Oman,City,Dhaka,3500,Flight,800,7,Budget Hotel,45,7.0,Nizwa,84,50.0,Street Food,5.0,True,50,20,November-February,2.0,QMR,0.38
+Muscat,Oman,Muscat,City,Dhaka,3500,Flight,800,7,Budget Hotel,45,7.0,Muscat,84,50.0,Street Food,5.0,True,50,20,November-February,2.0,QMR,0.38
+Manama,Bahrain,Manama,City,Dhaka,4200,Flight,1000,7,Budget Hotel,30,7.0,Muharraq,30,4.0,Street Food,5.0,True,50,20,November-February,2.0,BHD,0.38
+Nigeria,Africa,Nigeria,City,Dhaka,8500,Flight,1000,6,Budget Hotel,20,5.0,Lagos,30,3.0,Street Food,5.0,True,50,20,October-December,1.5,NGN,1500.28
+Ethiopia,Africa,Ethiopia,City,Dhaka,5500,Flight,1000,6,Budget Hotel,10,7.0,Addis Ababa,30,4.0,Street Food,5.0,True,50,20,October-December,1.5,ETB,114.08
+Egypt,Africa,Egypt,City,Dhaka,6500,Flight,1000,6,Budget Hotel,10,7.0,Cairo,30,4.0,Street Food,5.0,True,25,20,October-December,1.5,EGP,48.43
+DR Congo,Africa,DR Congo,City,Dhaka,9000,Flight,1000,6,Budget Hotel,10,7.0,Kinshasa,30,4.0,Street Food,5.0,True,50,20,October-December,1.5,CDF,2847.26
+Tanzania,Africa,Tanzania,City,Dhaka,6500,Flight,1000,6,Budget Hotel,10,7.0,Zznzibar,30,4.0,Street Food,5.0,True,50,20,October-December,1.5,TZS,2707.95
+South Africa,Africa,South Africa,City,Dhaka,9500,Flight,1000,6,Budget Hotel,10,7.0,Cape Town Stadium,30,4.0,Street Food,5.0,True,50,20,October-December,1.5,ZAR,17.65
+Kenya,Africa,Kenya,City,Dhaka,6500,Flight,1000,6,Budget Hotel,10,7.0,Kenya zoo,30,4.0,Street Food,5.0,True,101,20,October-December,1.5,KES,129.19
+Sudan,Africa,Sudan,City,Dhaka,6500,Flight,1000,6,Budget Hotel,10,7.0,Sudan hills,30,4.0,Street Food,5.0,True,50,20,October-December,1.5,SDG,454.92
+Uganda,Africa,Uganda,City,Dhaka,6500,Flight,1000,6,Budget Hotel,10,7.0,Uganda SeaSide,30,4.0,Street Food,5.0,True,50,20,October-December,1.5,UGX,3715.56
+Algeria,Africa,Algeria,Nature,Dhaka,8000,Flight,1000,6,Budget Hotel,10,7.0,Algiers,30,4.0,Street Food,5.0,True,50,20,October-December,1.5,DZD,132.44
+Angola,Africa,Angola,Nature,Dhaka,8500,Flight,1000,6,Budget Hotel,10,7.0,Luanda,30,4.0,Street Food,5.0,True,50,20,October-December,1.5,AOA,940.59
+Morocco,Africa,Morocco,Nature,Dhaka,9000,Flight,1000,6,Budget Hotel,10,7.0,MarrraKech Mall,30,4.0,Street Food,5.0,True,50,20,October-December,1.5,MAD,9.76
+Mozambique,Africa,Mozambique,Nature,Dhaka,7500,Flight,1000,6,Budget Hotel,10,7.0,Maputo City,30,4.0,Street Food,5.0,True,50,20,October-December,1.5,MZN,63.92
+Ghana,Africa,Ghana,Nature,Dhaka,9000,Flight,1000,6,Budget Hotel,10,7.0,Accra Tower,30,4.0,Street Food,5.0,True,50,20,October-December,1.5,GHS,15.53
+Madagascar,Africa,Madagascar,Nature,Dhaka,6500,Flight,1000,6,Budget Hotel,10,7.0,Antananarivo river,30,4.0,Street Food,5.0,True,50,20,October-December,1.5,MGA,4547.53
+Cote d'Ivoire,Africa,Cote d'Ivoire,Nature,Dhaka,9500,Flight,1000,6,Budget Hotel,10,7.0,Historical Sites,30,4.0,Street Food,5.0,True,50,20,April-October,1.5,XOF,589.81
+Cameroon,Africa,Cameroon,Nature,Dhaka,8500,Flight,1000,6,Budget Hotel,10,7.0,Yaounde Park,30,4.0,Street Food,5.0,True,50,20,April-October,1.5,XAF,589.81
+Niger,Africa,Niger,Nature,Dhaka,8500,Flight,1000,6,Budget Hotel,10,7.0,Niamey Mall,20,4.0,Street Food,5.0,True,50,20,April-October,1.5,XOF,589.81
+Mali,Africa,Mali,Nature,Dhaka,9000,Flight,1000,6,Budget Hotel,10,7.0,Bmako Garden,20,4.0,Street Food,5.0,True,50,20,April-October,1.5,XOF,589.81
+Burkina Faso,Africa,Burkina Faso,City,Dhaka,8500,Flight,1000,6,Budget Hotel,10,5.0,Oaugadougou Park,20,3.0,Street Food,5.0,True,50,20,April-October,1.5,XOF,589.81
+Malawi,Africa,Malawi,City,Dhaka,7500,Flight,1000,6,Budget Hotel,10,5.0,Lilongwe city,20,3.0,Street Food,5.0,True,50,20,April-October,1.5,MWK,1043.02
+Zambia,Africa,Zambia,City,Dhaka,7800,Flight,1000,6,Budget Hotel,10,5.0,Lusaka Eco Park,20,3.0,Street Food,5.0,True,50,20,April-October,1.5,ZMW,20.21
+Chad,Africa,Chad,City,Dhaka,7200,Flight,1000,6,Budget Hotel,10,5.0,N'Djamena port,20,3.0,Street Food,5.0,True,50,20,April-October,1.5,XAF,606.57
+Somalia,Africa,Somalia,City,Dhaka,5500,Flight,1000,6,Budget Hotel,10,5.0,Risky for Visit,20,3.0,Street Food,5.0,True,50,20,April-October,1.5,SOS,570.77
+Senegal,Africa,Senegal,City,Dhaka,9500,Flight,1000,6,Budget Hotel,10,5.0,Dakar Hills,20,3.0,Street Food,5.0,True,50,20,April-October,1.5,XOF,589.81
+Zimbabwe,Africa,Zimbabwe,City,Dhaka,8500,Flight,1000,6,Budget Hotel,10,5.0,Harare Mountains,20,3.0,Street Food,5.0,True,50,20,May-September,1.5,ZWL,3509.17
+Guinea,Africa,Guinea,City,Dhaka,9000,Flight,1000,6,Budget Hotel,10,5.0,conakry park,20,3.0,Street Food,5.0,True,50,20,May-September,1.5,GNF,8509.0
+Benin,Africa,Benin,City,Dhaka,8000,Flight,1000,6,Budget Hotel,10,5.0,cotonou city,20,3.0,Street Food,5.0,True,50,20,May-September,1.5,XOF,589.81
+Rwanda,Africa,Rwanda,City,Dhaka,7000,Flight,1000,6,Budget Hotel,10,5.0,kigali hills,20,3.0,Street Food,5.0,True,50,20,May-September,1.5,RWF,1159.6
+Burundi,Africa,Burundi,City,Dhaka,7200,Flight,1000,6,Budget Hotel,10,5.0,bujumbura,20,3.0,Street Food,5.0,True,50,20,May-September,1.5,BIF,2574.05
+Tunisia,Africa,Tunisia,City,Dhaka,8000,Flight,1000,6,Budget Hotel,10,5.0,tunis mountains,20,3.0,Street Food,5.0,True,50,20,May-September,1.5,TND,3.04
+South Sudan,Africa,South Sudan,City,Dhaka,6500,Flight,1000,6,Budget Hotel,10,5.0,juba river,20,3.0,Street Food,5.0,True,50,20,May-September,1.5,SSP,568.5
+Togo,Africa,Togo,City,Dhaka,8200,Flight,1000,6,Budget Hotel,10,5.0,Lome sites,20,3.0,Street Food,5.0,True,50,20,May-September,1.5,XOF,589.81
+Sierra Leone,Africa,Sierra Leone,City,Dhaka,9200,Flight,1000,6,Budget Hotel,10,5.0,freetown roadside,20,5.0,Street Food,5.0,True,50,20,May-September,1.5,SLL,19995.0
+Libya,Africa,Libya,City,Dhaka,7500,Flight,1000,6,Budget Hotel,10,5.0,tripoli,20,5.0,Street Food,5.0,True,50,20,May-September,1.5,LYD,4.77
+Congo,Africa,Congo,City,Dhaka,8000,Flight,1000,6,Budget Hotel,10,5.0,brazzaville lake,25,5.0,Street Food,5.0,True,50,20,May-September,1.5,XAF,606.57
+Liberia,Africa,Liberia,City,Dhaka,9000,Flight,1000,6,Budget Hotel,10,5.0,Monrovia hills,25,5.0,Street Food,5.0,True,50,20,May-September,1.5,LRD,259.22
+Central African Republic,Africa,Central African Republic,City,Dhaka,8500,Flight,1000,6,Budget Hotel,10,5.0,Bangui area,25,5.0,Street Food,5.0,True,50,20,May-September,1.5,XAF,606.57
+Mauritania,Africa,Mauritania,City,Dhaka,8500,Flight,1000,6,Budget Hotel,10,5.0,Noakachott park,25,5.0,Street Food,5.0,True,50,20,May-September,1.5,MRU,37.63
+Eritrea,Africa,Eritrea,Historical,Dhaka,9000,Flight,1000,6,Budget Hotel,10,5.0,Asmara riverview,25,5.0,Street Food,5.0,True,50,20,May-September,1.5,ERN,15.0
+Namibia,Africa,Namibia,Historical,Dhaka,6500,Flight,1000,6,Budget Hotel,10,5.0,Windoek park,25,5.0,Street Food,5.0,True,50,20,May-September,1.5,NAD,17.56
+Gambia,Africa,Gambia,Historical,Dhaka,9000,Flight,1000,6,Budget Hotel,10,5.0,Banjul Hills,25,5.0,Street Food,5.0,True,50,20,May-September,1.5,GMD,60.81
+Gabon,Africa,Gabon,Historical,Dhaka,8500,Flight,1000,6,Budget Hotel,10,5.0,Libreville geid,25,5.0,Street Food,5.0,True,50,20,May-September,1.5,XAF,606.57
+Botswana,Africa,Botswana,Historical,Dhaka,8500,Flight,1000,6,Budget Hotel,10,5.0,Goborone Area,25,5.0,Street Food,5.0,True,50,20,May-September,1.5,BWP,13.06
+Palau,Palau,Koror,Island,Dhaka,5100,Flight,1200,10,"Beach Bungalow, Guesthouse",90,6.0,"Jellyfish Lake, Rock Islands Snorkeling",50,4.0,"Local Seafood Stalls, Island Cafes",25.0,True,0,30,November-April,1.5,USD,1.0

@@ -1,0 +1,4 @@
+Test Case,Precision@5,Recall@5,F1-Score,Runtime (s)
+Beach + Flight + 7 Days,1.0,0.0455,0.087,0.009932
+City + Flight + 5 Days,1.0,0.0195,0.0382,0.001997
+Nature + Bus + 3 Days,1.0,0.0244,0.0476,0.001891
